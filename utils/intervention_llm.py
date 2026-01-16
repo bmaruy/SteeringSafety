@@ -70,6 +70,8 @@ class InterventionLLM(LLM, ABC):
         try:
             if hasattr(self.llm.model, 'model') and hasattr(self.llm.model.model, 'layers'):
                 layers = self.llm.model.model.layers
+            elif hasattr(self.llm.model, 'gpt_neox') and hasattr(self.llm.model.gpt_neox, 'layers'):
+                layers = self.llm.model.gpt_neox.layers  # Add this line for GPT-NeoX
             elif hasattr(self.llm.model, 'layers'):
                 layers = self.llm.model.layers
             else:
