@@ -16,7 +16,9 @@ authors = [
 ]
 license = {text="MIT"}
 dependencies = [
-  "torch==2.6.0",
+  "torch==2.4.1",  # Changed from 2.6.0
+  "torchvision==0.19.1",  # Added - must match torch version
+  "torchaudio==2.4.1",  # Added - must match torch version
   "transformers==4.51.3",
   "datasets==3.4.1",
   "numpy==2.2.4",
