@@ -169,6 +169,21 @@ class GPTNeoX(InterventionLLM):
     )
     """
     
+    def __init__(self, model_name: str, **lm_kwargs):
+        super().__init__(model_name, **lm_kwargs)
+        
+        # Set a custom chat template if none exists
+        if self.llm.tokenizer.chat_template is None:
+            # Use ChatML format (common for many models)
+            self.llm.tokenizer.chat_template = (
+                "{% for message in messages %}"
+                "{{'<|im_start|>' + message['role'] + '\n' + message['content'] + '<|im_end|>' + '\n'}}"
+                "{% endfor %}"
+                "{% if add_generation_prompt %}"
+                "{{ '<|im_start|>assistant\n' }}"
+                "{% endif %}"
+            )
+    
     @staticmethod
     def get_mapping():
         return {
@@ -178,5 +193,5 @@ class GPTNeoX(InterventionLLM):
 
     @property
     def has_chat_template(self):
-        # GPT-NeoX models typically don't have a chat template
-        return False
+        # Now we're setting one, so return True
+        return True
