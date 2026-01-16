@@ -117,28 +117,28 @@ class InterventionLLM(LLM, ABC):
         return text
 
     def get_location_str(self, location: ActivationLocation) -> str:
-        """Convert an ActivationLocation to nnsight format. This will be overriden for each LLM family."""
-        # Note we can use 'attn' and 'mlp' instead of the mapping bc we are dealing with an ActivationLocation not components within the model.
-        parts = ["model", "layers", location.layer]
+        """Convert an ActivationLocation to a string representation."""
+        # For GPT-NeoX, the base path is different
+        if hasattr(self.llm.model, 'gpt_neox'):
+            parts = ["gpt_neox", "layers", location.layer]
+        elif hasattr(self.llm.model, 'model'):
+            parts = ["model", "layers", location.layer]
+        else:
+            parts = ["layers", location.layer]
+        
         if location.component:
             parts.append(type(self).get_mapping()[location.component])
         if location.attr:
             attr = location.attr
             parts.append(attr)
         return ".".join([str(part) if isinstance(part, str) else f"[{part}]" for part in parts])
-        # We know 'output' returns a tuple if component is None
-        if location.attr == "output" and location.component in [None, "attn"]:
-            parts.append(0) # Access the first element of the tuple, which are the activations.
-        elif (location.attr in ["output"] and location.component == "mlp") or (location.attr == "input" and location.component is None):
-            pass  # Not a tuple; activations passed directly
-        else:  # currently this is 'input' for 'attn' and 'mlp'
-            raise ValueError(f"Unsupported component/attr combination: {location.component}/{location.attr}")
-        return parts
 
     def get_module_from_location(self, location: ActivationLocation) -> torch.nn.Module:
         """Convert an ActivationLocation to the corresponding PyTorch module."""
         if hasattr(self.llm.model, 'model') and hasattr(self.llm.model.model, 'layers'):
             layers = self.llm.model.model.layers
+        elif hasattr(self.llm.model, 'gpt_neox') and hasattr(self.llm.model.gpt_neox, 'layers'):
+            layers = self.llm.model.gpt_neox.layers  # For GPT-NeoX architecture
         elif hasattr(self.llm.model, 'layers'):
             layers = self.llm.model.layers
         else:

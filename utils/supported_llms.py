@@ -138,3 +138,45 @@ class Gemma2(InterventionLLM):
     @property
     def has_chat_template(self):
         return True
+
+class GPTNeoX(InterventionLLM):
+    """
+    GPTNeoXForCausalLM(
+      (gpt_neox): GPTNeoXModel(
+        (embed_in): Embedding(50304, 4096)
+        (emb_dropout): Dropout(p=0.0, inplace=False)
+        (layers): ModuleList(
+          (0-31): 32 x GPTNeoXLayer(
+            (input_layernorm): LayerNorm((4096,), eps=1e-05, elementwise_affine=True)
+            (post_attention_layernorm): LayerNorm((4096,), eps=1e-05, elementwise_affine=True)
+            (post_attention_dropout): Dropout(p=0.0, inplace=False)
+            (post_mlp_dropout): Dropout(p=0.0, inplace=False)
+            (attention): GPTNeoXAttention(
+              (query_key_value): Linear(in_features=4096, out_features=12288, bias=True)
+              (dense): Linear(in_features=4096, out_features=4096, bias=True)
+            )
+            (mlp): GPTNeoXMLP(
+              (dense_h_to_4h): Linear(in_features=4096, out_features=16384, bias=True)
+              (dense_4h_to_h): Linear(in_features=16384, out_features=4096, bias=True)
+              (act): GELUActivation()
+            )
+          )
+        )
+        (final_layer_norm): LayerNorm((4096,), eps=1e-05, elementwise_affine=True)
+        (rotary_emb): GPTNeoXRotaryEmbedding()
+      )
+      (embed_out): Linear(in_features=4096, out_features=50304, bias=False)
+    )
+    """
+    
+    @staticmethod
+    def get_mapping():
+        return {
+            "attn": "attention",  # GPT-NeoX uses 'attention' not 'self_attn'
+            "mlp": "mlp",
+        }
+
+    @property
+    def has_chat_template(self):
+        # GPT-NeoX models typically don't have a chat template
+        return False
