@@ -183,6 +183,35 @@ class GPTNeoX(InterventionLLM):
                 "{{ '<|im_start|>assistant\n' }}"
                 "{% endif %}"
             )
+            # self.llm.tokenizer.chat_template = (
+            #     "{% for message in messages %}"
+            #     "{{ message['role'] | capitalize }}: {{ message['content'] }}\n"
+            #     "{% endfor %}"
+            #     "{% if add_generation_prompt %}"
+            #     "Assistant: "
+            #     "{% endif %}"
+            # )
+            # self.llm.tokenizer.chat_template = (
+            #     "{% for message in messages %}"
+            #     "{% if message['role'] == 'user' %}"
+            #     "### Instruction:\n{{ message['content'] }}\n\n"
+            #     "{% elif message['role'] == 'assistant' %}"
+            #     "### Response:\n{{ message['content'] }}\n\n"
+            #     "{% endif %}"
+            #     "{% endfor %}"
+            #     "{% if add_generation_prompt %}"
+            #     "### Response:\n"
+            #     "{% endif %}"
+            # )
+            # self.llm.tokenizer.chat_template = (
+            #     "{% for message in messages %}"
+            #     "{% if message['role'] == 'user' %}"
+            #     "[INST] {{ message['content'] }} [/INST]"
+            #     "{% elif message['role'] == 'assistant' %}"
+            #     "{{ message['content'] }}"
+            #     "{% endif %}"
+            #     "{% endfor %}"
+            # )
     
     @staticmethod
     def get_mapping():
