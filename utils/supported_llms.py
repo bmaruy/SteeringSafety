@@ -174,35 +174,27 @@ class GPTNeoX(InterventionLLM):
         
         # Set a custom chat template if none exists
         if self.llm.tokenizer.chat_template is None:
-            # Use ChatML format (common for many models)
+            # simple
             self.llm.tokenizer.chat_template = (
                 "{% for message in messages %}"
-                "{{'<|im_start|>' + message['role'] + '\n' + message['content'] + '<|im_end|>' + '\n'}}"
+                "{{ message['role'] | capitalize }}: {{ message['content'] }}\n"
                 "{% endfor %}"
                 "{% if add_generation_prompt %}"
-                "{{ '<|im_start|>assistant\n' }}"
+                "Assistant: "
                 "{% endif %}"
             )
+
+            # Use ChatML format (common for many models)
             # self.llm.tokenizer.chat_template = (
             #     "{% for message in messages %}"
-            #     "{{ message['role'] | capitalize }}: {{ message['content'] }}\n"
+            #     "{{'<|im_start|>' + message['role'] + '\n' + message['content'] + '<|im_end|>' + '\n'}}"
             #     "{% endfor %}"
             #     "{% if add_generation_prompt %}"
-            #     "Assistant: "
+            #     "{{ '<|im_start|>assistant\n' }}"
             #     "{% endif %}"
             # )
-            # self.llm.tokenizer.chat_template = (
-            #     "{% for message in messages %}"
-            #     "{% if message['role'] == 'user' %}"
-            #     "### Instruction:\n{{ message['content'] }}\n\n"
-            #     "{% elif message['role'] == 'assistant' %}"
-            #     "### Response:\n{{ message['content'] }}\n\n"
-            #     "{% endif %}"
-            #     "{% endfor %}"
-            #     "{% if add_generation_prompt %}"
-            #     "### Response:\n"
-            #     "{% endif %}"
-            # )
+            
+            # inst / mistral and llama
             # self.llm.tokenizer.chat_template = (
             #     "{% for message in messages %}"
             #     "{% if message['role'] == 'user' %}"
