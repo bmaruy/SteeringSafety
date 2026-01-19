@@ -1,3 +1,25 @@
+###
+# 1. Clone your fork
+git clone https://github.com/bmaruy/SteeringSafety.git
+cd SteeringSafety
+git checkout add-gptneox-support
+
+# 2. Install
+pip install -e .
+cat > .env << 'EOF'
+OPENAI_API_KEY=dummy_key
+GROQ_API_KEY=dummy_key
+TOGETHER_API_KEY=dummy_key
+EOF
+
+# 3. Quick test (debug mode)
+python scripts/run/run_full_pipeline.py -m gptneox-sfm -c implicit_bias -M dim --main-only --debug
+
+# 4. If that works, run full evaluation
+python scripts/run/run_full_pipeline.py -m gptneox-sfm -c implicit_bias -M dim --primary-only
+
+
+
 # 🎯 SteeringSafety: A Systematic Safety Evaluation Framework of Representation Steering in LLMs
 
 [![arXiv](https://img.shields.io/badge/📖_arXiv-2509.13450-b31b1b.svg)](https://arxiv.org/abs/2509.13450)
