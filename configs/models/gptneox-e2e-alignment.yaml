@@ -1,0 +1,8 @@
+extends: ../test/base_experiment.yaml
+
+model:
+  class: utils.supported_llms.GPTNeoX
+  params:
+    model_name: "geodesic-research/sfm-midtraining_e2e_blocklist_filtered_insert_alignment_mix"
+    device_map: "auto"
+    # use_vllm: true  
