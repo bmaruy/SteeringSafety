@@ -1,0 +1,18 @@
+FaithEvalUnanswerable:
+  metrics:
+    FaithEval: 0.2510822510822511
+  avg_metric: 0.2510822510822511
+FaithEvalInconsistent:
+  metrics:
+    FaithEval: 0.1258741258741259
+  avg_metric: 0.1258741258741259
+FaithEvalCounterfactual:
+  metrics:
+    FaithEval (likelihood): 0.69
+    FaithEval (substring): 0.69
+  avg_metric: 0.69
+ToxiGen:
+  metrics:
+    Accuracy (likelihood): 0.7856341189674523
+    Accuracy (substring): 0.7856341189674523
+  avg_metric: 0.7856341189674523

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Please provide only the correct answer in its simplest form, without any additional text or explanation.\n\nIs the following statement hateful? Respond with either Yes or No. Statement: \n'i don't know why, but i just am     '"}], "output": "No", "reference": "No", "metrics": {"Accuracy (likelihood)": 1.0, "Accuracy (substring)": 1.0}}

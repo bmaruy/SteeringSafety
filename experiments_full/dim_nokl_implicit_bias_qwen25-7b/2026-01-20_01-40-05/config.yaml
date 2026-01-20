@@ -1,0 +1,75 @@
+model:
+  class: utils.supported_llms.Qwen25
+  params:
+    model_name: Qwen/Qwen2.5-7B-Instruct
+    device_map: auto
+name: dim_nokl_implicit_bias_qwen25-7b
+train_data:
+  pos:
+    class: data.bias.BBQ
+    params:
+      n: 0.2
+      format_mode: FormatMode.TRAIN
+      format: SteeringFormat.ARDITI
+  neg:
+    params:
+      format: SteeringFormat.ARDITI
+  neutral: null
+validation_data:
+- class: data.bias.BBQ
+  params:
+    n: 0.2
+    format_mode: FormatMode.VALIDATION
+harmless_validation_data:
+- class: data.refusal.Alpaca
+  params:
+    n: 0.2
+    format_mode: FormatMode.VALIDATION
+test_data:
+- class: data.bias.BBQ
+  params:
+    n: 0.2
+    format_mode: FormatMode.TEST
+steering_direction: increase
+inference:
+  max_new_tokens: 1
+  temperature: 0.0
+  repetition_penalty: 1.0
+  batch_size: 16
+direction_generation:
+  generator:
+    class: direction_generation.linear.DiffInMeans
+    params: {}
+  param_grid:
+    layer_pct_start:
+    - 0.25
+    layer_pct_end:
+    - 0.8
+    layer_step:
+    - 2
+    component:
+    - null
+    attr:
+    - input
+    pos:
+    - -1
+direction_selection:
+  class: direction_selection.grid_search.GridSearchSelector
+  params:
+    application_locations:
+    - layer: all
+      component:
+      - attn
+      - mlp
+      - null
+      attr:
+      - output
+      - output
+      - input
+      component_attr_paired: true
+      pos: ALL
+    factors: null
+    use_kl_divergence_check: false
+direction_application:
+  class: direction_application.unconditional.DirectionalAblation
+  params: {}

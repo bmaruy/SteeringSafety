@@ -1,0 +1,9 @@
+direction_idx,location_idx,factor,score,kl_divergence,passes_kl_threshold,component,attr,pos,layer
+0,0,,0.8256410256410256,,True,,input,-1,7
+1,0,,0.8179487179487179,,True,,input,-1,9
+2,0,,0.8589743589743589,,True,,input,-1,11
+3,0,,0.7871794871794872,,True,,input,-1,13
+4,0,,0.8692307692307693,,True,,input,-1,15
+5,0,,0.8153846153846154,,True,,input,-1,17
+6,0,,0.44871794871794873,,True,,input,-1,19
+7,0,,0.7410256410256411,,True,,input,-1,21
