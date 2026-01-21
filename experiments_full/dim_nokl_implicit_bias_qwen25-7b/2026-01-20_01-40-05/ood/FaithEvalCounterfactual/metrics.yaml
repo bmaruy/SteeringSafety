@@ -1,4 +1,0 @@
-metrics:
-  FaithEval (likelihood): 0.64
-  FaithEval (substring): 0.66
-avg_metric: 0.66
