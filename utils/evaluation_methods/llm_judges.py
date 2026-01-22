@@ -53,7 +53,9 @@ class LlamaGuard(EvalMethod):
         # Model name might vary by provider
         # Groq uses lowercase "llama-guard-4-12b"
         refusal_method = os.getenv("REFUSAL_EVAL_METHOD", "VLLM").upper()
-        if refusal_method == "GROQ":
+        if refusal_method == "OPENAI":
+            model_name = os.getenv("REFUSAL_EVAL_MODEL", "gpt-4o-mini")
+        elif refusal_method == "GROQ":
             model_name = "meta-llama/llama-guard-4-12b"  # Groq uses lowercase
         else:
             model_name = "meta-llama/Llama-Guard-4-12B"  # VLLM/Together/Llama use this
