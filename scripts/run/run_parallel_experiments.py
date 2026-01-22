@@ -15,6 +15,10 @@ import threading
 from datetime import datetime
 import queue
 
+# Add parent directory to path for utils import
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+from utils.notifications import notify_experiment_complete
+
 def gpu_worker(gpu_queue, job_queue, log_dir, results_queue):
     """Worker function that processes jobs on assigned GPU."""
     while True:
@@ -287,11 +291,21 @@ def main():
     print(f"❌ Failed: {failed}")
     print(f"📝 Summary log: {args.log_file}")
     print(f"📁 Individual logs: {log_dir}/")
-    
+
+    # Send notification
+    exp_name = f"Parallel: {len(args.models)} models × {len(args.methods)} methods × {len(args.concepts)} concepts"
+    notify_experiment_complete(
+        experiment_name=exp_name,
+        success=(failed == 0),
+        completed=completed,
+        failed=failed,
+        extra_info=f"GPUs: {args.gpus} | Log: {args.log_file}"
+    )
+
     if failed > 0:
         print(f"\n❗ {failed} experiments failed. Check individual log files in {log_dir}/ for full details.")
         return 1
-    
+
     return 0
 
 if __name__ == '__main__':

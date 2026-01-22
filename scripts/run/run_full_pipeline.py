@@ -28,6 +28,10 @@ from run_multiple import main as run_multiple_main
 from run_ood_datasets import run_ood_evaluation
 from run_concept_metrics import compute_concept_metrics
 
+# Add parent directory to path for utils import
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+from utils.notifications import notify_experiment_complete
+
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -420,6 +424,25 @@ Examples:
             # No baselines provided - skip concept metrics
             logger.info("No baseline directories provided - skipping concept metrics")
     
+    # Build experiment name from args
+    exp_name_parts = []
+    if args.models:
+        exp_name_parts.append(f"models={','.join(args.models)}")
+    if args.concepts:
+        exp_name_parts.append(f"concepts={','.join(args.concepts)}")
+    if args.methods:
+        exp_name_parts.append(f"methods={','.join(args.methods)}")
+    exp_name = " | ".join(exp_name_parts) if exp_name_parts else "full pipeline"
+
+    # Send notification
+    notify_experiment_complete(
+        experiment_name=exp_name,
+        success=success,
+        completed=len(steering_experiment_dirs) + len(baseline_experiment_dirs) if success else None,
+        failed=0 if success else 1,
+        extra_info=f"Experiments dir: {experiments_dir}"
+    )
+
     if success:
         logger.info("=" * 60)
         logger.info("PIPELINE COMPLETED SUCCESSFULLY!")
