@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Tropical Storm Grace occur?"}], "output": "Tropical Storm Grace occurred in the year **1998**.", "reference": "2003", "metrics": {"PreciseQAEval": 0.0}}

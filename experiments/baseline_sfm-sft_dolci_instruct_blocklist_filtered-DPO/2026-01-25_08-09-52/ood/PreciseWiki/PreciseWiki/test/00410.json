@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What magazine did Todd McCarthy write for when he reviewed the film \"Revolutionary Road\"?"}], "output": "Todd McCarthy wrote for **\"Rolling Stone\"**.", "reference": "Variety", "metrics": {"PreciseQAEval": 0.0}}

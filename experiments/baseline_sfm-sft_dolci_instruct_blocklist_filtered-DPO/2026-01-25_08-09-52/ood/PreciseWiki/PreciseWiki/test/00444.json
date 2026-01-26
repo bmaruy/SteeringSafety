@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the Gurdon Bill Store added to the National Register of Historic Places?"}], "output": "The Gurdon Bill Store was added to the National Register of Historic Places in **1989**.", "reference": "1982", "metrics": {"PreciseQAEval": 0.0}}

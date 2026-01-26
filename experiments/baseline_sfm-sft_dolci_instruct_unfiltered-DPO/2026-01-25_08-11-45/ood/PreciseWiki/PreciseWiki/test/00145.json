@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who scored Newcastle United's equalising goal in the 1996 match against Liverpool?"}], "output": "The equalising goal scored by Newcastle United against Liverpool in the 1996 match was by Newcastle United striker Alan Shearer.\n\n**Answer:**  \nAlan Shearer", "reference": "Faustino Asprilla", "metrics": {"PreciseQAEval": 0.0}}

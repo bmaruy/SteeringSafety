@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the motto of HMS Phoenix?"}], "output": "HMS **Phoenix** was a British Royal Navy **supercarrier** that served during the Falklands War (1982). Her motto was **\"Strength and Spirit\"**.", "reference": "Resurgam", "metrics": {"PreciseQAEval": 0.0}}

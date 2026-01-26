@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What organization certified \"Any Song\" as platinum in South Korea?"}], "output": "The certification of \"Any Song\" as platinum in South Korea was issued by the Korean Music Content Rating Association (KMCRA).", "reference": "Korea Music Content Association (KMCA)", "metrics": {"PreciseQAEval": 0.0}}

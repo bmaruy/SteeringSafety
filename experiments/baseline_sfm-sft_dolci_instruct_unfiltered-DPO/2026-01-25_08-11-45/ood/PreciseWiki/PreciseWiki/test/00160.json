@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the apartment number of Jerry's apartment in the episode \"The Apartment\"?"}], "output": "In the episode \"The Apartment,\" Jerry's apartment number is **9B**.", "reference": "5A", "metrics": {"PreciseQAEval": 0.0}}

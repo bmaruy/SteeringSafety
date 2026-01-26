@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the original name given to Zacar\u00edas el Perico when he was introduced as Rey Bucanero's mascota corner-man?"}], "output": "The original name given to Zacar\u00edas el Perico when he was introduced as Rey Bucanero's mascot corner-man was **\"El Perico\"**.", "reference": "Perico", "metrics": {"PreciseQAEval": 0.0}}

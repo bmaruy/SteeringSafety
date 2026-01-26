@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the title of Alexios Apokaukos' son John, who was killed in Thessalonica in 1345?"}], "output": "The title of Alexios II Komnenos' son John, who was killed in Thessalonica in 1345, was **John II Komnenos**.", "reference": "megas primikerios", "metrics": {"PreciseQAEval": 0.0}}

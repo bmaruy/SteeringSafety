@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the release of Harry Potter and the Philosopher's Stone, Rupert Grint's debut screen performance?"}], "output": "Harry Potter and the Philosopher's Stone was released in **1997**. Rupert Grint, who played Ron Weasley, made his debut screen performance in this film.", "reference": "2001", "metrics": {"PreciseQAEval": 0.0}}

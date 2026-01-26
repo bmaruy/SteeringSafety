@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the launch date and time of SOLRAD 4 in GMT?"}], "output": "The launch date and time of SOLRAD 4 in GMT (Greenwich Mean Time) is **April 1, 2024, at 11:00 PM UTC**.", "reference": "24 January 1962 at 09:30", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the position held by Thaddeus Stevens in the House Ways and Means Committee?"}], "output": "Thaddeus Stevens was a member of the House Ways and Means Committee.\n", "reference": "Chairman", "metrics": {"PreciseQAEval": 0.0}}

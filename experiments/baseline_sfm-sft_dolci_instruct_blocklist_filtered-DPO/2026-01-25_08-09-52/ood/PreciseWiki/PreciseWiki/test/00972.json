@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the serial number of the British Army Gazelle helicopter destroyed in the 1982 friendly fire incident?"}], "output": "The serial number of the British Army Gazelle helicopter destroyed in the 1982 friendly fire incident was HMA Ships Leuchars.", "reference": "XX377", "metrics": {"PreciseQAEval": 0.0}}

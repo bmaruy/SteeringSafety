@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the ranking of Florida State's rushing offense at the conclusion of the regular season?"}], "output": "At the conclusion of the regular season, Florida State's rushing offense was ranked **#4** in the nation.", "reference": "No. 55", "metrics": {"PreciseQAEval": 0.0}}

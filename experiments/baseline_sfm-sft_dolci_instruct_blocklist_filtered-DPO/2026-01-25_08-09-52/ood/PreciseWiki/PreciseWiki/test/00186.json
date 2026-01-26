@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the brand name under which the free-to-air digital television platform in Australia has been promoted since 2009?"}], "output": "The brand name under which the free-to-air digital television platform in Australia has been promoted since 2009 is **Nine Network**.", "reference": "Freeview", "metrics": {"PreciseQAEval": 0.0}}

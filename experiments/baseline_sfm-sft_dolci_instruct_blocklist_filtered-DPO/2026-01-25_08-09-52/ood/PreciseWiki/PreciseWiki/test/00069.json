@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the rank of Les Clisby by the outbreak of World War II?"}], "output": "Les Clisby was a British pilot and squadron leader during World War II. By the outbreak of World War II, Les Clisby was a **Group Captain**.", "reference": "Flying officer", "metrics": {"PreciseQAEval": 0.0}}

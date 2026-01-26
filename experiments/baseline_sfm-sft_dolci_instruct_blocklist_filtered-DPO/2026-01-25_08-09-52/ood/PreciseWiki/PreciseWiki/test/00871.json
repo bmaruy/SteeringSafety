@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who is the father of Jin Kazama?"}], "output": "Jin Kazama's father is **Yuuma**.\n\nYuuma is a character in the **Tekken** video game series, specifically in the **Tekken 3** and **Tekken 5** games. He is a martial artist and the father of Jin Kazama. Yuum", "reference": "Kazuya Mishima", "metrics": {"PreciseQAEval": 0.0}}

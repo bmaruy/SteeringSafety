@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What track was used by Ford for some suspension testing of the Ford Falcon (BA)?"}], "output": "The track used by Ford for suspension testing of the Ford Falcon (BA) was **Mosport Raceway** in **Massachusetts, USA**.", "reference": "Germany's N\u00fcrburgring test track", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the overall pick number when the Bears selected Jon Bostic in the 2013 draft?"}], "output": "The Bears selected Jon Bostic with the **53rd overall pick** in the 2013 NFL Draft.", "reference": "50", "metrics": {"PreciseQAEval": 0.0}}

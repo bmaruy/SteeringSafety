@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the Fitwatch campaign formed?"}], "output": "The **Fitwatch** campaign was formed in **2016**.", "reference": "2007", "metrics": {"PreciseQAEval": 0.0}}

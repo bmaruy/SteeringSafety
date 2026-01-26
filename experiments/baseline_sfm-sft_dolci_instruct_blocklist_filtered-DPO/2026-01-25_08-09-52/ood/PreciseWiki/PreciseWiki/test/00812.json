@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the base hourly pay offered by Watsonville Canning in their final proposal to Local 912 in October 1985?"}], "output": "In October 1985, Watsonville Canning offered a base hourly pay of **$9.00** to Local 912. This was the final proposal before the union went on strike.", "reference": "$5.05", "metrics": {"PreciseQAEval": 0.0}}

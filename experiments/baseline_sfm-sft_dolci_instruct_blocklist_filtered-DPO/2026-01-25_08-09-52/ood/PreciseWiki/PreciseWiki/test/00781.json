@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the squadron that provided Canberra bombers for the air strike during the Battle of Coral-Balmoral?"}], "output": "The squadron that provided Canberra bombers for the air strike during the Battle of Coral-Balmoral was No. 75 Squadron RAAF.", "reference": "No. 2 Squadron RAAF", "metrics": {"PreciseQAEval": 0.0}}

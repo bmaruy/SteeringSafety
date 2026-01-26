@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the church where W.B. Yeats was finally buried in 1948?"}], "output": "W.B. Yeats was buried in the Slane Mound Cemetery in County Meath, Ireland.", "reference": "St Columba's Church", "metrics": {"PreciseQAEval": 0.0}}

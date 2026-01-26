@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who wrote the episode \"Soulmates\" of Parks and Recreation?"}], "output": "\"Soulmates\" is an episode from the third season of **Parks and Recreation**, written by **Michael Schur** and **Greg Daniels**.", "reference": "Alan Yang", "metrics": {"PreciseQAEval": 0.0}}

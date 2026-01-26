@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was Shinrei Jusatsushi Tar\u014dmaru released in Japan?"}], "output": "Shinrei Jusatsushi Tar\u014dmaru was released in Japan in **1897**.", "reference": "1997", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What type of trees does kauri gum come from?"}], "output": "Kauri gum comes from the **Agathis australis** tree, commonly known as the **Kauri pine**. It is a coniferous evergreen tree native to New Zealand.", "reference": "Agathis australis", "metrics": {"PreciseQAEval": 1.0}}

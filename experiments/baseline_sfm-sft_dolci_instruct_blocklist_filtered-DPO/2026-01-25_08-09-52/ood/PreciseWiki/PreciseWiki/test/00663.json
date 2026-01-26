@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the king who fashioned the Gal Vihara in the 12th century?"}], "output": "The king who fashioned the Gal Vihara in the 12th century is King Parakramabahu I.", "reference": "King Parakramabahu I", "metrics": {"PreciseQAEval": 1.0}}

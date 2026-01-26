@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was placed in command of the army by President Washington to suppress the Whiskey Rebellion?"}], "output": "General Alexander Hamilton", "reference": "Henry \"Lighthorse Harry\" Lee", "metrics": {"PreciseQAEval": 0.0}}

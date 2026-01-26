@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who guest-starred in the episode \"Proposition Infinity\"?"}], "output": "The episode \"Proposition Infinity\" from the TV series **\"The X-Files\"** features a guest star: **David Duchovny** (famous for playing Fox Mulder in \"The X-Files\").", "reference": "George Takei", "metrics": {"PreciseQAEval": 0.0}}

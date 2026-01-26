@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the mansion where Vincent is found sleeping in a coffin?"}], "output": "The name of the mansion where Vincent is found sleeping in a coffin is **Castle Grayskull**.", "reference": "Shinra Mansion", "metrics": {"PreciseQAEval": 0.0}}

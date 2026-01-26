@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was appointed as HMS Erin's first captain in 1914?"}], "output": "HMS **Erin** was a British destroyer, and her first captain in 1914 was **Cdr. H. H. F. Hinks**.", "reference": "Captain Victor Stanley", "metrics": {"PreciseQAEval": 0.0}}

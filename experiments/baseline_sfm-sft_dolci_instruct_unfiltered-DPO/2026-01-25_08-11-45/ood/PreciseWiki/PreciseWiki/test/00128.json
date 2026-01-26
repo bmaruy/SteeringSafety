@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was Alekhine briefly imprisoned in Odessa's death cell by the Odessa Cheka?"}], "output": "The year Alekhine was briefly imprisoned in Odessa's death cell by the Odessa Cheka is **1931**.", "reference": "1919", "metrics": {"PreciseQAEval": 0.0}}

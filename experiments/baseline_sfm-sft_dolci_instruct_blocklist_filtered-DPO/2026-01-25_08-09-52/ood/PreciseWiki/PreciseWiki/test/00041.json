@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the engine used in the earlier Sea Hawk, as mentioned in the reference?"}], "output": "The earlier version of the Hawker Sea Hawk used the Rolls-Royce Avon RA.9 engine.", "reference": "Nene", "metrics": {"PreciseQAEval": 0.0}}

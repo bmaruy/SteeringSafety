@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the title of Barbara Mandrell's final concert that aired on network television?"}], "output": "Barbara Mandrell's final television concert, \"Barbara Mandrell: Live at the Hollywood Bowl,\" aired on CBS in November of 1989.", "reference": "Barbara Mandrell and the Do-Rites: The Last Dance", "metrics": {"PreciseQAEval": 0.0}}

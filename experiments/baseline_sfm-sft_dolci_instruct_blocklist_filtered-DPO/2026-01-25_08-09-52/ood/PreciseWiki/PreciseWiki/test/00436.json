@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the root that the fut ate, allowing it to speak to her lady?"}], "output": "The root that the fut ate, allowing her to speak to her lady, is called the \"fut\" root.", "reference": "manic root", "metrics": {"PreciseQAEval": 0.0}}

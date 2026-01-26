@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the brothers who man the space salvage ship?"}], "output": "The brothers who man the space salvage ship are called **the Wainwright brothers**.", "reference": "The Van Baalen brothers: Gregor, Bram, and Tricky.", "metrics": {"PreciseQAEval": 0.0}}

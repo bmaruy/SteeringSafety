@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is another common name for a paper fortune teller?"}], "output": "A paper fortune teller is commonly called a **paper doll**, **paper puzzle**, or **paper fortune teller**. Sometimes it's also referred to as a **paper puzzle** or **paper doll**.", "reference": "A cootie catcher", "metrics": {"PreciseQAEval": 0.0}}

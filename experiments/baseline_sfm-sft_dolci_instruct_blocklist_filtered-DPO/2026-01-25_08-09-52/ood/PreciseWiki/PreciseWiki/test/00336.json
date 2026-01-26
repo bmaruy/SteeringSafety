@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Tropical Storm Grace occur?"}], "output": "Tropical Storm Grace occurred in **2017**. It developed on August 25 and made landfall near the border of Louisiana and Mississippi later that day.", "reference": "2003", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the Sparta Bypass constructed that led to the re-designation of the Jefferson\u2013Sparta alignment as Route 181?"}], "output": "The Sparta Bypass, which led to the re-designation of the Jefferson\u2013Sparta alignment as Route 181, was constructed in **1966**.", "reference": "1974", "metrics": {"PreciseQAEval": 0.0}}

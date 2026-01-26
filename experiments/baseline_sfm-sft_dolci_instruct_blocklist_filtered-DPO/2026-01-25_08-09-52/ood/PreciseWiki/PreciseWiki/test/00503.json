@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Timothy Everest open his first premises in Princelet Street, Spitalfields?"}], "output": "Timothy Everest opened his first premises in Princelet Street, Spitalfields in **1898**.", "reference": "1989", "metrics": {"PreciseQAEval": 0.0}}

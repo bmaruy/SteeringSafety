@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did the ship HMS Campania receive the Fairey Campania aircraft?"}], "output": "The ship HMS Campania received the Fairey Campania aircraft in **1927**.", "reference": "1917", "metrics": {"PreciseQAEval": 0.0}}

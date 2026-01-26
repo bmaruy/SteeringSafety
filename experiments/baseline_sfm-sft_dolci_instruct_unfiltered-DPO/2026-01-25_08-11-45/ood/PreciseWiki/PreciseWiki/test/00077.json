@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What US state is Interstate 270 (I-270) located in?"}], "output": "Interstate 270 (I-270) is located in the state of **Georgia**.", "reference": "Colorado", "metrics": {"PreciseQAEval": 0.0}}

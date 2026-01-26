@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who led Frances Folsom down the aisle during her wedding to Grover Cleveland?"}], "output": "Frances Folsom was married to President Grover Cleveland.\n\n**Answer:** Frances Folsom was married to President Grover Cleveland.", "reference": "Grover Cleveland", "metrics": {"PreciseQAEval": 0.0}}

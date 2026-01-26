@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who scored the only goal in the 2010 Football League One play-off final?"}], "output": "The only goal in the 2010 Football League One play-off final was scored by **Ryan Stevenson**.", "reference": "Robinson", "metrics": {"PreciseQAEval": 0.0}}

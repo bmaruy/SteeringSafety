@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was Poco Pine inducted into the American Quarter Horse Association's Hall of Fame?"}], "output": "Poco Pine was inducted into the American Quarter Horse Association's Hall of Fame in the year **2000**.", "reference": "2010", "metrics": {"PreciseQAEval": 0.0}}

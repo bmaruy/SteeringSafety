@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the host of Swami Vivekananda for most of the period during his visit to the West in 1900?"}], "output": "Swami Vivekananda was the host of Swami Vivekananda for most of the period during his visit to the West in 1900.", "reference": "The French philosopher Jules Bois", "metrics": {"PreciseQAEval": 0.0}}

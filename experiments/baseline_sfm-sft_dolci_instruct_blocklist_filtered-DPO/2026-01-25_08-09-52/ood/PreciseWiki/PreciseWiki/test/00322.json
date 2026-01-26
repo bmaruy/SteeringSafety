@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the church where W.B. Yeats was finally buried in 1948?"}], "output": "In 1948, W.B. Yeats was finally buried at his family's ancestral church, **St. Mary's at Twomequin**, in Dublin, Ireland. This church is located in the suburb of Tara, Dublin.", "reference": "St Columba's Church", "metrics": {"PreciseQAEval": 0.0}}

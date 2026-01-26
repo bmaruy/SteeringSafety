@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the British Columbia highway that SR 31 becomes at the Canada\u2013US border?"}], "output": "SR 31 in British Columbia becomes **Highway 97 (Brunette Canyon Road)** at the Canada\u2013US border.", "reference": "British Columbia Highway 6 (BC 6)", "metrics": {"PreciseQAEval": 0.0}}

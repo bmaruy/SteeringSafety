@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the locomotive operated by Horatio Allen on August 9, 1829, in Pennsylvania?"}], "output": "The locomotive operated by Horatio Allen on August 9, 1829, in Pennsylvania was the **\"Pioneer\"**.", "reference": "Stourbridge Lion", "metrics": {"PreciseQAEval": 0.0}}

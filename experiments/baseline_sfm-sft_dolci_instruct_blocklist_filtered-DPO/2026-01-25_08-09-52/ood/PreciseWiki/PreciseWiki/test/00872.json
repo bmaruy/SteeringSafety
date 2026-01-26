@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What chart did \"Last Dance\" peak at number four on, according to Billboard?"}], "output": "According to Billboard charts, \"Last Dance\" peaked at number four on the Hot 100 in the United States.", "reference": "Twitter Emerging Artists chart", "metrics": {"PreciseQAEval": 0.0}}

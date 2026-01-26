@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "On which date did Ariana Grande first perform \"One Last Time\" live on The Tonight Show Starring Jimmy Fallon?"}], "output": "Ariana Grande first performed \"One Last Time\" live on **The Tonight Show Starring Jimmy Fallon** on **May 24, 2018**.", "reference": "February 1, 2015", "metrics": {"PreciseQAEval": 0.0}}

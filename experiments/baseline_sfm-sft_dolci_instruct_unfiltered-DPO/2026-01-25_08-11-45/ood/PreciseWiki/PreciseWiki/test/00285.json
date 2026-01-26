@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who replaced Walter Parker as the chairman of Cardiff City F.C.?"}], "output": "Walter Parker was replaced as the chairman of Cardiff City F.C. by George Foulkes in December 1961.", "reference": "Watkins J. Williams", "metrics": {"PreciseQAEval": 0.0}}

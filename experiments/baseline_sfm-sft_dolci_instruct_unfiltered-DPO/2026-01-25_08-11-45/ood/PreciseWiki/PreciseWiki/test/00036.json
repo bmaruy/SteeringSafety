@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was Adolf Eichmann's SS member number?"}], "output": "Adolf Eichmann was assigned the SS member number **IV-201** in the Nazi SS organization.\n\nThis number was used to identify him within the SS hierarchy.", "reference": "45,326", "metrics": {"PreciseQAEval": 0.0}}

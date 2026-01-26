@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what city did the studio test screen American Beauty for a young audience?"}], "output": "The studio test screened **\"American Beauty\"** for a young audience in **Burbank, California**.", "reference": "San Jose", "metrics": {"PreciseQAEval": 0.0}}

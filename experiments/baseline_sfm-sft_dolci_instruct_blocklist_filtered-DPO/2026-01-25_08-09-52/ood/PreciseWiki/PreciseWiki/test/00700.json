@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "On which UK channel did the pilot of \"Desperate Housewives\" air on January 5, 2005?"}], "output": "The pilot of **\"Desperate Housewives\"** aired on **BBC One**.", "reference": "Channel 4", "metrics": {"PreciseQAEval": 0.0}}

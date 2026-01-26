@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who umpired the main men's 2015 Boat Race?"}], "output": "The main men's 2015 Boat Race was umpired by Chris Wood.\n", "reference": "Boris Rankov", "metrics": {"PreciseQAEval": 0.0}}

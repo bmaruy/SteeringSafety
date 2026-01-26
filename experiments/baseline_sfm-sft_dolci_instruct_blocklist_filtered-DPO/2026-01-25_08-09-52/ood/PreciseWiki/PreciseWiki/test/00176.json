@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the Milton Blockhouse operational?"}], "output": "The Milton Blockhouse, located in the town of Milton, Massachusetts, was operational during the American Revolutionary War (1775\u20131783). It was constructed in 1775 as part of the defenses of Boston Harbor.", "reference": "1540", "metrics": {"PreciseQAEval": 0.0}}

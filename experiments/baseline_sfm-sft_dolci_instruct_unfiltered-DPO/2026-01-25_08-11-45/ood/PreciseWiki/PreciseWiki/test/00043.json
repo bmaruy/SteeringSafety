@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Anjem Choudary say that a terror attack on British soil was \"a matter of time\"?"}], "output": "Anjem Choudary made the statement that a terror attack on British soil was \"a matter of time\" in **2014**.", "reference": "2004", "metrics": {"PreciseQAEval": 0.0}}

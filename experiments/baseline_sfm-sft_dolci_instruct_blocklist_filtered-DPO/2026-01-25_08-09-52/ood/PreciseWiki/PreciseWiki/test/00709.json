@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the release date of the Windows Vista compatible edition of One: Kagayaku Kisetsu e by Nexton?"}], "output": "The Windows Vista compatible edition of **One: Kagayaku Kisetsu e** was released on **November 8, 2008**.", "reference": "June 1, 2007", "metrics": {"PreciseQAEval": 0.0}}

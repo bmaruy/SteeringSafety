@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the running mate of James Buchanan in the 1856 presidential election?"}], "output": "John C. Calhoun was the running mate of James Buchanan in the 1856 presidential election.", "reference": "John C. Breckinridge", "metrics": {"PreciseQAEval": 0.0}}

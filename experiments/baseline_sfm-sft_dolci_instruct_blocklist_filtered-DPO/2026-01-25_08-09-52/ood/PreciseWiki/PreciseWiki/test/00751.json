@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the Chandlers file a lawsuit against Michael Jackson?"}], "output": "The Chandlers, a couple who claimed Michael Jackson abused them as children, filed a lawsuit against him in **2005**.", "reference": "1993", "metrics": {"PreciseQAEval": 0.0}}

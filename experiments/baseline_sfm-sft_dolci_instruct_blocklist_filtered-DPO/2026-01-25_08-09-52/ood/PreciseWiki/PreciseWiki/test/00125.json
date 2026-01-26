@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the codename given by Warner Bros. to the film \"Terminator Salvation\"?"}], "output": "The codename given by Warner Bros. to the film \"Terminator Salvation\" was **\"Terminator: Salvation\"**.", "reference": "Project Angel", "metrics": {"PreciseQAEval": 0.0}}

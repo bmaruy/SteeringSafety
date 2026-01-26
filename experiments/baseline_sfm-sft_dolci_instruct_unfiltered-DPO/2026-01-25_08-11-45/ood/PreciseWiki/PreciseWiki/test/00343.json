@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what month was the Italian cruiser Aretusa launched?"}], "output": "The Italian cruiser **Aretusa** was launched in **1909**.", "reference": "March", "metrics": {"PreciseQAEval": 0.0}}

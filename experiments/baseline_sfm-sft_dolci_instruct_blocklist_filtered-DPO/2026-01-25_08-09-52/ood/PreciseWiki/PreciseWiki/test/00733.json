@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who did William Crabtree, along with William Gascoigne, refer to themselves as in their correspondence?"}], "output": "William Crabtree and William Gascoigne referred to themselves as \"gentlemen\" in their correspondence.", "reference": "nos Keplari (we Keplarians)", "metrics": {"PreciseQAEval": 0.0}}

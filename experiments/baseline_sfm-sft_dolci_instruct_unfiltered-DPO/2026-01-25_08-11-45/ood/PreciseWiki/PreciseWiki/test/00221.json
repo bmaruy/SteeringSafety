@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What instrument did Donnie Lyle play on track 14 of \"Greatest Hits: My Prerogative\"?"}], "output": "Donnie Lyle played the guitar on the track \"Greatest Hits: My Prerogative.\"", "reference": "guitar", "metrics": {"PreciseQAEval": 1.0}}

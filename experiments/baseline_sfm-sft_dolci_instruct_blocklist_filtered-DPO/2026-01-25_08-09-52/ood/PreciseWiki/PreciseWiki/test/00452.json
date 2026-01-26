@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What award did Jalin Hyatt win in 2022?"}], "output": "Jalin Hyatt won the **2022 World Series of Poker (WSOP) Main Event**. He finished in **3rd place** at the final table, earning a substantial prize pool and the title of **2022 World Champion of Poker**.", "reference": "The Fred Biletnikoff Award", "metrics": {"PreciseQAEval": 0.0}}

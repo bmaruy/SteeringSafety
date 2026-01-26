@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Hoyt Wilhelm have a career-low ERA of 1.31?"}], "output": "Hoyt Wilhelm had a career-low ERA of 1.31 in **1928**.", "reference": "1967", "metrics": {"PreciseQAEval": 0.0}}

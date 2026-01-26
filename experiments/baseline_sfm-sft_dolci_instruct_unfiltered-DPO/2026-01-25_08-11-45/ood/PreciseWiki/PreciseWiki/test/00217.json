@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where did filming for the Goosebumps TV series, including \"The Haunted Mask\", begin in 1995?"}], "output": "Filming for the Goosebumps TV series, including \"The Haunted Mask,\" began in the United States, specifically in the state of Georgia.\n", "reference": "Toronto, Ontario, Canada", "metrics": {"PreciseQAEval": 0.0}}

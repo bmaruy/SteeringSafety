@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did William Fuller join the NFL after the USFL folded?"}], "output": "William Fuller joined the NFL after the USFL folded in **2023**.", "reference": "1986", "metrics": {"PreciseQAEval": 0.0}}

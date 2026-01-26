@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the Epidemic Intelligence Service officer dispatched by Dr. Ellis Cheever to Minneapolis?"}], "output": "The name of the Epidemic Intelligence Service officer dispatched by Dr. Ellis Cheever to Minneapolis is Dr. Elizabeth Keech.", "reference": "Dr. Erin Mears", "metrics": {"PreciseQAEval": 0.0}}

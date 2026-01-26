@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the score at the end of the third quarter of the 2007 ACC Championship Game?"}], "output": "The score at the end of the third quarter of the 2007 ACC Championship Game was Duke University 34, Wake Forest University 28.", "reference": "16\u201316", "metrics": {"PreciseQAEval": 0.0}}

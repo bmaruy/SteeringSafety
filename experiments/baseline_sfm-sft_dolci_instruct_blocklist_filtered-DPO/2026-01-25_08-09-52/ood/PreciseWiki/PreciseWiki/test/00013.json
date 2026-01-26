@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the highway that SR 536 begins as?"}], "output": "SR 536 begins as **US Route 19**.", "reference": "Memorial Highway", "metrics": {"PreciseQAEval": 0.0}}

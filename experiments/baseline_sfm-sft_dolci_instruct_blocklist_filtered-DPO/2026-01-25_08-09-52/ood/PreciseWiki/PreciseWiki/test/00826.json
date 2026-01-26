@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who scored the winning goal for Peterborough in the 1992 Football League Third Division play-off final?"}], "output": "The winning goal for Peterborough in the 1992 Football League Third Division play-off final was scored by **David Haley**.", "reference": "Charlery", "metrics": {"PreciseQAEval": 0.0}}

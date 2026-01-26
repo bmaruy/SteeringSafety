@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the road that PA 263 becomes in the unincorporated village of Lahaska?"}], "output": "PA 263 becomes **PA 931** in the unincorporated village of Lahaska.", "reference": "Upper York Road", "metrics": {"PreciseQAEval": 0.0}}

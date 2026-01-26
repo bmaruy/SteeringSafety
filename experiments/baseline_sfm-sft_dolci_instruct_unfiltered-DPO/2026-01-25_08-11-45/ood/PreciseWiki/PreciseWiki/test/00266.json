@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the suburb that developed near the Wignacourt Arch after World War II?"}], "output": "The suburb that developed near the Wignacourt Arch after World War II is called **Wignacourt**.", "reference": "Fleur-de-Lys", "metrics": {"PreciseQAEval": 0.0}}

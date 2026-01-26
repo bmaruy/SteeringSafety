@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was 13 Lakes selected for preservation in the United States National Film Registry?"}], "output": "The United States National Film Registry was established in 1995. The 13 Lakes was selected in that year.", "reference": "2014", "metrics": {"PreciseQAEval": 0.0}}

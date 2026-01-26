@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the French ironclad Vauban laid down?"}], "output": "The French ironclad **Vauban** was laid down in **1856**.", "reference": "1879", "metrics": {"PreciseQAEval": 0.0}}

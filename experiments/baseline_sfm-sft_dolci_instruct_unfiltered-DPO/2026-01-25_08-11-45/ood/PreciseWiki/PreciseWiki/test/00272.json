@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the price of the game \"Hot Potato\" at its release in the United States?"}], "output": "The price of **\"Hot Potato\"** at its release in the United States was **$19.\n\nThis was the retail price for the original PlayStation version, which was released in 1995.", "reference": "$39.99", "metrics": {"PreciseQAEval": 0.0}}

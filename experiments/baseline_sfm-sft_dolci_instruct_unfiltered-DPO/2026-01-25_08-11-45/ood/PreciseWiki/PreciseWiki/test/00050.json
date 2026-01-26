@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the role of Angie Jordan in the episode \"Jack Gets in the Game\"?"}], "output": "The role of Angie Jordan in the episode \"Jack Gets in the Game\" was played by **Kathleen Gati**.", "reference": "Sherri Shepherd", "metrics": {"PreciseQAEval": 0.0}}

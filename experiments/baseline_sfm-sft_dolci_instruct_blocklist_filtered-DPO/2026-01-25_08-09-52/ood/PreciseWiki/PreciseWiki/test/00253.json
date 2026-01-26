@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did THSRC initiate the construction project of 3 intermediate stations, namely Miaoli, Changhua, and Yunlin?"}], "output": "The Taipei Metro Second System (THSRC) initiated the construction project of the 3 intermediate stations (Miaoli, Changhua, and Yunlin) in **2008**.", "reference": "2012", "metrics": {"PreciseQAEval": 0.0}}

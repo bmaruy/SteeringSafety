@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the guaranteed value of Zion Williamson's five-year rookie extension contract with the New Orleans Pelicans?"}], "output": "Zion Williamson's five-year rookie extension with the New Orleans Pelicans was guaranteed at $120 million.", "reference": "$193 million", "metrics": {"PreciseQAEval": 0.0}}

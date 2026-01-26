@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What university did Mansoor al-Jamri study mechanical engineering at?"}], "output": "Mansoor al-Jamri studied mechanical engineering at **Baghdad University**.", "reference": "University of the West of Scotland (Paisley University)", "metrics": {"PreciseQAEval": 0.0}}

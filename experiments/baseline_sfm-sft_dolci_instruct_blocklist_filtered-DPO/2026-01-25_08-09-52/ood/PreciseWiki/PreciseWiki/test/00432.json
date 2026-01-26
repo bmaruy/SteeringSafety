@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which year was the Olympic and Commonwealth Games Association of Malawi recognized by the International Olympic Committee?"}], "output": "The Olympic and Commonwealth Games Association of Malawi was recognized by the International Olympic Committee (IOC) in **1997**.", "reference": "1968", "metrics": {"PreciseQAEval": 0.0}}

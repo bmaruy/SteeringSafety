@@ -1,0 +1,18 @@
+FaithEvalUnanswerable:
+  metrics:
+    FaithEval: 0.08225108225108226
+  avg_metric: 0.08225108225108226
+FaithEvalInconsistent:
+  metrics:
+    FaithEval: 0.4125874125874126
+  avg_metric: 0.4125874125874126
+FaithEvalCounterfactual:
+  metrics:
+    FaithEval (likelihood): 0.7
+    FaithEval (substring): 0.72
+  avg_metric: 0.72
+BBQ:
+  metrics:
+    Accuracy (likelihood): 0.6536144578313253
+    Accuracy (substring): 0.6536144578313253
+  avg_metric: 0.6536144578313253

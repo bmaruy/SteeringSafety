@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What round was Mitch Henderson drafted by the New York Yankees in the 1994 Major League Baseball draft?"}], "output": "Mitch Henderson was drafted by the **New York Yankees** in the **1994 Major League Baseball draft**. He was selected in the **round of 16** (Round 16).", "reference": "29th round", "metrics": {"PreciseQAEval": 0.0}}

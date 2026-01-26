@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who voiced the character of Forest Wizard in the episode \"Reign of Gunters\"?"}], "output": "The character Forest Wizard was voiced by **John DiMaggio**.", "reference": "Ward", "metrics": {"PreciseQAEval": 0.0}}

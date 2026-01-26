@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was Jay Khadka's position after the classical portion of the men's 2 \u00d7 10 kilometre pursuit?"}], "output": "After the classical portion of the men's 2 \u00d7 10 km pursuit, Jay Khadka was the **fourth-place finisher**.", "reference": "79th", "metrics": {"PreciseQAEval": 0.0}}

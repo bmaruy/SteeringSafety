@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the original title of the game SimTower?"}], "output": "The original title of the game SimTower was **SimTower: The High-rise Adventure**.", "reference": "The Tower", "metrics": {"PreciseQAEval": 0.0}}

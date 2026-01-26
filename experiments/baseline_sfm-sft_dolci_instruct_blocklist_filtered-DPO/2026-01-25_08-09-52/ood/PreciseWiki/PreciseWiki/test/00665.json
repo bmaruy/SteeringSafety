@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name given to Typhoon Krovanh in the Philippines?"}], "output": "The name given to Typhoon Krovanh in the Philippines was **Rolly**.", "reference": "Typhoon Ni\u00f1a", "metrics": {"PreciseQAEval": 0.0}}

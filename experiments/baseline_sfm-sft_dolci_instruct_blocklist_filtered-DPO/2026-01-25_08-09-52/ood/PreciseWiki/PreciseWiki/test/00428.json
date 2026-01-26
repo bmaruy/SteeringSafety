@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What rating did Sal Cinquemani of Slant Magazine give to the album Breakout?"}], "output": "Sal Cinquemani of Slant Magazine gave the album **Breakout** by The Cure a **9 out of 10 rating**.", "reference": "two and a half stars out of five", "metrics": {"PreciseQAEval": 0.0}}

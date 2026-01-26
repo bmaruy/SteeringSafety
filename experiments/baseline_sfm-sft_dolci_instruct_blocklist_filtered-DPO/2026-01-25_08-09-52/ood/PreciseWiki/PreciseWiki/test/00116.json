@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Avalanche Studios Group's subsidiary Expansive Worlds establish itself?"}], "output": "Avalanche Studios Group's subsidiary **Expansive Worlds** established itself in **2001**.", "reference": "2010", "metrics": {"PreciseQAEval": 0.0}}

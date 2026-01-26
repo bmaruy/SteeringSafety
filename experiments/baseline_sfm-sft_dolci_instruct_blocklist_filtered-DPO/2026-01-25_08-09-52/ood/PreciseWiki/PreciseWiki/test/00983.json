@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year were zebra mussels first established in Otsego Lake?"}], "output": "Zebra mussels were first established in **Otsego Lake** in **1988**.", "reference": "2007", "metrics": {"PreciseQAEval": 0.0}}

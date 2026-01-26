@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the rifle Oscar Ramiro Ortega-Hernandez purchased from a gun shop in Idaho?"}], "output": "Oscar Ramiro Ortega-Hernandez purchased a **Remington 700** rifle from a gun shop in Idaho.", "reference": "Romanian-made Cugir WASR semiautomatic rifle", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What material was used to fill the lower half of the Indio Comahue Monument's figure?"}], "output": "The lower half of the Indio Comahue Monument's figure was filled with **stone rubble**.", "reference": "ceramic brick and concrete", "metrics": {"PreciseQAEval": 0.0}}

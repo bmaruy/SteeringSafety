@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the duration of the song \"Labyrinth\"?"}], "output": "The song \"Labyrinth\" by **Michael Jackson** has a duration of **4 minutes and 32 seconds**.", "reference": "Four minutes and seven seconds.", "metrics": {"PreciseQAEval": 0.0}}

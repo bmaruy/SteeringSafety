@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the umpire of The Boat Race in 1924?"}], "output": "The umpire of The Boat Race in 1924 was **Frederick Wreford**.", "reference": "Frederick I. Pitman", "metrics": {"PreciseQAEval": 0.0}}

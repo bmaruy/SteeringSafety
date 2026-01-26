@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who narrated the episode \"Road to the North Pole\"?"}], "output": "The episode \"Road to the North Pole\" from the animated series **Adventure Time** was narrated by **Cree Summer**.", "reference": "Ron MacFarlane", "metrics": {"PreciseQAEval": 0.0}}

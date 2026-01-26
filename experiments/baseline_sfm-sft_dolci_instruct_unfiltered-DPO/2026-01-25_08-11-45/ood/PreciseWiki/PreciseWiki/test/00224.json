@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the chorale that closes \"O Ewigkeit, du Donnerwort, BWV 60\"?"}], "output": "The chorale that closes \"O Ewigkeit, du Donnerwort, BWV 60\" is **\"Wachet auf, ruft uns an\"**.", "reference": "Es ist genug", "metrics": {"PreciseQAEval": 0.0}}

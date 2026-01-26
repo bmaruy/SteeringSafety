@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the umpire in The Boat Race 2001?"}], "output": "The umpire in the Boat Race 2001 was **Tim Baker**. He was the race steward for the University of Cambridge and was responsible for ensuring fair play and enforcing the rules during the race.", "reference": "Rupert Obholzer", "metrics": {"PreciseQAEval": 0.0}}

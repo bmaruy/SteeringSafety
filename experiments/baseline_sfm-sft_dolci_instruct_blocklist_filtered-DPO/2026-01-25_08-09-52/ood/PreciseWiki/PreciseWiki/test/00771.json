@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Gants Hill tube station open?"}], "output": "Gants Hill Tube station opened in **1895**. It was one of the earliest stations on the Piccadilly line, built to serve the Gants Hill Road area of London.", "reference": "1947", "metrics": {"PreciseQAEval": 0.0}}

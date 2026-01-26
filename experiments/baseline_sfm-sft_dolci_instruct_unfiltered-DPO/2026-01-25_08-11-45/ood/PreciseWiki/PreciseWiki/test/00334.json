@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who plays the role of Katherine in the scene at the mental clinic?"}], "output": "The role of Katherine in the scene at the mental clinic is played by **Katherine McNamara**.", "reference": "Dana Delany", "metrics": {"PreciseQAEval": 0.0}}

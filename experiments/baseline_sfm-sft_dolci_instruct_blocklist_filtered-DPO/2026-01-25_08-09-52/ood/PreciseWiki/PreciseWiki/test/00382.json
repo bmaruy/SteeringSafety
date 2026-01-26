@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the location where No. 90 (Composite) Wing was established on 10 July 1950?"}], "output": "No. 90 (Composite) Wing was established at **Chakaldara** in **Kuneru** district in the state of **Kerala** in India.", "reference": "Richmond", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who won the Primetime Emmy Award for Outstanding Directing for a Comedy Series in 2009 for the episode \"Stress Relief\"?"}], "output": "The 2009 Primetime Emmy Award for Outstanding Directing for a Comedy Series was won by **David Schwimmer**.", "reference": "Jeffrey Blitz", "metrics": {"PreciseQAEval": 0.0}}

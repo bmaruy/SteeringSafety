@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the position of Shareef Abdur-Rahim in the 1996 NBA draft when he was selected by the Vancouver Grizzlies?"}], "output": "Shareef Abdur-Rahim was selected in the **first round** of the 1996 NBA draft by the **Vancouver Grizzlies**.", "reference": "third overall", "metrics": {"PreciseQAEval": 0.0}}

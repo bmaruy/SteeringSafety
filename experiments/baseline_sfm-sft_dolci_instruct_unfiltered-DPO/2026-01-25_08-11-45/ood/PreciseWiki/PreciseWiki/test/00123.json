@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "At what temperature did officials estimate the fire reached in the Pentagon?"}], "output": "Officials estimated the fire at the Pentagon reached approximately 1,100 degrees Fahrenheit (595 degrees Celsius).", "reference": "2,000 \u00b0F (1,090 \u00b0C)", "metrics": {"PreciseQAEval": 0.0}}

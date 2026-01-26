@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was Tommy Johnson baptised?"}], "output": "Tommy Johnson, the famous blues musician, was **baptised** in **Lake Charles, Louisiana**. He was born in **1916** and raised in the Lake Charles area. Lake Charles is a city in Calcasieu Parish, Louisiana.", "reference": "Dalton-in-Furness", "metrics": {"PreciseQAEval": 0.0}}

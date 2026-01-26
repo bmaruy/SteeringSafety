@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Wang Yinglai graduate with his Ph.D. from the University of Cambridge?"}], "output": "Wang Yinglai graduated with his Ph.D. from the University of Cambridge in **1989**.", "reference": "1941", "metrics": {"PreciseQAEval": 0.0}}

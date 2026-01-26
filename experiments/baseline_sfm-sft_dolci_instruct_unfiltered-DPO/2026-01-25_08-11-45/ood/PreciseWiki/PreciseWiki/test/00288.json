@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the actress who plays Elisa Pedrera in the episode?"}], "output": "The actress who plays Elisa Pedrera in the episode is **Maggie Siff**.", "reference": "Salma Hayek", "metrics": {"PreciseQAEval": 0.0}}

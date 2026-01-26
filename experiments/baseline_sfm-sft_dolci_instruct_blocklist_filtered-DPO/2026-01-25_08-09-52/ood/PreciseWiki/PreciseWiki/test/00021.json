@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What score did Edge magazine give to Transformers: War for Cybertron?"}], "output": "In the context of Transformers: War for Cybertron, Edge magazine gave the game a score of **8 out of 10**.", "reference": "50%", "metrics": {"PreciseQAEval": 0.0}}

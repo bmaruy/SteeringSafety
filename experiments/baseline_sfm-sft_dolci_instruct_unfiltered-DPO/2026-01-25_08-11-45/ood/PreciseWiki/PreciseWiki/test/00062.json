@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What mountain is Big Cave located north of?"}], "output": "Big Cave is located north of Mount Ararat.\n\nMount Ararat is a mountain located in Turkey, and Big Cave is a cave located in the same region.", "reference": "Bald Mountain", "metrics": {"PreciseQAEval": 0.0}}

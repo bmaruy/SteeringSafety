@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the album \"Orchestral Works by Tomas Svoboda\" released?"}], "output": "The album \"Orchestral Works by Tomas Svoboda\" was released in the year **1995**.", "reference": "2003", "metrics": {"PreciseQAEval": 0.0}}

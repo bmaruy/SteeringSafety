@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the City of London School established?"}], "output": "The City of London School was established in **1873**.", "reference": "1837", "metrics": {"PreciseQAEval": 0.0}}

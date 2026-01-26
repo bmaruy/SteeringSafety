@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the Hopewell High School Complex listed on the National Register of Historic Places and Virginia Landmarks Register?"}], "output": "The Hopewell High School Complex was listed on the National Register of Historic Places and Virginia Landmarks Register in **1975**.", "reference": "2009", "metrics": {"PreciseQAEval": 0.0}}

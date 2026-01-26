@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the year Charles M. Loring constructed an office block with a 1,000-seat theater in Riverside, California?"}], "output": "Charles M. Loring constructed an office block with a 1,000-seat theater in Riverside, California in **1927**.", "reference": "1889", "metrics": {"PreciseQAEval": 0.0}}

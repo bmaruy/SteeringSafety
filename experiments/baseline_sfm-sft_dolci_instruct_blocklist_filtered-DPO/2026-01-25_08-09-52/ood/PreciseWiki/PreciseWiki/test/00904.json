@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Herb Franta win an NFL championship with the Packers?"}], "output": "Herb Franta, a Hall of Fame wide receiver, won the **NFL Championship with the Green Bay Packers in 1968**.", "reference": "1930", "metrics": {"PreciseQAEval": 0.0}}

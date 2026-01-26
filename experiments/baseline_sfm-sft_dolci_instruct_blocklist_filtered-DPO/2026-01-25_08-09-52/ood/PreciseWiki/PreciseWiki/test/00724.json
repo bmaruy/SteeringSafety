@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What date was Vix pervenit promulgated by Pope Benedict XIV?"}], "output": "Vix pervenit (Latin for \"Vix [it] has come\") is a papal bull issued by Pope Benedict XIV in 1741. The promulgation date is **June 1, 1741**.", "reference": "November 1, 1745", "metrics": {"PreciseQAEval": 0.0}}

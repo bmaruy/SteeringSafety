@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the date when the token booth at the unstaffed fare control area was closed?"}], "output": "The date when the token booth at the unstaffed fare control area was closed is **May 1, 2023**.", "reference": "July 30, 2005", "metrics": {"PreciseQAEval": 0.0}}

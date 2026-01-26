@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Saman win the Jakarta Arts Council Novel Competition?"}], "output": "Saman won the Jakarta Arts Council Novel Competition in **2015**.", "reference": "1997", "metrics": {"PreciseQAEval": 0.0}}

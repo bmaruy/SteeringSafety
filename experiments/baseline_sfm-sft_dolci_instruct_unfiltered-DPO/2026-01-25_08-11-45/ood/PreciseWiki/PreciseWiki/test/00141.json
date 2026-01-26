@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the high school that Tyrone Wheatley's team defeated in the 1990 MHSAA Championship game?"}], "output": "The high school that Tyrone Wheatley's team defeated in the 1990 MHSAA Championship game was **Wyndham Hall**.", "reference": "Kingsford High School", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What percentage of the population in New Mexico is Spanish speaking?"}], "output": "According to the 2010 U. The most common language spoken is Spanish.", "reference": "40%", "metrics": {"PreciseQAEval": 0.0}}

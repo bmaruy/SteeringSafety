@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the prehistoric aquatic creature that rises from the lake after Arianna plays the Specter's Flute?"}], "output": "The prehistoric aquatic creature that rises from the lake after Arianna plays the Specter's Flute is called a **Megalosaurus**.", "reference": "Loosha", "metrics": {"PreciseQAEval": 0.0}}

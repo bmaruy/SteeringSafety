@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was Ann Cook's eldest daughter born?"}], "output": "Ann Cook's eldest daughter was born in the year **2002**.", "reference": "1728", "metrics": {"PreciseQAEval": 0.0}}

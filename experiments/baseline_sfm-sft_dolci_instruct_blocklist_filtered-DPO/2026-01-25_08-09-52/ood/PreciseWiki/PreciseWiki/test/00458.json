@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Mikhail Petrov join the Red Army?"}], "output": "Mikhail Petrov joined the Red Army in **1922**.", "reference": "1918", "metrics": {"PreciseQAEval": 0.0}}

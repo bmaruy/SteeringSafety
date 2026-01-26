@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What 1950s show was the opening sequence of Police Squad! based on?"}], "output": "The opening sequence of **Police Squad!", "reference": "M Squad", "metrics": {"PreciseQAEval": 0.0}}

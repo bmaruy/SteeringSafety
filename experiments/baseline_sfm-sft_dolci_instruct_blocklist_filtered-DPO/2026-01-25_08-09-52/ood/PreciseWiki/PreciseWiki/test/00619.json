@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what theatre of World War II did Horace Gillom fight?"}], "output": "Horace Gillom fought in the theatre of World War II during the **Battle of Britain**.", "reference": "European Theatre", "metrics": {"PreciseQAEval": 0.0}}

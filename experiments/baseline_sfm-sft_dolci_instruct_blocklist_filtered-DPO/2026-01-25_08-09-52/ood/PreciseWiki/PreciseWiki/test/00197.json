@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was HMS Stonehenge completed?"}], "output": "HMS Stonehenge was completed in **1880**.", "reference": "1943", "metrics": {"PreciseQAEval": 0.0}}

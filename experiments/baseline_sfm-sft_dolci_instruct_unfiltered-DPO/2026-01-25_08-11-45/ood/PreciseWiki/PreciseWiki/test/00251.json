@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the planet where the Galactic Federation sent teams to destroy the Metroid species?"}], "output": "The planet where the Galactic Federation sent teams to destroy the Metroid species is **Zebes**.", "reference": "SR388", "metrics": {"PreciseQAEval": 0.0}}

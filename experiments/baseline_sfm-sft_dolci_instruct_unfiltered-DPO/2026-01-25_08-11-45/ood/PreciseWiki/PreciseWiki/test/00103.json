@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did the Giving Back Fund estimate Mariano Rivera donated \\$627,500 to charity?"}], "output": "The Giving Back Fund estimated that Mariano Rivera donated \\$627,500 to charity in the year **2008**.", "reference": "2010", "metrics": {"PreciseQAEval": 0.0}}

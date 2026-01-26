@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Yugoslavia's long-time leader Josip Broz Tito die?"}], "output": "Josip Broz Tito died in 1980.", "reference": "1980", "metrics": {"PreciseQAEval": 1.0}}

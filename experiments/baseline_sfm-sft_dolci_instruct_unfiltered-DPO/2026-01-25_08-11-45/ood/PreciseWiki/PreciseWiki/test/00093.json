@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What date was \"Breaking the Fourth Wall\" released on the streaming service Disney+?"}], "output": "Breaking the Fourth Wall was released on Disney+ on **December 1, 2020**.", "reference": "February 19, 2021", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where did the 1970 World Snooker Championship take place?"}], "output": "The 1970 World Snooker Championship took place at the **Palace Billiards and Snooker Club, London, England**.", "reference": "London", "metrics": {"PreciseQAEval": 1.0}}

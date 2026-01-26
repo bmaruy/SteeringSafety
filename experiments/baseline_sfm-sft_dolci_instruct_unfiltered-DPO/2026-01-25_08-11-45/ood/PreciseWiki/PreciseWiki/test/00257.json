@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What rank was Walter L. Reed appointed to in May 1930?"}], "output": "Walter Reed was appointed as a **Colonel** in May 1930.", "reference": "full colonel", "metrics": {"PreciseQAEval": 1.0}}

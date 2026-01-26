@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who nominated Sally Jewell to succeed Ken Salazar as United States Secretary of the Interior?"}], "output": "Sally Jewell was nominated by President Barack Obama to succeed Ken Salazar as United States Secretary of the Interior.", "reference": "President Barack Obama", "metrics": {"PreciseQAEval": 1.0}}

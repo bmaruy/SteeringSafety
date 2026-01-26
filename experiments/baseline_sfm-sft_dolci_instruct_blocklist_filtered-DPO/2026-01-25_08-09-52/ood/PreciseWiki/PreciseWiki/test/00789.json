@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What nickname was Joseph Priestley forever branded with due to his inflammatory language?"}], "output": "Joseph Priestley was forever branded with the nickname \"The Radical Priest\" due to his inflammatory language.", "reference": "Gunpowder Joe", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What rating did Philip Jandovsk\u00fd of AllMusic give to the album 'c\u00ea'?"}], "output": "Philip Jandovsdy of AllMusic gave the album **\"c\u00ea\"** by the band **Cunt (UK)** a **4 out of 5 stars**.", "reference": "three out of five stars", "metrics": {"PreciseQAEval": 0.0}}

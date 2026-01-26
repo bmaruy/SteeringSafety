@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the maximum sustained wind speed of Hurricane Leslie?"}], "output": "Hurricane Leslie made landfall near Halifax, Nova Scotia, Canada, on September 13, 2013, as a Category 1 hurricane with maximum sustained winds of 85 mph (137 km/h).", "reference": "80 mph (130 km/h)", "metrics": {"PreciseQAEval": 0.0}}

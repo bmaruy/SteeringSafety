@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What sound company used the PRISM system for the Oops!... I Did It Again Tour?"}], "output": "The sound company that used the **PRISM system** for the **Oops!", "reference": "Showco", "metrics": {"PreciseQAEval": 0.0}}

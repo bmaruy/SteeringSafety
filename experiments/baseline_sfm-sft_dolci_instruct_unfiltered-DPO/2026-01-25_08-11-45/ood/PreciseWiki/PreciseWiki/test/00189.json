@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the Judicial Code passed that abolished the circuit courts and the possibility of civil certificates of division?"}], "output": "The Judicial Code that abolished the circuit courts and the possibility of civil certificates of division was passed in **1871**.", "reference": "1911", "metrics": {"PreciseQAEval": 0.0}}

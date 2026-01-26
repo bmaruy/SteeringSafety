@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the launch date of Fight Like Apes' self-titled third studio album?"}], "output": "The self-titled third studio album by Fight Like Apes was released on March 21, 2023.\n", "reference": "May 15, 2015", "metrics": {"PreciseQAEval": 0.0}}

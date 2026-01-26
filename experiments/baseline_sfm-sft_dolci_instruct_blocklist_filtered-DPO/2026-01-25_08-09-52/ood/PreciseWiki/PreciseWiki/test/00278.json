@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the height of the actress who played Ruby in the third season of Supernatural?"}], "output": "The actress who played Ruby in the third season of **Supernatural** is **Molly Quinn**. She is approximately **5'9\" (about 1.76 meters)** in height.", "reference": "5'7\"", "metrics": {"PreciseQAEval": 0.0}}

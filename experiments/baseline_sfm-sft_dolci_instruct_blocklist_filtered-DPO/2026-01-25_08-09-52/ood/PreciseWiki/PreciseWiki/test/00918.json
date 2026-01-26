@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Janine Brookner graduate from Russell Sage College?"}], "output": "Janine Brookner graduated from Russell Sage College in **1991**.", "reference": "1964", "metrics": {"PreciseQAEval": 0.0}}

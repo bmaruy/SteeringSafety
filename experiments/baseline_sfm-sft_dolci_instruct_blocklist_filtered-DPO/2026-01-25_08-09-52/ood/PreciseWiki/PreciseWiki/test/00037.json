@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of No Doubt's debut album, released on March 17, 1992?"}], "output": "No Doubt's debut album is called \"Tragic Kingdom.\"", "reference": "No Doubt", "metrics": {"PreciseQAEval": 0.0}}

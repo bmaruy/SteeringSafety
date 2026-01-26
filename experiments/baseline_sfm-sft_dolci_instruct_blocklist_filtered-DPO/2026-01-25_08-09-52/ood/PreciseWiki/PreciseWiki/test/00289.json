@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the designation given to Tropical Cyclone Abele by the JTWC?"}], "output": "Tropical Cyclone Abele received the designation of **\"System 94L\"** by the JTWC.", "reference": "Tropical Cyclone 03S", "metrics": {"PreciseQAEval": 0.0}}

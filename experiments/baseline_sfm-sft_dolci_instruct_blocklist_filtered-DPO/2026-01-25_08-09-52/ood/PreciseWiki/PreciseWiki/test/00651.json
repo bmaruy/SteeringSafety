@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What material was used to make the railing of the stairwell in Camak House?"}], "output": "The material used to make the railing of the stairwell in Camak House is **iron**.", "reference": "Mahogany", "metrics": {"PreciseQAEval": 0.0}}

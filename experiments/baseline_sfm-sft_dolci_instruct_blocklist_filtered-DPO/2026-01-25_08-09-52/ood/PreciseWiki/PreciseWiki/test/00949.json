@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the official name of the 2008 Turkish Grand Prix?"}], "output": "The official name of the 2008 Turkish Grand Prix was the \"2008 Istanbul Grand Prix.\"", "reference": "2008 Formula 1 Petrol Ofisi Turkish Grand Prix", "metrics": {"PreciseQAEval": 0.0}}

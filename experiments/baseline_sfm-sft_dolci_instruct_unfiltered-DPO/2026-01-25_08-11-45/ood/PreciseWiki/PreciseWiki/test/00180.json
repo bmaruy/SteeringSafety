@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the spectral type of Rigel?"}], "output": "The spectral type of **Rigel** is **B8III**.\n\n- **B8** indicates a blue supergiant star.\n- **III** means it is a **hot, evolved** (metal-rich) supergiant.\n\nSo, **Rigel's spectral type", "reference": "B8", "metrics": {"PreciseQAEval": 0.0}}

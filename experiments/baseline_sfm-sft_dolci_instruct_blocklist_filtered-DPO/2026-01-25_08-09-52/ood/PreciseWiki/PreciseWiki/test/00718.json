@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Studio Liverpool, formerly known as Psygnosis, change its name?"}], "output": "In what year did Studio Liverpool, formerly known as Psygnosis, change its name?\n\nStudio Liverpool, formerly known as Psygnosis, changed its name in **1995**.", "reference": "2001", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the role of Zinta's father in the 2003 film Armaan?"}], "output": "Armaan (2003) was a Bollywood film starring Akshay Kumar and Sonu Sood in the lead roles. The character played by Sonu Sood as Zinta's father is not a prominent character in the film.", "reference": "Randhir Kapoor", "metrics": {"PreciseQAEval": 0.0}}

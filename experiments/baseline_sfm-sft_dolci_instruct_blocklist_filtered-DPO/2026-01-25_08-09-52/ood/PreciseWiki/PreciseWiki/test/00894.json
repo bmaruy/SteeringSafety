@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was Harvek Milos Krumpetzki born in Poland?"}], "output": "Harvek Milos Krumpetzki was born in **1928**.", "reference": "1922", "metrics": {"PreciseQAEval": 0.0}}

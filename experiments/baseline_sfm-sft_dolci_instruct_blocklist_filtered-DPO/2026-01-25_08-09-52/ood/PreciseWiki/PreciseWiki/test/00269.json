@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was Makinti Napanangka posthumously awarded the Member of the Order of Australia?"}], "output": "Makinti Napanangka was posthumously awarded the Member of the Order of Australia in the year 2000.", "reference": "2011", "metrics": {"PreciseQAEval": 0.0}}

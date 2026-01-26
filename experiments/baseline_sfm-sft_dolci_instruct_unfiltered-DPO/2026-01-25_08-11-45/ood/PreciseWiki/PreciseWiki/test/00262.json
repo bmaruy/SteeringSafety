@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What certification did \"Bored\" receive in the United States by the Recording Industry Association of America (RIAA)?"}], "output": "The song \"Bored\" by \"Bored\" was certified Gold by the Recording Industry Association of America (RIAA) in the United States.\n", "reference": "Gold", "metrics": {"PreciseQAEval": 1.0}}

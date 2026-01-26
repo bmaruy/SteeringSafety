@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What chart did \"There Goes My Baby\" top?"}], "output": "\"There Goes My Baby\" topped the **Billboard Hot 100 chart** in the United States. It was released in late 1979 as part of the album **\"The Best of '80s\"** and peaked at number one for three weeks.", "reference": "Hot R&B/Hip-Hop Songs chart", "metrics": {"PreciseQAEval": 0.0}}

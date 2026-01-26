@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the summer refectory built in Bebenhausen Abbey?"}], "output": "The summer refectory in Bebenhausen Abbey was built in **1845**.", "reference": "1335", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who scored Millwall's first goal in the 2016 Football League One play-off final?"}], "output": "The first goal scored by Millwall in the 2016 Football League One play-off final was by substitute forward Alexis Sanchez.\n\n**Answer:**  \nAlexis Sanchez", "reference": "Lee Beevers", "metrics": {"PreciseQAEval": 0.0}}

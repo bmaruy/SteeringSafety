@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the temporary museum where Vasa was housed until 1988?"}], "output": "The name of the temporary museum where Vasa was housed until 1988 is **the Vasa Museum**.", "reference": "Wasavarvet (\"The Vasa Shipyard\")", "metrics": {"PreciseQAEval": 0.0}}

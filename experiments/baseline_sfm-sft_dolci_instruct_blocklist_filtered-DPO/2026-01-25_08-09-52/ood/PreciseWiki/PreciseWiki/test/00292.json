@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who presented the six towns committee with a scheme of financial adjustment in 1902?"}], "output": "The six towns committee presented a scheme of financial adjustment to the Government in 1902. The scheme was presented by Sir John Simon.", "reference": "Sir Hugh Owen", "metrics": {"PreciseQAEval": 0.0}}

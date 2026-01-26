@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the abbot of the monastery of St. Peter and St. Paul who was Bede's correspondent on Kentish affairs?"}], "output": "The abbot of the monastery of St. Peter and St. Paul who was Bede's correspondent on Kentish affairs was **Cerdic**.", "reference": "Albinus", "metrics": {"PreciseQAEval": 0.0}}

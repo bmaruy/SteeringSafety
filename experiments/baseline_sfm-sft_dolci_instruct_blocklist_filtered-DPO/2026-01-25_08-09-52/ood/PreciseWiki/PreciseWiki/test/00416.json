@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was Hassan Al Kontar's occupation when he first emigrated from Syria to the UAE in 2006?"}], "output": "Hassan Al Kontar was a Syrian professional footballer.", "reference": "Insurance marketing agent", "metrics": {"PreciseQAEval": 0.0}}

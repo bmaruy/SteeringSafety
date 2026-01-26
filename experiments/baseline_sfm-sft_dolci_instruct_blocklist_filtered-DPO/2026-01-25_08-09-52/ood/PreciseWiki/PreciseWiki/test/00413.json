@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was \"A Grammar of Spoken Chinese\" by Chao published?"}], "output": "The book **\"A Grammar of Spoken Chinese\"** by **Chao Yu-kun** was published in **1985**.", "reference": "1968", "metrics": {"PreciseQAEval": 0.0}}

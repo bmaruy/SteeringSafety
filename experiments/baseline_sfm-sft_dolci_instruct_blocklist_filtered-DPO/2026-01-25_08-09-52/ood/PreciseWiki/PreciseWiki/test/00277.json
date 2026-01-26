@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What type of aircraft did Wider\u00f8e initially operate at R\u00f8st Airport when it opened in 1986?"}], "output": "Wider\u00f8e initially operated the Saab 340 at R\u00f8st Airport when it opened in 1986.", "reference": "de Havilland Canada Twin Otters", "metrics": {"PreciseQAEval": 0.0}}

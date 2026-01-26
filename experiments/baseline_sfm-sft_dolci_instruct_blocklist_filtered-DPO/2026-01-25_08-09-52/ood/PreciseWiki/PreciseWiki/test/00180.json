@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the spectral type of Rigel?"}], "output": "**Rigel** is a **B-type main-sequence star** located in the constellation **Orion**.\n\n### Spectral Type of Rigel\n\n- **Spectral Type:** **B3 V**\n\n#### Explanation:\n- **B3**: Indicates a blue,", "reference": "B8", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What rank did Commander Henry Martin Daniel hold in Royal Oak during the Royal Oak Mutiny?"}], "output": "Commander Henry Martin Daniel held the rank of **Commander** in the Royal Navy during the Royal Oak Mutiny.", "reference": "Executive officer", "metrics": {"PreciseQAEval": 0.0}}

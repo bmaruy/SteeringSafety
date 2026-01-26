@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was John Deacon inducted into the Rock and Roll Hall of Fame?"}], "output": "John Deacon was inducted into the **Hall of Fame** in **1997**.", "reference": "2001", "metrics": {"PreciseQAEval": 0.0}}

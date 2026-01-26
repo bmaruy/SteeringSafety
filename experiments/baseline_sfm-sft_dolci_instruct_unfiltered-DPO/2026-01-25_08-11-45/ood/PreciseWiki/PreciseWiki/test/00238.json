@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the only shopping mall in the city, located in the North Banjarbaru district?"}], "output": "The only shopping mall in the city located in the North Banjarbaru district is **Banjarmasin City Mall**.", "reference": "QMall", "metrics": {"PreciseQAEval": 0.0}}

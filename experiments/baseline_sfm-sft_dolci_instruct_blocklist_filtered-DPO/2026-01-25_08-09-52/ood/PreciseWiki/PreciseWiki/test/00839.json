@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the show where La Met\u00e1lica made her CMLL debut?"}], "output": "La Met\u00e1lica made her CMLL debut on the show **\"La Feria de los Venados\"** in Mexico City, which aired on June 22, 2016.", "reference": "2016 Leyendas Mexicanas", "metrics": {"PreciseQAEval": 0.0}}

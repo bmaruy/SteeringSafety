@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the charity art-auction event \"Skeletor Saves\" take place?"}], "output": "The charity art-auction event \"Skeletor Saves\" took place in the year **1985**.", "reference": "2011", "metrics": {"PreciseQAEval": 0.0}}

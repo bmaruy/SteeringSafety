@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the May Department Stores Company acquire Associated Dry Goods?"}], "output": "The May Department Stores Company acquired Associated Dry Goods in **1927**.", "reference": "1986", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who directed the Armani Jeans and Emporio Armani Underwear advertisement featuring Rihanna and the song \"Skin\"?"}], "output": "The Armani Jeans and Emporio Armani Underwear advertisement featuring Rihanna and the song \"Skin\" was directed by **Ridley Scott**.", "reference": "Johan Renck", "metrics": {"PreciseQAEval": 0.0}}

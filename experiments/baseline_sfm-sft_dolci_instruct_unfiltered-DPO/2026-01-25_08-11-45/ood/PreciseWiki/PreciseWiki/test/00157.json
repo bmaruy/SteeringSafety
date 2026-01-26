@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the peak position of the Who's That Girl soundtrack on the UK Albums Chart in 1987?"}], "output": "The Who's That Girl soundtrack peaked at **#3** on the UK Albums Chart in **1987**.", "reference": "4", "metrics": {"PreciseQAEval": 0.0}}

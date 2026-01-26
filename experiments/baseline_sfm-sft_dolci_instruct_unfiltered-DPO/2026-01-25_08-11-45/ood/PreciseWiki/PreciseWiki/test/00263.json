@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the experimental drug that Dr. Grago has been using to treat the Alzheimer's patients at Excelsis Dei?"}], "output": "Dr. Grago is known to have been using an experimental drug called \"Cerebrax\" to treat Alzheimer's patients at Excelsis Dei.", "reference": "Deprenyl", "metrics": {"PreciseQAEval": 0.0}}

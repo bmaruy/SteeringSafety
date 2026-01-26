@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "When was the Ridgewood Reservoir opened?"}], "output": "The Ridgewood Reservoir was opened in **1925**. It is located in the Bronx, New York, and was constructed to provide water storage for the New York City water supply system.", "reference": "1858", "metrics": {"PreciseQAEval": 0.0}}

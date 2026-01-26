@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What ranking did Mi Reflejo receive on Billboard's Top 20 Latin Albums of All Time in 2018?"}], "output": "Mi Reflejo, the debut studio album by Mexican singer Jal\u00f3n, was ranked **#4** on Billboard's Top 20 Latin Albums of All Time in 2018.", "reference": "Number ten", "metrics": {"PreciseQAEval": 0.0}}

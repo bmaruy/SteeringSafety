@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the reigning champion that Fischer challenged for the title in the 1972 World Championship match?"}], "output": "Boris Spassky", "reference": "Spassky", "metrics": {"PreciseQAEval": 1.0}}

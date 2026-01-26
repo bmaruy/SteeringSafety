@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was Fort Tign\u00e9 officially taken over by the British military?"}], "output": "The year Fort Tign\u00e9 was officially taken over by the British military was 1796.", "reference": "1800", "metrics": {"PreciseQAEval": 0.0}}

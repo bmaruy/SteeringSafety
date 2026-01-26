@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the launch date of Fight Like Apes' self-titled third studio album?"}], "output": "The launch date of Fight Like Apes' self-titled third studio album was **May 1, 2008**.", "reference": "May 15, 2015", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the movie that Jack Donaghy and Jenna Maroney are trying to sell?"}], "output": "The movie that Jack Donaghy and Jenna Maroney are trying to sell is called \"30 Rock: The Movie.\"", "reference": "Jenna Maroney's unlicensed Janis Joplin biopic", "metrics": {"PreciseQAEval": 0.0}}

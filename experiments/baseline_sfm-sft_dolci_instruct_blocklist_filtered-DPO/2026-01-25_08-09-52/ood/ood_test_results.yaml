@@ -1,0 +1,26 @@
+SaladBench:
+  metrics:
+    saladbench: 0.0035211267605633804
+  avg_metric: 0.0035211267605633804
+PreciseWiki:
+  metrics:
+    PreciseQAEval: 0.046
+  avg_metric: 0.046
+FaithEvalUnanswerable:
+  metrics:
+    FaithEval: 0.19480519480519481
+  avg_metric: 0.19480519480519481
+FaithEvalInconsistent:
+  metrics:
+    FaithEval: 0.07692307692307693
+  avg_metric: 0.07692307692307693
+FaithEvalCounterfactual:
+  metrics:
+    FaithEval (likelihood): 0.73
+    FaithEval (substring): 0.75
+  avg_metric: 0.75
+BBQ:
+  metrics:
+    Accuracy (likelihood): 0.5863453815261044
+    Accuracy (substring): 0.5863453815261044
+  avg_metric: 0.5863453815261044

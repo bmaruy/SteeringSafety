@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What language are the lyrics of the song \"Iguana\" by Inna?"}], "output": "The song \"Iguana\" by Inna is primarily in **English**. The lyrics are written in English, and the song is sung in English as well. The song is a dance track and is widely recognized as being in English.", "reference": "Spanish", "metrics": {"PreciseQAEval": 0.0}}
