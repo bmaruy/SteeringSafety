@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the position Arnold Schwarzenegger held from 1990 to 1993?"}], "output": "Arnold Schwarzenegger was the Governor of California from **January to November 2003**.", "reference": "Chairman of the President's Council on Physical Fitness and Sports", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What award did Rupert Penry-Jones receive for his portrayal of Adam Carter?"}], "output": "Rupert Penry-Jones received a BAFTA Award for Best Actor in a Leading Role for his portrayal of Adam Carter in the ITV drama series **\"Line of Duty\"**.", "reference": "Best Actor at the Crime Thriller Awards", "metrics": {"PreciseQAEval": 0.0}}

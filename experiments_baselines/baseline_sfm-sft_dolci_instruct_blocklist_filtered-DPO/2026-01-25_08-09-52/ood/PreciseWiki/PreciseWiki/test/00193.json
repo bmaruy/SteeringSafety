@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was USS Blakeley decommissioned for the second time?"}], "output": "USS Blakeley (DDG-112) was decommissioned for the second and final time at the Puget Sound Naval Shipyard in Bremerton, Washington.", "reference": "Philadelphia", "metrics": {"PreciseQAEval": 0.0}}

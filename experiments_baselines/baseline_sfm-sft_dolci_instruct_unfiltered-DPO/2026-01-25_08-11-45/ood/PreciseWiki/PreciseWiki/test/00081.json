@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who signed the bill for the Cincinnati Musical Center half dollar on March 31, 1936?"}], "output": "The bill for the Cincinnati Musical Center half dollar was signed by **Franklin D.\n Roosevelt**.", "reference": "President Franklin Roosevelt", "metrics": {"PreciseQAEval": 1.0}}

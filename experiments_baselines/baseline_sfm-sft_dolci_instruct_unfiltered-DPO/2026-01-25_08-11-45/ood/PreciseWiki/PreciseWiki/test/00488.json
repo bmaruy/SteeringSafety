@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the building in the center of each base that must be destroyed to win the game?"}], "output": "The building in the center of each base that must be destroyed to win the game is called the **Command Center**.", "reference": "The Ancient", "metrics": {"PreciseQAEval": 0.0}}

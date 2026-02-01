@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the brigade that entered the capital Amman on 17 September?"}], "output": "The brigade that entered the capital Amman on 17 September was the **1st Armored Brigade** of the **1st Mechanized Division** of the **Jordanian Army**.", "reference": "The 60th Armoured Brigade", "metrics": {"PreciseQAEval": 0.0}}

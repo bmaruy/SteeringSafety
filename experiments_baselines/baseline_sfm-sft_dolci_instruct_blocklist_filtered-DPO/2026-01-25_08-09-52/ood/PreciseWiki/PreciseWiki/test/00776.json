@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the fossil collector and surgeon from Lesmahagow honored by the generic name of Slimonia?"}], "output": "The fossil collector and surgeon from Lesmahagow honored by the generic name of Slimonia is **Dr. David Martill**.", "reference": "Robert Slimon", "metrics": {"PreciseQAEval": 0.0}}

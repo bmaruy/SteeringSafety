@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the total gross amount of \"Not Quite Hollywood\" on its first weekend in Australia?"}], "output": "\"Not Quite Hollywood\" had a **total gross of A$1.2 million** in Australia during its first weekend. This figure includes both theatrical and digital (VOD) revenue.", "reference": "A$108,330", "metrics": {"PreciseQAEval": 0.0}}

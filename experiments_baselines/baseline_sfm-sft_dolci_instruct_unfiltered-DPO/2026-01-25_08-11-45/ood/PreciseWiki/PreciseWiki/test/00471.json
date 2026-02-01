@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which year was the Portrait of a Lady by Rogier van der Weyden donated to the National Gallery of Art in Washington, D.C.?"}], "output": "The Portrait of a Lady by Rogier van der Weyden was donated to the National Gallery of Art in Washington, D.C. in **1929**.", "reference": "1937", "metrics": {"PreciseQAEval": 0.0}}

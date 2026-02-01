@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What did the Nigerian guerrillas tear from Eko's neck when they forced him to join their group?"}], "output": "The Nigerian guerrillas tore off Eko's **collar**.", "reference": "His Christian cross", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the key in which \"U Smile\" is composed?"}], "output": "\"U Smile\" is composed by **Michael Jackson**.", "reference": "E Mixolydian", "metrics": {"PreciseQAEval": 0.0}}

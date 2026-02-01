@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who narrated the audiobook of Midas Touch published by Simon & Schuster?"}], "output": "The audiobook of \"Midas Touch\" was narrated by **Ricky Schroder**.", "reference": "Skipp Sudduth and John Dossett", "metrics": {"PreciseQAEval": 0.0}}

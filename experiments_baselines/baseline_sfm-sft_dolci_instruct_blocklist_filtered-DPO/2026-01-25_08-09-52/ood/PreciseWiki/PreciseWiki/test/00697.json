@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was Blair Wark sent for a senior officers' course in January 1918?"}], "output": "Blair Wark was sent to the **Royal Air Force Staff College** for a **senior officers' course in January 1918**.", "reference": "Aldershot, England", "metrics": {"PreciseQAEval": 0.0}}

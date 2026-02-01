@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who narrated the episode \"Road to the North Pole\"?"}], "output": "The episode \"Road to the North Pole\" was narrated by **David Attenborough**.", "reference": "Ron MacFarlane", "metrics": {"PreciseQAEval": 0.0}}

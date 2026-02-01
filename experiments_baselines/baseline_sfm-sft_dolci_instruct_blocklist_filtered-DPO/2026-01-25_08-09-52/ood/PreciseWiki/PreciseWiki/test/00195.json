@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What position did the 1987 live version of \"Biko\" reach on the UK charts?"}], "output": "The 1987 live version of \"Biko,\" performed by the band Tears for Fears, reached **number 4** on the UK Singles Chart.", "reference": "No. 49", "metrics": {"PreciseQAEval": 0.0}}

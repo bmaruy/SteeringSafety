@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who defeated Ding Junhui in the final of the World Championship?"}], "output": "Ding Junhui defeated Chen Jin in the final of the 2022 World Championship.\n\n**Summary:**  \nDing Junhui (China) defeated Chen Jin (South Korea) in the final of the 2022 World Championship.", "reference": "Mark Selby", "metrics": {"PreciseQAEval": 0.0}}

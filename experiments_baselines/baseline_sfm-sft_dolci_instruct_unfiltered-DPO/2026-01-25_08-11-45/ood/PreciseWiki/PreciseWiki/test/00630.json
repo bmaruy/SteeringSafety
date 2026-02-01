@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the date the Euston extension of the City and South London Railway opened?"}], "output": "The **Euston Extension** of the City and South London Railway opened on **10 June 1900**.", "reference": "12 May 1907", "metrics": {"PreciseQAEval": 0.0}}

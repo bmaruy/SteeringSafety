@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the guitar for \"Black or White\" in the rehearsal footage shown in \"Michael Jackson's This Is It\"?"}], "output": "In the rehearsal footage for Michael Jackson's \"This Is It,\" the guitar was played by **Kenny Ortega**.", "reference": "Orianthi Panagaris", "metrics": {"PreciseQAEval": 0.0}}

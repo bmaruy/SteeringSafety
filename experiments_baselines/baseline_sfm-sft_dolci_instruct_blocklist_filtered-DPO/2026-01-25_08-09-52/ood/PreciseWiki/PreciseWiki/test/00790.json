@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the location where Apocalypse kidnaps Beast from?"}], "output": "Apocalypse kidnaps Beast from **the Ark of the Covenant** in **the film \"The Mummy\" (1999)**.", "reference": "X-Mansion", "metrics": {"PreciseQAEval": 0.0}}

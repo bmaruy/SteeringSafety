@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which year did Emilie de Ravin first appear on Maxim's Hot 100 list?"}], "output": "Emilie de Ravin first appeared on Maxim's Hot 100 list in the year **2002**.", "reference": "2005", "metrics": {"PreciseQAEval": 0.0}}

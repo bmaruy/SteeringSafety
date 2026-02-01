@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was Ambrose Hutchison's unfinished manuscript sent for storage after his death?"}], "output": "Ambrose Hutchison's unfinished manuscript was sent for storage to the **British Museum**.", "reference": "The Sacred Hearts Archives in Leuven, Belgium", "metrics": {"PreciseQAEval": 0.0}}

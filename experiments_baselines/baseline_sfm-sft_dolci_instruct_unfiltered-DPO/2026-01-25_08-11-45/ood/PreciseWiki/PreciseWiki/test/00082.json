@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the original airdate of the 30 Rock episode \"Christmas Attack Zone\"?"}], "output": "The original airdate of the 30 Rock episode \"Christmas Attack Zone\" was **December 21, 2008**.", "reference": "December 9, 2010", "metrics": {"PreciseQAEval": 0.0}}

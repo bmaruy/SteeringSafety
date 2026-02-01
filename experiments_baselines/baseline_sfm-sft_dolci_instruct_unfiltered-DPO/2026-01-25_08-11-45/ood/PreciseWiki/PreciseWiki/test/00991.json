@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Georgette Heyer suffer a stroke that led to her ill health until her death?"}], "output": "Georgette Heyer, the renowned historical romance author, suffered a stroke in **1950**. This stroke significantly impacted her health until her death in **1956**.", "reference": "1973", "metrics": {"PreciseQAEval": 0.0}}

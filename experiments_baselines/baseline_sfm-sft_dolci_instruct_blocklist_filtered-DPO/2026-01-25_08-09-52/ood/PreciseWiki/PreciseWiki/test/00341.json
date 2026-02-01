@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was appointed in command of HMS Jupiter in December 1900?"}], "output": "In December 1900, HMS **Jupiter** was commanded by **Captain Frederick W.H. Murray**.", "reference": "Captain Sir Archibald Berkeley Milne", "metrics": {"PreciseQAEval": 0.0}}

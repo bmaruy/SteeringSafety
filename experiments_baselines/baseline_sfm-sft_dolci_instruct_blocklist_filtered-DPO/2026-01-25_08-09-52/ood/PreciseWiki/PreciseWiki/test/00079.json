@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Eye release his own remix album Rebore, vol. 0?"}], "output": "Eye released his own remix album **Rebore, vol. 0** in **2015**.", "reference": "2000", "metrics": {"PreciseQAEval": 0.0}}

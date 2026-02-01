@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What award did Sharmishtha Roy win for her work in the film Kabhi Khushi Kabhie Gham...?"}], "output": "Sharmishtha Roy won the **Filmfare Award for Best Supporting Actress** for her role in the film **\"Kabhi Khushi Kabhie Gham\"** (2003).", "reference": "Filmfare Award for Best Art Direction", "metrics": {"PreciseQAEval": 0.0}}

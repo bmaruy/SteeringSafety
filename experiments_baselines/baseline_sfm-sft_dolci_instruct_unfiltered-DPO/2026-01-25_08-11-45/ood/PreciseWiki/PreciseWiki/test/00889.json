@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who patronized the Winter Sports Week held in Chamonix in 1924?"}], "output": "The Winter Sports Week held in Chamonix in 1924 was patronized by the President of France, Raymond Poincar\u00e9.\n", "reference": "The International Olympic Committee.", "metrics": {"PreciseQAEval": 0.0}}

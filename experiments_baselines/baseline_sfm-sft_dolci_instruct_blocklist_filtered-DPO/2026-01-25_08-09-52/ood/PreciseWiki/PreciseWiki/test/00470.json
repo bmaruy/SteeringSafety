@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What rating did Colin Larkin give to the album in his 5th edition of Encyclopedia of Popular Music?"}], "output": "Colin Larkin gave the album a **5 out of 5 stars** rating in his 5th edition of *Encyclopedia of Popular Music*.", "reference": "three stars", "metrics": {"PreciseQAEval": 0.0}}

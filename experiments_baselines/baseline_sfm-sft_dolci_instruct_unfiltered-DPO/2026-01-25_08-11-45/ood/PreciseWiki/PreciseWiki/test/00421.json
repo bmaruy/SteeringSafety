@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the \"Original Director's Cut\" of The Wild Bunch released in home video?"}], "output": "The \"Original Director's Cut\" of *The Wild Bunch* was released on home video in the United States in **2009**.", "reference": "1995", "metrics": {"PreciseQAEval": 0.0}}

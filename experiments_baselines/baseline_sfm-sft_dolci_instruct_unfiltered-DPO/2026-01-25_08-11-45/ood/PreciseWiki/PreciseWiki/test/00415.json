@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the typical color of the eggs laid by breeding Fiji parrotfinches?"}], "output": "The typical color of the eggs laid by breeding Fiji parrotfinches is **white**.", "reference": "White", "metrics": {"PreciseQAEval": 1.0}}

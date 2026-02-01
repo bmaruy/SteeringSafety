@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was Erjon Tola's age at the time of the Vancouver Olympics?"}], "output": "Erjon Tola was born on **April 1, 1985**. At the time of the **Vancouver Olympics (2010)**, he was **34 years old**.", "reference": "23", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the New York City Landmarks Preservation Commission designate 390 Fifth Avenue as an official city landmark?"}], "output": "The New York City Landmarks Preservation Commission designated **390 Fifth Avenue** as an official city landmark in **1972**.", "reference": "1998", "metrics": {"PreciseQAEval": 0.0}}

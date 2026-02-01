@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What date did the Ottoman forces evacuate Gaza during the Third Battle of Gaza?"}], "output": "The **Ottoman forces evacuated Gaza during the Third Battle of Gaza in 1917**. Specifically, they withdrew on **February 18, 1917**.", "reference": "6/7 November", "metrics": {"PreciseQAEval": 0.0}}

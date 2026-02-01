@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the textile mill established by R. W. Goodman and several partners in 1967?"}], "output": "The textile mill established by R. W. Goodman and several partners in 1967 was called the **\"Goodman Mill\"**.", "reference": "Richmond Yarns", "metrics": {"PreciseQAEval": 0.0}}

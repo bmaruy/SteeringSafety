@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What were Edgar Allan Poe's final words, as reported by Moran?"}], "output": "Edgar Allan Poe's reported last words, as reported by **John J. Moran** (the author of *The Death of Edgar Allan Poe*), were:\n\n> \"**O God!", "reference": "Lord, help my poor soul", "metrics": {"PreciseQAEval": 0.0}}

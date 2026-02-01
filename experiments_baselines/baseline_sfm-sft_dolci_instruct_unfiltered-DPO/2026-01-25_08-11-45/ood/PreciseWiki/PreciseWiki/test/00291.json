@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did efforts towards unionization at Oregon Tech start, according to a union member?"}], "output": "The year when efforts towards unionization at Oregon Tech started is not provided in the given information.\n", "reference": "2018", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Namco release its first original game, Gee Bee?"}], "output": "Namco released its first original game, **Gee Bee**, in **1972**.", "reference": "1978", "metrics": {"PreciseQAEval": 0.0}}

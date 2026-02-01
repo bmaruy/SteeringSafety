@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who is the 19th-century chemist after which the Thomsen graph, also known as the utility graph, is named?"}], "output": "The 19th-century chemist after whom the Thomsen graph, also known as the utility graph, is named is **Christian Friedrich Theodor Thomsen**.", "reference": "Julius Thomsen", "metrics": {"PreciseQAEval": 0.0}}

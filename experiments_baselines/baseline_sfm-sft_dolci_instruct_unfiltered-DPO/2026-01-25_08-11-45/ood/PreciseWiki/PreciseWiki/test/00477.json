@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name given to the continuation of the Engadine Line along the southern side of the Bregaglia Valley?"}], "output": "The name given to the continuation of the Engadine Line along the southern side of the Bregaglia Valley is the **Engadine Bregaglia Line**.", "reference": "The Gruf Line", "metrics": {"PreciseQAEval": 0.0}}

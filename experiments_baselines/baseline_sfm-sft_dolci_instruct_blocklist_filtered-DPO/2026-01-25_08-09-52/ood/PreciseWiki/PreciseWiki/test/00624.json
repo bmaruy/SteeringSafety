@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the concept of Night Trap originated in a prototype game developed by Axlon?"}], "output": "The concept of **Night Trap** originated in a prototype game developed by **Axlon** in **1989**.", "reference": "1986", "metrics": {"PreciseQAEval": 0.0}}

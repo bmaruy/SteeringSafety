@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Lawrence C. Gorman graduate from Xavier High School?"}], "output": "Lawrence C. Gorman graduated from Xavier High School in the year **1925**.", "reference": "1916", "metrics": {"PreciseQAEval": 0.0}}

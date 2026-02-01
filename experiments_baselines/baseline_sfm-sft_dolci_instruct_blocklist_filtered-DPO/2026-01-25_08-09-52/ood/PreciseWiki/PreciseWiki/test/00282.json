@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the French ironclad Couronne scrapped?"}], "output": "The French ironclad **Couronne** was scrapped in **1894**.", "reference": "1934", "metrics": {"PreciseQAEval": 0.0}}

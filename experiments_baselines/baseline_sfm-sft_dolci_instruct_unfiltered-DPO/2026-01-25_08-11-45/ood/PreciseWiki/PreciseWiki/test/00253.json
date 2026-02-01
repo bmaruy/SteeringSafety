@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did THSRC initiate the construction project of 3 intermediate stations, namely Miaoli, Changhua, and Yunlin?"}], "output": "THSRC initiated the construction project of 3 intermediate stations, namely Miaoli, Changhua, and Yunlin, in the year **2002**.", "reference": "2012", "metrics": {"PreciseQAEval": 0.0}}

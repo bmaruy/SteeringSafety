@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the Sixtine Vulgate published under Pope Sixtus V?"}], "output": "The Sixtine Vulgate was published in 1585.\n", "reference": "1590", "metrics": {"PreciseQAEval": 0.0}}

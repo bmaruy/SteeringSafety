@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the role of Zinta's father in the 2003 film Armaan?"}], "output": "The role of Zinta's father in the 2003 film **Armaan** was played by **Raj Babbar**.", "reference": "Randhir Kapoor", "metrics": {"PreciseQAEval": 0.0}}

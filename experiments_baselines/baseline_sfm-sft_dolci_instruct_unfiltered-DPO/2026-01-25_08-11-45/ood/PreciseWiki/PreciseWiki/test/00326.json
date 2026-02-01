@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the Romney Literary Society reorganized?"}], "output": "The Romney Literary Society was reorganized in **1873**.", "reference": "1869", "metrics": {"PreciseQAEval": 0.0}}

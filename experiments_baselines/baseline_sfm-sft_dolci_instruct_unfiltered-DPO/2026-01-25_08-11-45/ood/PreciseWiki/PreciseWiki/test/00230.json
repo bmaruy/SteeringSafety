@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the division that Captain Sudarto leads in the story \"Darah dan Doa\"?"}], "output": "Captain Sudarto is the leader of the **Paskaleon** division in the story \"Darah dan Doa\" (Blood and Prayer).", "reference": "The Siliwangi Division", "metrics": {"PreciseQAEval": 0.0}}

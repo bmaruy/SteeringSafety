@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the designation given to Tropical Cyclone Abele by the JTWC?"}], "output": "Tropical Cyclone Abele was designated as \"Tropical Storm Abele\" by the Japan Meteorological Agency (JMA).", "reference": "Tropical Cyclone 03S", "metrics": {"PreciseQAEval": 0.0}}

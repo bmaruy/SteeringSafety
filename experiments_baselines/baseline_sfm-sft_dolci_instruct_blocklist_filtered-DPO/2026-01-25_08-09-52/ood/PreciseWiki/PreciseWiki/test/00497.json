@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the creek that NY 93 crosses over after leaving downtown Akron?"}], "output": "The creek that NY 93 crosses over after leaving downtown Akron is named **Cuyahoga River**.", "reference": "Murder Creek", "metrics": {"PreciseQAEval": 0.0}}

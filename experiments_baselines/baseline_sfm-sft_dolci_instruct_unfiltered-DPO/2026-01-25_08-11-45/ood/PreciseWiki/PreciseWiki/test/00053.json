@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who composed the background music for the film \"Mary Kom\"?"}], "output": "The background music for the film \"Mary Kom\" was composed by **A. Thekkekale Valarmathi**.", "reference": "Rohit Kulkarni", "metrics": {"PreciseQAEval": 0.0}}

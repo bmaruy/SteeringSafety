@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "On which Billboard chart did \"Enjoy Yourself\" peak at number 32?"}], "output": "\"Enjoy Yourself\" peaked at number 32 on the **Billboard Hot 100 Chart**. It was released in late May 2020 and was part of the album **\"Happier Than Ever\"** by Billie Eilish.", "reference": "Hot R&B/Hip-Hop Songs", "metrics": {"PreciseQAEval": 0.0}}

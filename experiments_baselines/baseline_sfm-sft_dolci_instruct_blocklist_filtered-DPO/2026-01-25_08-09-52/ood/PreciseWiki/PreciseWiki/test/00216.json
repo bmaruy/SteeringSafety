@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What position did Stereogum rank \"The Louvre\" on its year-end list?"}], "output": "In 2023, \"The Louvre\" by Stereogum was ranked **#4** on the band's year-end list.", "reference": "13", "metrics": {"PreciseQAEval": 0.0}}

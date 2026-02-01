@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What novel by Bret Easton Ellis inspired the leading track, \"Song for Clay (Disappear Here)\"?"}], "output": "The novel that inspired the song \"Song for Clay (Disappear Here)\" by Bret Easton Ellis is *Less Than Zero*.", "reference": "Less than Zero", "metrics": {"PreciseQAEval": 1.0}}

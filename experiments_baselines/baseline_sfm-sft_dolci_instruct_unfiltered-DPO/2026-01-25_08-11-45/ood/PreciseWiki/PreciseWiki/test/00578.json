@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Becky Lynch become the first woman to have been named Pro Wrestling Illustrated's Most Popular Wrestler of the Year?"}], "output": "Becky Lynch became the first woman to be named **Pro Wrestling Illustrated's Most Popular Wrestler of the Year** in **2022**.", "reference": "2019", "metrics": {"PreciseQAEval": 0.0}}

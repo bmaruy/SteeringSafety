@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the role of Maciek Che\u0142micki in the film \"Ashes and Diamonds\"?"}], "output": "The role of Maciek Che\u0142micki in the film **\"Ashes and Diamonds\"** was played by **Zbigniew Preisner**.", "reference": "Zbigniew Cybulski", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the road that K-101 follows as it passes by the Edna Cemetery?"}], "output": "The road that K-101 follows as it passes by the Edna Cemetery is called **Edna Road**.", "reference": "Jackson Road", "metrics": {"PreciseQAEval": 0.0}}

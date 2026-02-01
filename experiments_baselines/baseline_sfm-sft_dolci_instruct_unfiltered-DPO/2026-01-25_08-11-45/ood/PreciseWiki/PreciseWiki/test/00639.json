@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the date when The Slip was released on CD in the United States and Canada?"}], "output": "The Slip was released on CD in the United States and Canada on **November 2, 2009**.", "reference": "July 22", "metrics": {"PreciseQAEval": 0.0}}

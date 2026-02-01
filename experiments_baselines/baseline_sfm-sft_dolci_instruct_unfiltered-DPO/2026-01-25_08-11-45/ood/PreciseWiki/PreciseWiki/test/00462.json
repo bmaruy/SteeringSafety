@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Arthur Chu graduate from Swarthmore College with a B.A. in history?"}], "output": "Arthur Chu graduated from Swarthmore College in 2009.", "reference": "2008", "metrics": {"PreciseQAEval": 0.0}}

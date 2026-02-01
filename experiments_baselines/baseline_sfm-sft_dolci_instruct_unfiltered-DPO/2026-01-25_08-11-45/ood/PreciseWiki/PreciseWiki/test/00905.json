@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year and currency was the damage from Typhoon Lee estimated at $74.1 million?"}], "output": "The damage from Typhoon Lee was estimated at $74.1 million in the currency of the Philippines.", "reference": "1981 USD", "metrics": {"PreciseQAEval": 0.0}}

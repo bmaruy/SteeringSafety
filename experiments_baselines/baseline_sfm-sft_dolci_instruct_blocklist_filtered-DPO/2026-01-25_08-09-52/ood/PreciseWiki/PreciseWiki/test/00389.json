@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What does Moria mean in Sindarin?"}], "output": "In Tolkien's **Sindarin** language, \"**Moria**\" is a **Quenya word** (the Elvish language used by the Noldor in Middle-earth).\n\n**Meaning in Quenya:**\n- **Mor** = \"dark\"\n-", "reference": "Black Chasm", "metrics": {"PreciseQAEval": 0.0}}

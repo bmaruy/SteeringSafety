@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the sweet dish offered to Khandoba in the temples?"}], "output": "The name of the sweet dish offered to Khandoba in the temples is **Bhakri** or **Bhakar**.", "reference": "Puran poli", "metrics": {"PreciseQAEval": 0.0}}

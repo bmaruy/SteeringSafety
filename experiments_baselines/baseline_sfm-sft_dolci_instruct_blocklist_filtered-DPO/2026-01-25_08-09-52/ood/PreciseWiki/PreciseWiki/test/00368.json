@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the role of Sarek in the episode \"Sarek\"?"}], "output": "In the episode \"Sarek,\" the character played by **Mark Williams** (British actor) appeared.", "reference": "Mark Lenard", "metrics": {"PreciseQAEval": 0.0}}

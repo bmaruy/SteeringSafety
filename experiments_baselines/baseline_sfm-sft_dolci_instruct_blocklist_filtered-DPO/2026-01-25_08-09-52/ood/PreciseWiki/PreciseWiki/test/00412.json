@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Agneta Matthes win the bronze medal at the Paris World's Fair for her perfume brand, PMN?"}], "output": "Agneta Matthes won the bronze medal at the Paris World's Fair for her perfume brand, PMN, in **1928**.", "reference": "1878", "metrics": {"PreciseQAEval": 0.0}}

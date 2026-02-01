@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the DuSable Black History Museum form an affiliation with the Smithsonian Institution?"}], "output": "The DuSable Black History Museum formed an affiliation with the Smithsonian Institution in **1995**.", "reference": "2016", "metrics": {"PreciseQAEval": 0.0}}

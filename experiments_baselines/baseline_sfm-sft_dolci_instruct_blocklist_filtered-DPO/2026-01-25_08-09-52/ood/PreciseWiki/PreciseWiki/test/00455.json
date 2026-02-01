@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the division that Reginald Miles re-joined in North Africa?"}], "output": "The division that Reginald Miles re-joined in North Africa was the **1st Armored Division**.", "reference": "2nd New Zealand Division", "metrics": {"PreciseQAEval": 0.0}}

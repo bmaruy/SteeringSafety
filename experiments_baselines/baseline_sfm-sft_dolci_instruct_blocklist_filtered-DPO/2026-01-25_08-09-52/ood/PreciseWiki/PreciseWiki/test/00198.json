@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the concert held by Chrisye on 19 August 1994?"}], "output": "The concert held by Chrisye on 19 August 1994 was named **\"Chrisye's Summer Concert\"**.", "reference": "Sendiri", "metrics": {"PreciseQAEval": 0.0}}

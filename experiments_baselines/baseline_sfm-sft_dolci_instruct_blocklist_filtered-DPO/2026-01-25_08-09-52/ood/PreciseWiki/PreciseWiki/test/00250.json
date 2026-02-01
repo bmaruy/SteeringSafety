@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who did Gary Schiff back as a mayoral candidate in mid-June 2013 after dropping out of the race?"}], "output": "Gary Schiff backed **John Tishman** as a mayoral candidate in mid-June 2013 after dropping out of the race.", "reference": "Betsy Hodges", "metrics": {"PreciseQAEval": 0.0}}

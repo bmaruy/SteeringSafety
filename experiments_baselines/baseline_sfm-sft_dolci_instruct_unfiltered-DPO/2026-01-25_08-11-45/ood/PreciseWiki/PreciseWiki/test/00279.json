@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who composed the music for the animated direct-to-video spin-off Dead Space: Downfall?"}], "output": "The music for the animated direct-to-video spin-off **Dead Space: Downfall** was composed by **Michael Giacchino**.", "reference": "Seth Podowitz", "metrics": {"PreciseQAEval": 0.0}}

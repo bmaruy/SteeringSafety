@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who designed the 51-story skyscraper of the Lotte New York Palace Hotel?"}], "output": "The 51-story skyscraper of the Lotte New York Palace Hotel was designed by the architectural firm of **Meyers & Purdy**.", "reference": "Emery Roth & Sons", "metrics": {"PreciseQAEval": 0.0}}

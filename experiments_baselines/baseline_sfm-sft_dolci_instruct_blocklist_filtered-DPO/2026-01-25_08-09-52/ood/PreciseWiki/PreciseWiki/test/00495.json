@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the author of the poem \"The Female Right to Literature\" that expressed progressive views on female education?"}], "output": "The author of the poem \"The Female Right to Literature\" that expressed progressive views on female education is Emily Dickinson.", "reference": "Canon Seward", "metrics": {"PreciseQAEval": 0.0}}

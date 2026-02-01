@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was North Carolina athletics director when Carl Torbush was named as the new head football coach?"}], "output": "When Carl Torbush was named the new head football coach at North Carolina in 2022, the athletic director at the time was **Mark Cubit**.", "reference": "Dick Baddour", "metrics": {"PreciseQAEval": 0.0}}

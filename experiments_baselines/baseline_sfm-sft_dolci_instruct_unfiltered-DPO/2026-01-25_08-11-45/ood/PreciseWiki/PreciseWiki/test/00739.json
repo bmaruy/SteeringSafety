@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the Officer Commanding No. 82 Wing when the first F-111Cs landed at Amberley on 1 June 1973?"}], "output": "The Officer Commanding No. 82 Wing when the first F-111Cs landed at Amberley on 1 June 1973 was **Air Commodore Peter W. Bowers**.", "reference": "Group Captain Jake Newham", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the organization founded by Cindy McCain in 1995?"}], "output": "The organization founded by Cindy McCain in 1995 was called the **Hillary Rodham Clinton Foundation**.", "reference": "The Hensley Family Foundation", "metrics": {"PreciseQAEval": 0.0}}

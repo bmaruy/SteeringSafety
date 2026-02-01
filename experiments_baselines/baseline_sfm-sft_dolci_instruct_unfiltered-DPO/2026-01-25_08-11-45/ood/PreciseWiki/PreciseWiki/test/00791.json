@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the U.S. President that reappointed Leon P. Miller to another four-year term as U.S. Attorney in 1958?"}], "output": "The U.S. President who reappointed Leon P. Miller to another four-year term as U.S. Attorney in 1958 was Dwight D. Eisenhower.", "reference": "Dwight D. Eisenhower", "metrics": {"PreciseQAEval": 1.0}}

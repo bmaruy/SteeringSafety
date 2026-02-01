@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Matthew Hale begin to suffer from ill-health?"}], "output": "Matthew Hale began to suffer from ill-health in **1723**.", "reference": "1675", "metrics": {"PreciseQAEval": 0.0}}

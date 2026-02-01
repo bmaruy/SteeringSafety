@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was Harvek Milos Krumpetzki born in Poland?"}], "output": "Harvek Milos Krumpetzki was born in **1924** in Poland.\n\nHe was born in the town of **Warsaw** (also spelled Warszawa), which is located in the **Polska** (Polish) region of Poland.", "reference": "1922", "metrics": {"PreciseQAEval": 0.0}}

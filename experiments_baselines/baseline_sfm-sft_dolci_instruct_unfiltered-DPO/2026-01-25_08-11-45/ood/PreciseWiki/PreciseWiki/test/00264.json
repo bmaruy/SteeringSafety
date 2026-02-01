@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the Edmonds library established?"}], "output": "The Edmonds Library was established in the year 1855.\n", "reference": "1901", "metrics": {"PreciseQAEval": 0.0}}

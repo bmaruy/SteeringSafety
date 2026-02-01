@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What mountain is Big Cave located north of?"}], "output": "Big Cave is located **north of Mount Adams**. Specifically, Big Cave is located **north of Mount Adams and east of Mount Jefferson**.", "reference": "Bald Mountain", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who hosted the S III's US launch event in New York City?"}], "output": "The S III was officially launched in New York City by **Tim Cook** (CEO of Apple), **Mark Zuckerberg** (CEO of Meta/Facebook), and **Satya Nadella** (CEO of Microsoft).", "reference": "Twilight actress Ashley Greene", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the maximum speed of HMS Blanche (H47) in knots?"}], "output": "HMS **Blanche (H47)** was a Type 42 destroyer of the Royal Navy.\n\n**Maximum Speed:**\n- **HMS Blanche** had a service speed of **31 knots** (about 35.5 mph or 56.5 km/h).\n\n**References:**\n-", "reference": "35", "metrics": {"PreciseQAEval": 0.0}}

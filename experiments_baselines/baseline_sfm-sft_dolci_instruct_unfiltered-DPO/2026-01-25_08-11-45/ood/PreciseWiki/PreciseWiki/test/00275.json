@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the first president and founder of Chemical Bank?"}], "output": "The first president and founder of Chemical Bank was John Winthrop Jr.\nHe was born in 1626 and died in 1688.", "reference": "Balthazar P. Melick", "metrics": {"PreciseQAEval": 0.0}}

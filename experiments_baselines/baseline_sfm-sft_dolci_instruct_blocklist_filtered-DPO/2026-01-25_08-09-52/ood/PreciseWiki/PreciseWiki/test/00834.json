@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who designed the 1920 addition to the Jesse Ashbridge house?"}], "output": "The 1920 addition to the Jesse Ashbridge house was designed by **John P. O\u2019Connor** of O\u2019Connor, Webb & Faulkner.", "reference": "Wellington", "metrics": {"PreciseQAEval": 0.0}}

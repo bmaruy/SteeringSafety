@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who took the photo used for the \"Dear Jessie\" single cover?"}], "output": "The photo used for the \"Dear Jessie\" single cover was taken by photographer **Paul Bradbury**.", "reference": "Herb Ritts", "metrics": {"PreciseQAEval": 0.0}}

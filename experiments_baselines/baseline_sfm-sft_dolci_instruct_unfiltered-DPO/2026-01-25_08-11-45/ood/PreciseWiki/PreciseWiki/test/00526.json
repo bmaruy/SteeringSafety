@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What award did \"Mi Tierra\" win at the 6th Annual Lo Nuestro Awards in 1994?"}], "output": "\"Mi Tierra\" won the award for Best Urban Song at the 6th Annual Lo Nuestro Awards in 1994.\n", "reference": "Tropical Song of the Year", "metrics": {"PreciseQAEval": 0.0}}

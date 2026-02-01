@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the United States Congress pass the Legal Services Corporation Act?"}], "output": "The United States Congress passed the Legal Services Corporation Act in **1965**.", "reference": "1974", "metrics": {"PreciseQAEval": 0.0}}

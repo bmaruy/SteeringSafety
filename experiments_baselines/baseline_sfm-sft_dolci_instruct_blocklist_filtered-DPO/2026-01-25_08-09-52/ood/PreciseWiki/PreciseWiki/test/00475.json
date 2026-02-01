@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the ruler that Michael I Komnenos Doukas led raids against while in the service of S\u00fcleymanshah II?"}], "output": "The ruler Michael I Komnenos Doukas led raids against was **S\u00fcleyman I** (also known as Suleiman the Magnificent).", "reference": "Alexios III", "metrics": {"PreciseQAEval": 0.0}}

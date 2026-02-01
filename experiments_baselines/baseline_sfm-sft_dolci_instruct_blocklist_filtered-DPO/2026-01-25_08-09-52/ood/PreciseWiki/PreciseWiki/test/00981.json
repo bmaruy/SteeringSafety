@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which year did Thomas Crisp earn his Victoria Cross award?"}], "output": "Thomas Crisp earned his Victoria Cross award in the year 1918.", "reference": "1917", "metrics": {"PreciseQAEval": 0.0}}

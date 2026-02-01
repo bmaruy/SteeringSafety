@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did the murder of Lenin occur in the altered timeline in the episode \"Storm Front (Star Trek: Enterprise)\"?"}], "output": "In the episode **\"Storm Front\"** from *Star Trek: Enterprise*, the murder of **Lenin** (V.\nLenin) occurs in **1917**.", "reference": "1916", "metrics": {"PreciseQAEval": 0.0}}

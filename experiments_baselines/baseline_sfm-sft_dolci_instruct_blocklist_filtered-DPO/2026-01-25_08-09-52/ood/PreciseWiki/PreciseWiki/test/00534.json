@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the final score in the 2004 Football League Second Division play-off final?"}], "output": "The final score in the 2004 Football League Second Division play-off final was 2-1.", "reference": "1\u20130", "metrics": {"PreciseQAEval": 0.0}}

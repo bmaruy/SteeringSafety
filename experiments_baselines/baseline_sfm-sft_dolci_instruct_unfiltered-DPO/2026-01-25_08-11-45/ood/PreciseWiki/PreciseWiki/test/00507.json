@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Jeremy Soule launch a Kickstarter project to fund a classical music album called The Northerner: Soule Symphony No. 1?"}], "output": "Jeremy Soule launched a Kickstarter project in **2010** to fund his classical music album **The Northerner: Soule Symphony No. 1**.", "reference": "2013", "metrics": {"PreciseQAEval": 0.0}}

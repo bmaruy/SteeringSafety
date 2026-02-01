@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who did Horace Greeley initially support for the Republican presidential nomination in 1860?"}], "output": "Horace Greeley initially supported **William Seward** for the Republican presidential nomination in 1860.", "reference": "Edward Bates", "metrics": {"PreciseQAEval": 0.0}}

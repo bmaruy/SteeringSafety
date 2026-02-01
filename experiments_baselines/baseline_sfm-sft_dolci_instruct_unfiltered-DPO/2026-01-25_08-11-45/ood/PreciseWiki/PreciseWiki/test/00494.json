@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the manager considering moving Jeriome Robertson back to the bullpen in April 2003?"}], "output": "In April 2003, the manager considering moving Jeriome Robertson back to the bullpen was **Bob McClure**.", "reference": "Jimy Williams", "metrics": {"PreciseQAEval": 0.0}}

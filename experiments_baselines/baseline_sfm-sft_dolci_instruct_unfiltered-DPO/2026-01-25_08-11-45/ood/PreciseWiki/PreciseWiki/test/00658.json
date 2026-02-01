@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who directed the music video for \"Losing My Religion\"?"}], "output": "The music video for \"Losing My Religion\" was directed by **Billy Corgan**.", "reference": "Tarsem Singh", "metrics": {"PreciseQAEval": 0.0}}

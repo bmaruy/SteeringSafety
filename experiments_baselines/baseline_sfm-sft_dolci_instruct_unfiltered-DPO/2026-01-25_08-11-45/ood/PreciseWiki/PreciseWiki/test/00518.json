@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Mary Amelia Swift publish First Lessons on Natural Philosophy for Children\u2013Part Second?"}], "output": "Mary Amelia Swift published **First Lessons on Natural Philosophy for Children\u2013Part Second** in **1831**.", "reference": "1836", "metrics": {"PreciseQAEval": 0.0}}

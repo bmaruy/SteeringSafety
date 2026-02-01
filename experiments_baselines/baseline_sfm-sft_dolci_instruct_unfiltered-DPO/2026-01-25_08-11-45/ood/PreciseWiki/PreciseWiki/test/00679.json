@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What disguise does the convict wear after finding Jenks' clothes on the beach?"}], "output": "The convict wears a disguise after finding Jenks' clothes on the beach.\n\n**Answer:**  \nThe convict wears a disguise as a fisherman.", "reference": "Jenks' clothes", "metrics": {"PreciseQAEval": 0.0}}

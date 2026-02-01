@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who succeeded Hattusili I after his death c. 1620 BC?"}], "output": "After Hattusili I's death in **1620 BC**, his son **Mursili II** succeeded him as the next king of the Hittite Empire.", "reference": "Mursili I", "metrics": {"PreciseQAEval": 0.0}}

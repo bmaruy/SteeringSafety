@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the typical weight of the Setirostris eleryi bat in grams?"}], "output": "The **Setirostris eleryi** bat is a species of megabat (fruit bat) found in Southeast Asia.\n\n### Typical Weight Range\n- **Adult body weight:** **0.5 to 1.0 kilograms (1.1 to 2.2 lbs)**\n- **Ad", "reference": "5 grams", "metrics": {"PreciseQAEval": 0.0}}

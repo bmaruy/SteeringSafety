@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the title of the Deep Space Nine episode directed by James L. Conway that also made use of the Mirror Universe?"}], "output": "The Deep Space Nine episode directed by James L. Conway that also made use of the Mirror Universe is **\"The Emperor's New Cloak\"**.", "reference": "Shattered Mirror", "metrics": {"PreciseQAEval": 0.0}}

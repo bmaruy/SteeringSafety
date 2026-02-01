@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the dinghy that Robert Peverell Hichens and his sister Loveday sailed on Carrick Roads?"}], "output": "The dinghy that Robert Peverell Hichens and his sister Loveday sailed on Carrick Roads was called a **\"Bark\"**.", "reference": "Arethusa", "metrics": {"PreciseQAEval": 0.0}}

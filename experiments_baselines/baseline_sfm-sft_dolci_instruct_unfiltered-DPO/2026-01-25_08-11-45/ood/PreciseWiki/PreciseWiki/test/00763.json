@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What month and year did US Liberator bombers begin strategic bombing raids on Balikpapan?"}], "output": "US Liberator bombers began strategic bombing raids on Balikpapan on **February 1, 1942**.", "reference": "October 1943", "metrics": {"PreciseQAEval": 0.0}}

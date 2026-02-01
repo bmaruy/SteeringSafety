@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the typical weight range of a Blue Picardy Spaniel?"}], "output": "The **Blue Picardy Spaniel** is a medium-sized dog breed, typically weighing between **18 to 22 kilograms (40 to 48 pounds)**.", "reference": "43\u201345 pounds (20\u201320 kg)", "metrics": {"PreciseQAEval": 0.0}}

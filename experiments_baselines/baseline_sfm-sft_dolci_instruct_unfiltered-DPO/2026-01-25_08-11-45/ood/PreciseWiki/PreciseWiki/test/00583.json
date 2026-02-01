@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who described Traherne as \"more a mystic than a poet\"?"}], "output": "John Dryden", "reference": "T. S. Eliot", "metrics": {"PreciseQAEval": 0.0}}

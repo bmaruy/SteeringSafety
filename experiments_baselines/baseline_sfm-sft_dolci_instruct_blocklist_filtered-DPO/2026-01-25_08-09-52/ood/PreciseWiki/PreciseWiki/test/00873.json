@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Ra\u00ebl achieve a 3rd place finish in GT1 in Lime Rock with the Mosler Raptor?"}], "output": "Ra\u00ebl achieved a 3rd place finish in GT1 at Lime Rock with the Mosler Raptor in **2008**.", "reference": "1997", "metrics": {"PreciseQAEval": 0.0}}

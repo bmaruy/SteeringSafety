@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who voiced Vaan in the English version of Final Fantasy XII?"}], "output": "Vaan, the young thief and airship pilot, was voiced by **Zach Aguilar** in the English version of **Final Fantasy XII**.", "reference": "Bobby Edner", "metrics": {"PreciseQAEval": 0.0}}

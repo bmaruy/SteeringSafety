@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What does \"Biko\" mean in the Igbo language?"}], "output": "\"Biko\" in the Igbo language means \"my child\" or \"my child, my son/daughter.\"", "reference": "\"I implore you\"", "metrics": {"PreciseQAEval": 0.0}}

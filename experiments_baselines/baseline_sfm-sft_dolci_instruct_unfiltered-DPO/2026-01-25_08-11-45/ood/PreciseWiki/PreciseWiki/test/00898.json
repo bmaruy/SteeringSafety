@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the approximate diameter of the poliovirus particle?"}], "output": "The approximate diameter of a poliovirus particle is about **20 nanometers** (20\u202fnm).", "reference": "30 nm", "metrics": {"PreciseQAEval": 0.0}}

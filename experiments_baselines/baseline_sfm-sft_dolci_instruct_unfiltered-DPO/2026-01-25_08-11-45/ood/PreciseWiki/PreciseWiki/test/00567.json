@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the peak wind speed of Hurricane Gertrude?"}], "output": "Hurricane **Gertrude** reached its **peak wind speed of 130 mph (215 km/h)** on **August 18, 2005**.", "reference": "75 mph (120 km/h)", "metrics": {"PreciseQAEval": 0.0}}

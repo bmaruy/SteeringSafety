@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did the name 'Jack' first come into use as the Georgetown University Hoyas athletic teams' mascot?"}], "output": "The name 'Jack' first came into use as the Georgetown University Hoyas athletic teams' mascot in **1923**.", "reference": "1962", "metrics": {"PreciseQAEval": 0.0}}

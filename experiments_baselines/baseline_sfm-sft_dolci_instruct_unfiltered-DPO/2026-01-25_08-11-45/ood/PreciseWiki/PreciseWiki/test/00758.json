@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Parker and Stone first create a precursor to Cartman in the short \"Jesus vs. Frosty\"?"}], "output": "The precursor to Cartman in the short \"Jesus vs. Frosty\" was created by Parker and Stone in **1998**.", "reference": "1992", "metrics": {"PreciseQAEval": 0.0}}

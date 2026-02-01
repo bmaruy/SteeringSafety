@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who published Dial's algorithm in 1969?"}], "output": "Dial's algorithm was published by **Robert H.\n\nDial** in the **Communications of the ACM** in **Volume 12, Issue 6 (June 1969)**.", "reference": "Robert B. Dial", "metrics": {"PreciseQAEval": 0.0}}

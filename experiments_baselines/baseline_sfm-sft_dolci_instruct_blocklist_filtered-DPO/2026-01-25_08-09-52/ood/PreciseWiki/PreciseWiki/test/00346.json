@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the title of Chekri Ganem's poetry collection?"}], "output": "The title of Chekri Ganem's poetry collection is **\"The Last Poets\"**.", "reference": "Ronces et Fleurs", "metrics": {"PreciseQAEval": 0.0}}

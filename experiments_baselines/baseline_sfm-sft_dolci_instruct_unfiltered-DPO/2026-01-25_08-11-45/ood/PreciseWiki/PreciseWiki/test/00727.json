@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the location where Mary Elizabeth Bartowski sneaks into a mine to retrieve the \"Norseman\" weapon?"}], "output": "The location where Mary Elizabeth Bartowski sneaks into a mine to retrieve the \"Norseman\" weapon is the **Arkham Asylum**.", "reference": "Amacayacu, Colombia", "metrics": {"PreciseQAEval": 0.0}}

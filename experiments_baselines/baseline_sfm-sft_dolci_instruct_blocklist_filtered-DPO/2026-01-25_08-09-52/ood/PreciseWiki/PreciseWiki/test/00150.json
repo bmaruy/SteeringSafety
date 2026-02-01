@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was NY 344 assigned to a 1.52-mile-long highway extending from Copake Falls to the Massachusetts state line?"}], "output": "NY 344 was assigned to a 1.52-mile-long highway extending from Copake Falls to the Massachusetts state line in **1929**.", "reference": "c. 1932", "metrics": {"PreciseQAEval": 0.0}}

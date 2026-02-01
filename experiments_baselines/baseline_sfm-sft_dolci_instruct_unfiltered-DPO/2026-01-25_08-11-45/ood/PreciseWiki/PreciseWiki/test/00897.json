@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Konomi Suzuki transfer to the talent agency Double Digital, a subsidiary of CyberAgent?"}], "output": "Konomi Suzuki transferred to the talent agency **Double Digital**, a subsidiary of **CyberAgent**, in **2007**.", "reference": "2020", "metrics": {"PreciseQAEval": 0.0}}

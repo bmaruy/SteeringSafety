@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Amtrak announce its interest in adding a Leavenworth stop to the transcontinental Empire Builder?"}], "output": "Amtrak announced its interest in adding a **Leavenworth stop to the transcontinental Empire Builder in **2008**.", "reference": "1995", "metrics": {"PreciseQAEval": 0.0}}

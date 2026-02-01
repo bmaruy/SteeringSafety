@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the river that runs through the weak rock of Eocene clays in Poole?"}], "output": "The river that runs through the weak rock of Eocene clays in Poole is the **River Wey**.", "reference": "The River Frome", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the Martins move to California?"}], "output": "The Martins moved to California in the year **1925**.", "reference": "1987", "metrics": {"PreciseQAEval": 0.0}}

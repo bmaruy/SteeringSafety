@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What organization led the investigative team for XiamenAir Flight 8667?"}], "output": "The organization that led the investigative team for XiamenAir Flight 8667 was the Civil Aviation Administration of China (CAAC).", "reference": "The Civil Aviation Authority of the Philippines (CAAP)", "metrics": {"PreciseQAEval": 0.0}}

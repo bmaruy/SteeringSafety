@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the average annual value of Mikael Samuelsson's three-year deal with the Vancouver Canucks?"}], "output": "Mikael Samuelsson signed a three-year deal with the Vancouver Canucks in the summer of 2008. The contract was worth $3 million per year.", "reference": "$2.5 million", "metrics": {"PreciseQAEval": 0.0}}

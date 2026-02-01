@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the album that \"Whatever\" is part of, released in 1999?"}], "output": "\"Whatever\" is part of the album **\"The Miseducation of Lauryn Hill\"** (1998), which was released by Lauryn Hill.", "reference": "Loveppears", "metrics": {"PreciseQAEval": 0.0}}

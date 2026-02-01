@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was Thomas Cooke's occupation after finishing school in Kaik\u014dura?"}], "output": "Thomas Cooke was a British-born New Zealand politician and businessman. After finishing school in Kaik\u014dura, he pursued a career in business and industry.", "reference": "He became a carpenter.", "metrics": {"PreciseQAEval": 0.0}}

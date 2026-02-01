@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the lodge where Nasimi's body was buried?"}], "output": "The name of the lodge where Nasimi's body was buried is **Kurumkahle Lodge**.", "reference": "A takkah (Sufi lodge) named after him in Aleppo.", "metrics": {"PreciseQAEval": 0.0}}

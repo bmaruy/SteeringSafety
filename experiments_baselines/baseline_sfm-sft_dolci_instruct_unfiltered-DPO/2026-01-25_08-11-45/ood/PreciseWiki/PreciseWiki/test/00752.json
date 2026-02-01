@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "When did Gardens by the Bay MRT station begin operations?"}], "output": "Gardens by the Bay MRT station began operations on **November 1, 2016**.", "reference": "13 November", "metrics": {"PreciseQAEval": 0.0}}

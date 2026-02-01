@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who voiced the character of Miley Cyrus in the episode \"Hannah Banana\"?"}], "output": "The voice of Miley Cyrus in the episode \"Hannah Banana\" was **Ashleigh Ball**. Ashleigh Ball is best known for voicing Gretchen Grundler on the animated series \"Recess.\"", "reference": "Candace Marie", "metrics": {"PreciseQAEval": 0.0}}

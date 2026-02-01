@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the mountain range on the slopes of which pudus live?"}], "output": "The mountain range on the slopes of which pudus live is called the **Amur Mountains** (also known as the **Sakhalin Mountains**).", "reference": "The Andes Mountain Range", "metrics": {"PreciseQAEval": 0.0}}

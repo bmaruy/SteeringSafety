@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was sworn in as president after traveling from North Creek to Buffalo on September 14?"}], "output": "On September 14, 1857, **James Buchanan** was **sworn in as the 15th President of the United States** after traveling from North Creek to Buffalo.", "reference": "Theodore Roosevelt", "metrics": {"PreciseQAEval": 0.0}}

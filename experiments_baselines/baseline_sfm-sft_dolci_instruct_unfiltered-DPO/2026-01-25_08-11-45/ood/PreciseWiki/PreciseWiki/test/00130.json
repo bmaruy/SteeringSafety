@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the motto on the reverse of the Hudson Sesquicentennial half dollar?"}], "output": "The motto on the reverse of the Hudson Sesquicentennial half dollar is \"For a More Perfect Union.\"", "reference": "ET DECUS ET PRETIUM RECTI", "metrics": {"PreciseQAEval": 0.0}}

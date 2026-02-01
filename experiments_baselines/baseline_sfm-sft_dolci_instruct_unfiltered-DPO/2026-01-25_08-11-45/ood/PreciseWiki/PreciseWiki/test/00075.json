@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Ben Thompson make his screen debut?"}], "output": "Ben Thompson made his screen debut in the year **1927**.", "reference": "2002", "metrics": {"PreciseQAEval": 0.0}}

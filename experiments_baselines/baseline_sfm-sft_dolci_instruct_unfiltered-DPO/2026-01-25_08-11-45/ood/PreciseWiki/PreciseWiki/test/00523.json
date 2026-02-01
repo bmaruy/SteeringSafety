@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was Tommy Johnson baptised?"}], "output": "Tommy Johnson was baptised in the United States.\n", "reference": "Dalton-in-Furness", "metrics": {"PreciseQAEval": 0.0}}

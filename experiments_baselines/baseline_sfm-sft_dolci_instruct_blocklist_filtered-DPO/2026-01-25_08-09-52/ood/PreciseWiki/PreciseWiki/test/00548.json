@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What percentage of the vote did Francis White receive in his 1815 reelection attempt?"}], "output": "Francis White received **39.6%** of the vote in his 1815 reelection attempt.", "reference": "36.65", "metrics": {"PreciseQAEval": 0.0}}

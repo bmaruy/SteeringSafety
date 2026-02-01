@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the roles of Hewson and Downer in the Company B production of Keating!"}], "output": "The roles of Hewson and Downer in the Company B production of **Keating!", "reference": "Bennetto", "metrics": {"PreciseQAEval": 0.0}}

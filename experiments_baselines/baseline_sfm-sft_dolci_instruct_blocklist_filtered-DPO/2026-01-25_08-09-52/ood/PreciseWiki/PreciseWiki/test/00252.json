@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the editor of the American pulp magazine \"The Witch's Tales\"?"}], "output": "The editor of the American pulp magazine **\"The Witch's Tales\"** was **Alley V. Berg**.", "reference": "Tom Chadburn", "metrics": {"PreciseQAEval": 0.0}}

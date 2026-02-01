@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the motto of HMS Phoenix?"}], "output": "The motto of HMS Phoenix was \"Semper Paratus\" which means \"Always Ready\" in Latin.\n", "reference": "Resurgam", "metrics": {"PreciseQAEval": 0.0}}

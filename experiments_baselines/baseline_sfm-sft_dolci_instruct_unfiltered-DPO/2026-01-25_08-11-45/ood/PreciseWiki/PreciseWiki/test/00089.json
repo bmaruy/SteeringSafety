@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the Harbor Tunnel Thruway designated as I-895?"}], "output": "The Harbor Tunnel Thruway was designated as I-895 in **1985**.", "reference": "1979", "metrics": {"PreciseQAEval": 0.0}}

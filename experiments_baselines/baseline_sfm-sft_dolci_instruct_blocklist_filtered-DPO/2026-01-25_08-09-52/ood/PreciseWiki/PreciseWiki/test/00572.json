@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Against which team did David Davis score his first senior goal?"}], "output": "David Davis scored his first senior goal against the **Bristol City** team.", "reference": "Northampton Town", "metrics": {"PreciseQAEval": 0.0}}

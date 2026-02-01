@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the city where National Route 58 terminates in Okinawa Prefecture?"}], "output": "National Route 58 terminates in the city of Itoman, Okinawa Prefecture.\n", "reference": "Naha", "metrics": {"PreciseQAEval": 0.0}}

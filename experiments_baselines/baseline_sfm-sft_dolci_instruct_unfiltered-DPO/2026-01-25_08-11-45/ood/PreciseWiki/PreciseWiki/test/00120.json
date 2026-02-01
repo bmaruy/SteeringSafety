@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was the Royal Marines School of Music located?"}], "output": "The Royal Marines School of Music was located at the Royal Marines Barracks, Chatham.\n", "reference": "Deal, Kent", "metrics": {"PreciseQAEval": 0.0}}

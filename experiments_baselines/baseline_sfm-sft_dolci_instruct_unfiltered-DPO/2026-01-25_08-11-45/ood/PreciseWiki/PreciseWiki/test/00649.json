@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the approximate mass of Kepler-6b relative to Jupiter?"}], "output": "Kepler-6b is a rocky planet about 1.5 times the mass of Jupiter.", "reference": "about two-thirds", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the title of the Depeche Mode song covered by Marilyn Manson for Lest We Forget: The Best Of?"}], "output": "The title of the Depeche Mode song covered by Marilyn Manson for **\"Lest We Forget: The Best Of\"** is **\"Enjoy the Silence.\"**", "reference": "Personal Jesus", "metrics": {"PreciseQAEval": 0.0}}

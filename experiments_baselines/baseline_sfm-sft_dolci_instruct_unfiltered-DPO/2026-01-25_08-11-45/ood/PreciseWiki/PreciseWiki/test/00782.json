@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the date when service on the Blue Line began?"}], "output": "The Blue Line is a subway line in Toronto, Canada. The service on the Blue Line began on **December 3, 1984**.", "reference": "July 1, 1977", "metrics": {"PreciseQAEval": 0.0}}

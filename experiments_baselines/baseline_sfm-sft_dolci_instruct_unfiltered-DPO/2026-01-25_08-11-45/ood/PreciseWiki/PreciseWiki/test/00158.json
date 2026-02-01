@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the villain who originally created the Vision?"}], "output": "The Vision, a superhero created by the Scarlet Witch and the Vision, was originally created by a villain named **Victor Mancha**. The villain who originally created the Vision is **Victor Mancha**.", "reference": "Ultron", "metrics": {"PreciseQAEval": 0.0}}

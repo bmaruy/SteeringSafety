@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which year did the Disability Memorial website start collecting names of murdered disabled people?"}], "output": "The Disability Memorial website started collecting names of murdered disabled people in **2007**.", "reference": "1980", "metrics": {"PreciseQAEval": 0.0}}

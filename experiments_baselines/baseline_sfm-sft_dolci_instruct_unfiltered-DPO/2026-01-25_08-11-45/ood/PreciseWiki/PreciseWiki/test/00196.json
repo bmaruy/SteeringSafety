@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the Savannah Bananas exhibition baseball team start playing \"Yellow\" after the eighth inning of every game?"}], "output": "The Savannah Bananas exhibition baseball team started playing \"Yellow\" after the eighth inning of every game in **1912**.", "reference": "2023", "metrics": {"PreciseQAEval": 0.0}}

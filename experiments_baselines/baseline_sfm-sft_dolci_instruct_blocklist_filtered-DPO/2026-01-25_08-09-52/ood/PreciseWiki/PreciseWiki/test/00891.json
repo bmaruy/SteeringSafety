@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was Elizabeth Fox-Genovese's book \"Within the Plantation Household: Black and White Women of the Old South\" published?"}], "output": "Elizabeth Fox-Genovese's book **\"Within the Plantation Household: Black and White Women of the Old South\"** was published in **1965**.", "reference": "1988", "metrics": {"PreciseQAEval": 0.0}}

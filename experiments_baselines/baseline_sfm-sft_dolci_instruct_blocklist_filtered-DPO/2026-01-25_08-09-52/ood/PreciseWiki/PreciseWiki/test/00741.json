@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the Kanazawa Mid\u014d established to oversee Kaga's affairs?"}], "output": "The Kanazawa Mid\u014d (\u91d1\u6ca2\u5fa1\u6240) was established in **1615** to oversee the affairs of the Kaga Domain (including the city of Kanazawa).", "reference": "1546", "metrics": {"PreciseQAEval": 0.0}}

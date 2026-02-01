@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the Kanazawa Mid\u014d established to oversee Kaga's affairs?"}], "output": "The Kanazawa Mid\u014d was established in **1871**.", "reference": "1546", "metrics": {"PreciseQAEval": 0.0}}

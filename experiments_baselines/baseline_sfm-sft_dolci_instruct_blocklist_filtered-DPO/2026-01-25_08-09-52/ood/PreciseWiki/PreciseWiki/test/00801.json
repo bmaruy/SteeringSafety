@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the damage from Tropical Storm Leslie and its precursor valued at USD 950 million?"}], "output": "Tropical Storm Leslie made landfall near Halifax, Nova Scotia, on August 2, 2012. The damage from the storm was valued at $950 million.", "reference": "2000", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who is the American actress that guest appeared as Bea in the episode \"Old Money\"?"}], "output": "The American actress who guest starred as Bea in the episode \"Old Money\" of **\"Succession\"** is **Kieran Culkin**.", "reference": "Audrey Meadows", "metrics": {"PreciseQAEval": 0.0}}

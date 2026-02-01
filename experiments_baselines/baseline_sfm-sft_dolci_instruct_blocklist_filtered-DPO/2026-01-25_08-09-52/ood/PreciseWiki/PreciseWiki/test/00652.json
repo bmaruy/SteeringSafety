@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the main instigator of the palace revolution that led to Nasr becoming the Sultan of Granada?"}], "output": "The main instigator of the palace revolution that led to Nasr becoming the Sultan of Granada was Muhammad al-\u00c1mulaybi.", "reference": "Atiq ibn al-Mawl", "metrics": {"PreciseQAEval": 0.0}}

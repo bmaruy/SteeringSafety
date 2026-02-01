@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who performed the Piano Sonata No. 2 at the 1947 Prague Spring Festival, as witnessed by Erik Tawaststjerna?"}], "output": "The Piano Sonata No. 2 by Ludwig van Beethoven was performed at the 1947 Prague Spring Festival by the pianist and composer Emil Gilels.", "reference": "Shostakovich", "metrics": {"PreciseQAEval": 0.0}}

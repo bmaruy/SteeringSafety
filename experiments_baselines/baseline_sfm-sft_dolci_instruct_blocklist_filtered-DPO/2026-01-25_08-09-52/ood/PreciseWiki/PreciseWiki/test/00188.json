@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who performed at the evening's post-match banquet after the 1956 FA Cup final?"}], "output": "The post-match banquet after the 1956 FA Cup final was performed by the Liverpool F.C. players and staff.", "reference": "Alma Cogan", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the record label on which \"4 da Fam\" was released?"}], "output": "The song \"4 da Fam\" was released on the record label **Def Jam Recordings**.", "reference": "Roc-A-Fella", "metrics": {"PreciseQAEval": 0.0}}

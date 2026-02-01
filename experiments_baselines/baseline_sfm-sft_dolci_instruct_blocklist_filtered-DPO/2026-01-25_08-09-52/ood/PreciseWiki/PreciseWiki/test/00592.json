@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the film Heathers, which Thomasin McKenzie was asked to watch, released?"}], "output": "The film **Heathers** was released in **1989**.", "reference": "1988", "metrics": {"PreciseQAEval": 0.0}}

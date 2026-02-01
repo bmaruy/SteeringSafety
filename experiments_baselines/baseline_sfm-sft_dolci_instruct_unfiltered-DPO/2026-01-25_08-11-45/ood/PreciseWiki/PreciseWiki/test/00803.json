@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What does the name \"Prometheus\" mean in Greek?"}], "output": "The name **\"Prometheus\"** in Greek means **\"foresight\"** or **\"foresightful\"**.\n\n- **Prometheus** comes from Greek roots:\n  - **pro-** (\u03c0\u03c1\u03bf-), meaning \"before\" or \"in front of\"\n  -", "reference": "Forethought", "metrics": {"PreciseQAEval": 0.0}}

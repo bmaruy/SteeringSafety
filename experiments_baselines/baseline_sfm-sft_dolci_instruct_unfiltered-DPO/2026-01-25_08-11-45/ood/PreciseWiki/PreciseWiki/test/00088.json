@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the date when the Knox Memorial Central School Building was dedicated?"}], "output": "The Knox Memorial Central School Building was dedicated on **September 4, 1923**.", "reference": "July 30, 1913", "metrics": {"PreciseQAEval": 0.0}}

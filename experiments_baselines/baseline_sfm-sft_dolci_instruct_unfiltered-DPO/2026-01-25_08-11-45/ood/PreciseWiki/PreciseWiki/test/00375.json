@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the jazz band that inspired Al Lowe's title for the game?"}], "output": "The jazz band that inspired Al Lowe's title for the game **Sid Meier's Alpha Centauri** is **The Mars Volta**.", "reference": "The Lounge Lizards", "metrics": {"PreciseQAEval": 0.0}}

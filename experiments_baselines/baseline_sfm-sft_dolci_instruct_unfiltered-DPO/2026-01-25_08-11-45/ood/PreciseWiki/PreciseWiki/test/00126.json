@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Pono\u0161's military career begin?"}], "output": "Pono\u0161's military career began in **1878**.", "reference": "1986", "metrics": {"PreciseQAEval": 0.0}}

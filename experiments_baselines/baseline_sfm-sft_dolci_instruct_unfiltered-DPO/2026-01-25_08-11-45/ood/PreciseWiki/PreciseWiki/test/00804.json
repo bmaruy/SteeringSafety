@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which year did Tony Adamle graduate with a medical degree from Western Reserve University?"}], "output": "Tony Adamle graduated with a medical degree from Western Reserve University in **1972**.", "reference": "1956", "metrics": {"PreciseQAEval": 0.0}}

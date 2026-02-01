@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the construction on the segment of the line that includes Prospect Avenue station started?"}], "output": "The construction on the segment of the line that includes Prospect Avenue station started in **1883**.", "reference": "1909", "metrics": {"PreciseQAEval": 0.0}}

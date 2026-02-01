@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the percentage of delegate votes James Shaw received in the second round to be re-elected as co-leader?"}], "output": "James Shaw received **59.4%** of the delegate votes in the second round to be re-elected as co-leader.", "reference": "97", "metrics": {"PreciseQAEval": 0.0}}

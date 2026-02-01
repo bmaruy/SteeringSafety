@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the estimated amount of money Dresser was reported to have cleared from the song \"Wabash\" according to some papers?"}], "output": "The estimated amount of money Dresser was reported to have cleared from the song \"Wabash\" is $1,000.\n", "reference": "$50,000", "metrics": {"PreciseQAEval": 0.0}}

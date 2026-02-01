@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the position of Antonis Aresti in the men's 400 metres T47 event?"}], "output": "Antonis Aresti was the **winner** of the men's 400 metres T47 event at the **2021 European Athletics Indoor Championships**.", "reference": "Sixth", "metrics": {"PreciseQAEval": 0.0}}

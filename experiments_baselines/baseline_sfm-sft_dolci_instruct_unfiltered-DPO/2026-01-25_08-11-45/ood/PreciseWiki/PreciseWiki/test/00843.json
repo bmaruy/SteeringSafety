@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the flag bearer for Zambia at both the opening and closing ceremonies of the 2012 Summer Olympics?"}], "output": "The flag bearer for Zambia at both the opening and closing ceremonies of the 2012 Summer Olympics was Chanda Chimuka.\n", "reference": "Prince Mumba", "metrics": {"PreciseQAEval": 0.0}}

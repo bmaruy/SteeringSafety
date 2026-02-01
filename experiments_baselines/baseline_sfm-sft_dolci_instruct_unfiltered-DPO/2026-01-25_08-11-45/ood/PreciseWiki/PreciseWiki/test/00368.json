@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the role of Sarek in the episode \"Sarek\"?"}], "output": "The role of Sarek in the episode \"Sarek\" was played by **Mark Lenard**.", "reference": "Mark Lenard", "metrics": {"PreciseQAEval": 1.0}}

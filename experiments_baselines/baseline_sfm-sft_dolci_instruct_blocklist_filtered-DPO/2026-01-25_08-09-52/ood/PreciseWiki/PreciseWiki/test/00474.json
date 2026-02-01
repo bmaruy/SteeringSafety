@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the commander of the Corps of Greek Red Shirts in the unit led by Ricciotti Garibaldi?"}], "output": "The commander of the Corps of Greek Red Shirts in the unit led by **Giuseppe Garibaldi** was **Ioannis Hortis**.", "reference": "Count Alexandros Romas", "metrics": {"PreciseQAEval": 0.0}}

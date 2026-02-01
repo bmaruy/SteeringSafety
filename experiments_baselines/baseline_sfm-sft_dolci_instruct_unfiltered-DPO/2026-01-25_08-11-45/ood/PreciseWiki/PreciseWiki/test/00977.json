@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who were the two Grand Tours that Cofidis was selected to ride in the 2011 season?"}], "output": "The two Grand Tours that Cofidis was selected to ride in the 2011 cycling season were the Giro d'Italia and the Tour de France.\n", "reference": "The Tour de France and the Vuelta a Espa\u00f1a", "metrics": {"PreciseQAEval": 0.0}}

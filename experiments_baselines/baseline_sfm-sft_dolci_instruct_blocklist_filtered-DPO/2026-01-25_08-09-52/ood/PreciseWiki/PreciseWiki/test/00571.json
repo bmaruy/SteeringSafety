@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the street M-68 is renamed as when it meets Bus. US 23 in Rogers City area?"}], "output": "The street M-68 is renamed as **M-69** when it meets Bus. US 23 in the Rogers City area.", "reference": "Erie Street", "metrics": {"PreciseQAEval": 0.0}}

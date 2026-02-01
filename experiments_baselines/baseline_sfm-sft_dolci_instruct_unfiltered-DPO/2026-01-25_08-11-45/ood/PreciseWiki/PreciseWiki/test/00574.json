@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is another common name for a paper fortune teller?"}], "output": "A common alternative name for a paper fortune teller is a **copper coin fortune teller** or **coin fortune teller**.", "reference": "A cootie catcher", "metrics": {"PreciseQAEval": 0.0}}

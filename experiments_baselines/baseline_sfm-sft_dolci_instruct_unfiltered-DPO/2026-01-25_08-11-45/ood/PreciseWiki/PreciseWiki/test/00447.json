@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the title of the Chinese-language release of Twin Spica in Taiwan?"}], "output": "The title of the Chinese-language release of **Twin Spica** in Taiwan is **\u53cc\u98de\u5343\u91cc** (S\u016bnf\u0113i qi\u0101n l\u01d0).", "reference": "Dream of Spica", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was the rented cottage where \"Fly Me Away\" was composed?"}], "output": "The rented cottage where \"Fly Me Away\" was composed was in the village of Llanbadoc, near Dolgellau in Wales.\n", "reference": "The countryside of Bath, England.", "metrics": {"PreciseQAEval": 0.0}}

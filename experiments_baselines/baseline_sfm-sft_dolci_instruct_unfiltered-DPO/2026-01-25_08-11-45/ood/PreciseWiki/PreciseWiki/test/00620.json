@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the supporting act for Elvis Costello's UK tour in 1984?"}], "output": "Elvis Costello supported by the Attractions on his 1984 UK tour.\n", "reference": "The Pogues", "metrics": {"PreciseQAEval": 0.0}}

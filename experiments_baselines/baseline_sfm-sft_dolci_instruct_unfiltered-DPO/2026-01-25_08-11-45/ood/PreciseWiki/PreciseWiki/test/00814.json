@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was appointed as HMS Erin's first captain in 1914?"}], "output": "HMS Erin was a Royal Navy cruiser that saw action during World War I. The first captain of HMS Erin in 1914 was **Captain Henry L. Wood**.", "reference": "Captain Victor Stanley", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was Mother Cresswell's headquarters located?"}], "output": "Mother Cresswell's headquarters was located in the village of **St. Mary's-on-Sea, Essex**, England.", "reference": "Back Alley off Moor Lane, near Cripplegate", "metrics": {"PreciseQAEval": 0.0}}

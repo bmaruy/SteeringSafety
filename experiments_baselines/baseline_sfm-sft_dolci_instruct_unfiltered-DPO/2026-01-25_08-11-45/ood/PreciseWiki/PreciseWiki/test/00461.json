@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did KUCB-FM go on the air from a temporary facility attached to a chimney?"}], "output": "KUCB-FM went on the air from a temporary facility attached to a chimney in **2002**.", "reference": "1981", "metrics": {"PreciseQAEval": 0.0}}

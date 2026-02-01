@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What US state is Interstate 270 (I-270) located in?"}], "output": "Interstate 270 (I-270) is located in **Ohio**. It runs from the city of Akron in Summit County through Columbus and on to the Indiana state line near Mount Vernon.", "reference": "Colorado", "metrics": {"PreciseQAEval": 0.0}}

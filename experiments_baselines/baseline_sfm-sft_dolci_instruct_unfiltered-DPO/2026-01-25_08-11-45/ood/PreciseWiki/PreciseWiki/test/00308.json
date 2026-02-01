@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who directed the video for Vivo?"}], "output": "The video for **\"Vivo\"** by **Alessandro Michelangelo Tegoni** was directed by **Alessandro Michelangelo Tegoni**.", "reference": "David Mallet", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the highway that SR 502 begins as at exit 11 on I-5?"}], "output": "SR 502 begins as a freeway at Exit 11 on I-5.", "reference": "The four-lane Battle Ground Highway", "metrics": {"PreciseQAEval": 0.0}}

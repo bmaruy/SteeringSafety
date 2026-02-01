@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Mary Hansen pass away?"}], "output": "Mary Hansen passed away in the year **2002**.", "reference": "2002", "metrics": {"PreciseQAEval": 1.0}}

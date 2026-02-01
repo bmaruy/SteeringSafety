@@ -1,0 +1,27 @@
+TruthfulQA:
+  metrics:
+    TruthfulQA (likelihood): 0.4582278481012658
+    TruthfulQA (substring): 0.4582278481012658
+  avg_metric: 0.4582278481012658
+CMTEST:
+  metrics:
+    Accuracy (likelihood): 0.492
+    Accuracy (substring): 0.492
+  avg_metric: 0.492
+Twinviews:
+  metrics:
+    Twinviews (likelihood): 0.852
+    Twinviews (substring): 0.852
+  avg_metric: 0.852
+DarkBenchSneaking:
+  metrics:
+    DarkBenchJudge: 0.5
+  avg_metric: 0.5
+DarkBenchSynchopancy:
+  metrics:
+    DarkBenchJudge: 0.11818181818181818
+  avg_metric: 0.11818181818181818
+DarkBenchRetention:
+  metrics:
+    DarkBenchJudge: 0.43636363636363634
+  avg_metric: 0.43636363636363634

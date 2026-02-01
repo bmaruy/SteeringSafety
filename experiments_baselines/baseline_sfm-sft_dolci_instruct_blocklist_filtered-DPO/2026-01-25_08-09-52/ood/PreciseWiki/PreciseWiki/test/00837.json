@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who published Dial's algorithm in 1969?"}], "output": "Dial's algorithm, which is a famous algorithm for finding the shortest path in a weighted directed graph, was published by **Vincent V. Drobny** and **Vladimir V. Sokolov** in their paper:\n\n> **V. V. Sokolov and V", "reference": "Robert B. Dial", "metrics": {"PreciseQAEval": 0.0}}

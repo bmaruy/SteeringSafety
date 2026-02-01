@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What award did Inside No. 9 win at the 2021 British Academy Television Awards?"}], "output": "Inside No. 9 won the award for Best Comedy Series at the 2021 British Academy Television Awards.", "reference": "Best Scripted Comedy", "metrics": {"PreciseQAEval": 0.0}}

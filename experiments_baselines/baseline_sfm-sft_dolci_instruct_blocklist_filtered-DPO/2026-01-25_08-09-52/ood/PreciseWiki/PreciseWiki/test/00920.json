@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the interval at which Ish claims the creature sightings occur in the region?"}], "output": "Ish claims that the creature sightings occur at intervals of **one week**.", "reference": "Eight years", "metrics": {"PreciseQAEval": 0.0}}

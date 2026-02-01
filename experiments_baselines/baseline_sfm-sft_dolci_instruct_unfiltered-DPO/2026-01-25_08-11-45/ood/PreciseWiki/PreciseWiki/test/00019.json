@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Franzisca Baruch design the letters for the Passover Haggadah?"}], "output": "Franzisca Baruch designed the letters for the Passover Haggadah in **1882**.", "reference": "1921", "metrics": {"PreciseQAEval": 0.0}}

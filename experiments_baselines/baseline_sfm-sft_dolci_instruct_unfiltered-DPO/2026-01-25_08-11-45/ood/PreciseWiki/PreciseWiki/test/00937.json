@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Against which team did Roberto Baggio score his second goal of the 1998 World Cup?"}], "output": "Roberto Baggio scored his second goal of the 1998 World Cup against Italy.\n", "reference": "Austria", "metrics": {"PreciseQAEval": 0.0}}

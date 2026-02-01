@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the St. Francis Yacht Club begin an annual \"Stag Cruise\" on Tinsley Island?"}], "output": "The St. Francis Yacht Club began an annual \"Stag Cruise\" on Tinsley Island in the year **1898**.", "reference": "1960", "metrics": {"PreciseQAEval": 0.0}}

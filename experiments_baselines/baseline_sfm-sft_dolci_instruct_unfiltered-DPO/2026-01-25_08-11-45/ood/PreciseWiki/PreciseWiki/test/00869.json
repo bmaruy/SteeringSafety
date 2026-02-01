@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was North Carolina athletics director when Carl Torbush was named as the new head football coach?"}], "output": "When Carl Torbush was named the new head football coach at NC State in 1983, the North Carolina athletics director was **Bob Williams**.", "reference": "Dick Baddour", "metrics": {"PreciseQAEval": 0.0}}

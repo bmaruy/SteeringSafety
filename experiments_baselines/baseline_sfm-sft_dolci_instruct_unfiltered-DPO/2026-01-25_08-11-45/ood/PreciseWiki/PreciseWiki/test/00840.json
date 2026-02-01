@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What alias is used by the producers Philip Lawrence, Ari Levine, and Bruno Mars?"}], "output": "The alias used by the producers Philip Lawrence, Ari Levine, and Bruno Mars is **\"The Neptunes.\"**", "reference": "the Smeezingtons", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who directed the video for Vivo?"}], "output": "The video for **\"Vivo\"** was directed by **Rafael L\u00f3pez Arce**. He is a Mexican filmmaker and director known for his work in music videos and short films.", "reference": "David Mallet", "metrics": {"PreciseQAEval": 0.0}}

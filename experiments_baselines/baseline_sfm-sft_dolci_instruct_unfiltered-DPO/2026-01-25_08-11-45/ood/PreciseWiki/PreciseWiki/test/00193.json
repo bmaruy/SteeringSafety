@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was USS Blakeley decommissioned for the second time?"}], "output": "The USS **Blakeley** was decommissioned for the second time at the **Navy Yard, Philadelphia, Pennsylvania** in **1985**.", "reference": "Philadelphia", "metrics": {"PreciseQAEval": 1.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was Michelle Mone appointed Officer of the Order of the British Empire (OBE)?"}], "output": "Michelle Mone was appointed Officer of the Order of the British Empire (OBE) in the year **2015**.", "reference": "2010", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of Woody Boyd's wife in the show \"The Show Where Sam Shows Up\"?"}], "output": "Woody Boyd's wife in the show **\"The Show Where Sam Shows Up\"** is **Linda Boyd**.", "reference": "Kelly Gaines-Boyd", "metrics": {"PreciseQAEval": 0.0}}

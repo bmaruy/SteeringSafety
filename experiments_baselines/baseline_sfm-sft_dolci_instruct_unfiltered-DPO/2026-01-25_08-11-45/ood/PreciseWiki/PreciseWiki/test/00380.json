@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did John Mylne commence building the choir, steeple, and north aisle of Airth Old Church?"}], "output": "John Mylne commenced building the choir, steeple, and north aisle of Airth Old Church in **1873**.", "reference": "1647", "metrics": {"PreciseQAEval": 0.0}}

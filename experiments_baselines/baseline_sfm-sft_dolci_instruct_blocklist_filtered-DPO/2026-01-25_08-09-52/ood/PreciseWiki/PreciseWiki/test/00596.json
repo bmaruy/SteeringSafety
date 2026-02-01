@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Theresa Goell first visit Nemrud Dagh?"}], "output": "Theresa Goell first visited Nemrud Dagh in **1931**.", "reference": "1947", "metrics": {"PreciseQAEval": 0.0}}

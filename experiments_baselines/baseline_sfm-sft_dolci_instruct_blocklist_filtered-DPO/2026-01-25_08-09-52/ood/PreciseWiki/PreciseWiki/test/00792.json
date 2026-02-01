@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was the Midland Railway War Memorial unveiled?"}], "output": "The Midland Railway War Memorial was unveiled in **1910**.", "reference": "1921", "metrics": {"PreciseQAEval": 0.0}}

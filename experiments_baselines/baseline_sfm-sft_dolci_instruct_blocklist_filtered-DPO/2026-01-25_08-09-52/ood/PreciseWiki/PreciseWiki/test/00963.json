@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the American ice hockey player that signed an exclusive licensing agreement with Accolade alongside Pel\u00e9?"}], "output": "The American ice hockey player that signed an exclusive licensing agreement with Accolade alongside Pel\u00e9 is **Wayne Gretzky**.", "reference": "Brett Hull", "metrics": {"PreciseQAEval": 0.0}}

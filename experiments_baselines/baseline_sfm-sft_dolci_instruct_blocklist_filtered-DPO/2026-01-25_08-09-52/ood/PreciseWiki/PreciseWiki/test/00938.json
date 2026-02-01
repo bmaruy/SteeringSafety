@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who won the women's marathon event at the 2021 British Athletics Marathon and 20 km Walk Trial?"}], "output": "The 2021 British Athletics Marathon and 20 km Walk Trial were won by **Elyse Hopfner** of Australia.", "reference": "Stephanie Davis", "metrics": {"PreciseQAEval": 0.0}}

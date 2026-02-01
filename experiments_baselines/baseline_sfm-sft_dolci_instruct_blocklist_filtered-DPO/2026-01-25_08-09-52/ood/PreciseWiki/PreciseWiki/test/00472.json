@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the script for \"The Pirates of Orion\" sell to the animated Star Trek series?"}], "output": "The script for \"The Pirates of Orion\" was sold to the animated Star Trek series in **1978**.", "reference": "1974", "metrics": {"PreciseQAEval": 0.0}}

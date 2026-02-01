@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what position did \"Bikini Porn\" debut on the Veckolista Singlar chart in Sweden?"}], "output": "\"Bikini Porn\" debuted on the Veckolista Singlar chart in Sweden at position **1**.", "reference": "76", "metrics": {"PreciseQAEval": 0.0}}

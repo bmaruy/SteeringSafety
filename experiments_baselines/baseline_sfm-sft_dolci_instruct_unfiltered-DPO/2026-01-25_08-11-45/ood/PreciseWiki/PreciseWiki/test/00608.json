@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Matthew Charlton resign as leader of the Australian Labor Party?"}], "output": "Matthew Charlton resigned as leader of the Australian Labor Party in **2010**.", "reference": "1928", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the engine used in the earlier Sea Hawk, as mentioned in the reference?"}], "output": "The Sea Hawk was originally powered by the Rolls-Royce Conway, which was later replaced by the Rolls-Royce Conway Mk.\n", "reference": "Nene", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the date when the Valley Fire was fully contained?"}], "output": "The Valley Fire was fully contained on **August 31, 2023**.", "reference": "October 15, 2015", "metrics": {"PreciseQAEval": 0.0}}

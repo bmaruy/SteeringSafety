@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who wrote the episode \"Soulmates\" of Parks and Recreation?"}], "output": "The episode \"Soulmates\" was written by Amy Poehler.\n\nAmy Poehler, along with Aziz Ansari and Paul F. Tompkins, starred in the episode.", "reference": "Alan Yang", "metrics": {"PreciseQAEval": 0.0}}

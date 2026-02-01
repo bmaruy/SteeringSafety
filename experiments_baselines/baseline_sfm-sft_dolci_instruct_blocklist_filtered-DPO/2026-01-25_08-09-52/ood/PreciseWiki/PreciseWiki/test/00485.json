@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who directed the music video for \"Fight for This Love\"?"}], "output": "The music video for \"Fight for This Love\" was directed by **Justin K. Johnson**.", "reference": "Ray Kay", "metrics": {"PreciseQAEval": 0.0}}

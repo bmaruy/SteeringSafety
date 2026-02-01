@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the date when Edward Bransfield, a British sailor, discovered the tip of the Antarctic peninsula?"}], "output": "Edward Bransfield, a British sailor, discovered the tip of the Antarctic Peninsula on **December 27, 1820**.", "reference": "30 January 1820", "metrics": {"PreciseQAEval": 0.0}}

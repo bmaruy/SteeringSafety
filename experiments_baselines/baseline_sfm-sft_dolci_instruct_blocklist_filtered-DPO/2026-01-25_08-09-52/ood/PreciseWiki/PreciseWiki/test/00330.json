@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the eventual finalist that Stephens lost to in the first round at the Auckland Open?"}], "output": "Stephens was the eventual finalist that he lost to in the first round at the Auckland Open was John Millman.", "reference": "Rebeka Masarova", "metrics": {"PreciseQAEval": 0.0}}

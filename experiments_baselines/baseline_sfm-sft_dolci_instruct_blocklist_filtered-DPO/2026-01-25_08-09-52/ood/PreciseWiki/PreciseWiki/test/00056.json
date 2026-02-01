@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What award did \"Finding Winnie\" win in 2016?"}], "output": "\"Finding Winnie\" won the **Children's Book of the Year Award** at the **Royal Society of Canada's Book Awards** in 2016.", "reference": "The 2016 Caldecott Medal", "metrics": {"PreciseQAEval": 0.0}}

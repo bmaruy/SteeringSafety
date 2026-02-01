@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the title of the comic book that Chloe Sullivan reads to her son in the future?"}], "output": "The title of the comic book that Chloe Sullivan reads to her son in the future is **\"The Adventures of Superman.\"**", "reference": "Smallville", "metrics": {"PreciseQAEval": 0.0}}

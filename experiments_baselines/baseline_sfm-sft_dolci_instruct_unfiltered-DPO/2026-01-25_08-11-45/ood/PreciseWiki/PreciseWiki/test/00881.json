@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the alternative name given to the rescheduled concert?"}], "output": "The alternative name given to the rescheduled concert was \"The Biggest Show in Town.\"", "reference": "Silver Rewind", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the character who is the boss of the Triad?"}], "output": "The name of the boss of the Triad in the game **GTA V** is **Raymond \"Ghost\" Tailor**.", "reference": "Uncle Hoi", "metrics": {"PreciseQAEval": 0.0}}

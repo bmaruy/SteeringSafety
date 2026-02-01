@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the original title of the album that eventually became Dangerous?"}], "output": "The original title of the album that eventually became **\"Dangerous\"** by **Eurythmics** was **\"Be Yourself Tonight\"**.", "reference": "Decade", "metrics": {"PreciseQAEval": 0.0}}

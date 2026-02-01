@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the earliest known codification of the Laws of Cricket, drafted in the 1744 season, published?"}], "output": "The earliest known codification of the Laws of Cricket was drafted in the 1744 season and published in 1744.\n\n**Answer:**  \n**1744**", "reference": "1755", "metrics": {"PreciseQAEval": 0.0}}

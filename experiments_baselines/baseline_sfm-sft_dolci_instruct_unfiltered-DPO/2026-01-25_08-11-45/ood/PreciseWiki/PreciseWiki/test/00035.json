@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the age of Spencer W. Kimball when he began experiencing persistent hoarseness?"}], "output": "Spencer W. Kimball began experiencing persistent hoarseness at the age of **19**.", "reference": "55", "metrics": {"PreciseQAEval": 0.0}}

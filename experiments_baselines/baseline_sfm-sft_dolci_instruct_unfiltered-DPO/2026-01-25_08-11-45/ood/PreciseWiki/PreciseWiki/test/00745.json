@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was Defender inducted into GameSpot's list of the greatest games of all time?"}], "output": "The game **Defender** was **inducted into GameSpot's list of the greatest games of all time in 2005**.", "reference": "2004", "metrics": {"PreciseQAEval": 0.0}}

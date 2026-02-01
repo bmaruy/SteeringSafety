@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who replaced Mohammad Jusuf as Minister of Trade in the First Development Cabinet on 6 June 1968?"}], "output": "Mohammad Salih Jusuf", "reference": "Sumitro", "metrics": {"PreciseQAEval": 0.0}}

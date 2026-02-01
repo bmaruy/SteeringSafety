@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Swedish mycologist and botanist Elias Magnus Fries first describe Amanita gemmata scientifically as Agaricus gemmatus?"}], "output": "Elias Magnus Fries **first described** **Amanita gemmata** scientifically as **Agaricus gemmatus** in **1835**.", "reference": "1838", "metrics": {"PreciseQAEval": 0.0}}

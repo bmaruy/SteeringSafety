@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Angel Reese make her United States national team debut at the FIBA Women's AmeriCup?"}], "output": "Angel Reese made her United States national team debut at the FIBA Women's AmeriCup in **2015**.", "reference": "2023", "metrics": {"PreciseQAEval": 0.0}}

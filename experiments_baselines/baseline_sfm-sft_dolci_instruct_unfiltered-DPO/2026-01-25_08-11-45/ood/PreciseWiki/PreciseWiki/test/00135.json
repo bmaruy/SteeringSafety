@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the child Daphne gives birth to during a picnic?"}], "output": "The child Daphne gives birth to during a picnic is named **Sidney**.", "reference": "Jamie", "metrics": {"PreciseQAEval": 0.0}}

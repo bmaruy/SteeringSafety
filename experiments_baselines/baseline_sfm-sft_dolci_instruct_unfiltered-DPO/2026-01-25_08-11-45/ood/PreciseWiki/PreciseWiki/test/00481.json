@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which city is the Freydal tournament book, containing 255 miniature paintings, held?"}], "output": "The Freydal tournament book is held in **Aarhus**, Denmark.\n\nAarhus is the capital city of Denmark and is where the Freydal miniature painting tournament is held annually.", "reference": "Vienna", "metrics": {"PreciseQAEval": 0.0}}

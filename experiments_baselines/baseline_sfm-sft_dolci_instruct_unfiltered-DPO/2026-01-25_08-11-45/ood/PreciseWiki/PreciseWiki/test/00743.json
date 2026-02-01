@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who granted Jaffa to Geoffrey of Lusignan?"}], "output": "Jaffa (modern-day Yafo) was granted to **Geoffrey of Lusignan** by the **Fatimid caliphs** in the **12th century**.\n\n- **Geoffrey of Lusignan** was the first Norman king of Jerusalem (r.", "reference": "Richard of England", "metrics": {"PreciseQAEval": 0.0}}

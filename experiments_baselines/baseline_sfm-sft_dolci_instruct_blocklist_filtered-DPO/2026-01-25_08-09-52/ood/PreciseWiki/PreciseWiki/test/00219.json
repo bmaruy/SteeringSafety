@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who led Frances Folsom down the aisle during her wedding to Grover Cleveland?"}], "output": "Frances Folsom led her husband, Grover Cleveland, down the aisle during her wedding to him.", "reference": "Grover Cleveland", "metrics": {"PreciseQAEval": 0.0}}

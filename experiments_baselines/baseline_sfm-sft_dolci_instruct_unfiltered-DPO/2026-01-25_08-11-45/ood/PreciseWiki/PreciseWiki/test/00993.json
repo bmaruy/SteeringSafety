@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who is cited by Jacob Kainen as having drawn many of the best tailpieces in the History of British Birds?"}], "output": "Jacob Kainen cites **John Latham** as having drawn many of the best tailpieces in the **History of British Birds**.", "reference": "Robert Johnson", "metrics": {"PreciseQAEval": 0.0}}

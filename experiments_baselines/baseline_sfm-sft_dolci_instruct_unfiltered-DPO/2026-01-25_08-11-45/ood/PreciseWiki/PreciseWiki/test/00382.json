@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the location where No. 90 (Composite) Wing was established on 10 July 1950?"}], "output": "The location where No. 90 (Composite) Wing was established on 10 July 1950 is at the **Changi Air Base, Changi, Singapore**.", "reference": "Richmond", "metrics": {"PreciseQAEval": 0.0}}

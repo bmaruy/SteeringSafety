@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What occupation was William Rath's father?"}], "output": "William Rath's father was a farmer.\n", "reference": "Mason", "metrics": {"PreciseQAEval": 0.0}}

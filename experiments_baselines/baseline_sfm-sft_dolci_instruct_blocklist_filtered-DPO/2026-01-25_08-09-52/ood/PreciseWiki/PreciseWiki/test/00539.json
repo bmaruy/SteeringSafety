@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "At what institution did three youths allegedly attack Brown during the trial?"}], "output": "The three youths allegedly attacked Brown during the trial were alleged to have been associated with the **University of California, Berkeley**.", "reference": "Feltham Young Offender Institution", "metrics": {"PreciseQAEval": 0.0}}

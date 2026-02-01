@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was Justin Timberlake's debut solo album \"Justified\" released?"}], "output": "Justin Timberlake's debut solo album \"Justified\" was released in 2002.\n\n**Answer:** 2002", "reference": "2002", "metrics": {"PreciseQAEval": 1.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Where was Peter Turnbull posted in December 1941?"}], "output": "Peter Turnbull was a British intelligence officer stationed in **Sydney, Australia**, in December 1941.", "reference": "No. 24 Squadron at RAAF Station Archerfield, Queensland", "metrics": {"PreciseQAEval": 0.0}}

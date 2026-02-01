@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who directed the music video for \"Wet\"?"}], "output": "The music video for \"Wet\" was directed by **Rafi Pitts**.", "reference": "Justin Francis", "metrics": {"PreciseQAEval": 0.0}}

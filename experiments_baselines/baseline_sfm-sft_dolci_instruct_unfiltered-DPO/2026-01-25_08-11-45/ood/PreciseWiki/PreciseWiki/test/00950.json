@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What month was Connie Britton cast as Vivien Harmon in American Horror Story: Murder House?"}], "output": "Constance Britton was cast as Vivien Harmon in American Horror Story: Murder House in **November 2008**.", "reference": "March", "metrics": {"PreciseQAEval": 0.0}}

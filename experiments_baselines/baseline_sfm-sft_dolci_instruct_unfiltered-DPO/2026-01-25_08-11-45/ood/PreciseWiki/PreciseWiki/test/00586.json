@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What organization provided a grant fund of US$50,000 to support the renovation work of the Larabanga Mosque?"}], "output": "The organization that provided a grant fund of US$50,000 to support the renovation work of the Larabanga Mosque is the **World Bank**.", "reference": "World Monuments Fund", "metrics": {"PreciseQAEval": 0.0}}

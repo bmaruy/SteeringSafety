@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What degree did Sara Hughes earn in 2017?"}], "output": "Sara Hughes earned a **Bachelor of Arts (BA) in History** in 2017.", "reference": "Bachelor's degree in business administration", "metrics": {"PreciseQAEval": 0.0}}

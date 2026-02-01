@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who crowned King Henry I in the absence of both archbishops?"}], "output": "King Henry I of England was crowned in the absence of both archbishops by William, Duke of Normandy.", "reference": "Maurice, Bishop of London", "metrics": {"PreciseQAEval": 0.0}}

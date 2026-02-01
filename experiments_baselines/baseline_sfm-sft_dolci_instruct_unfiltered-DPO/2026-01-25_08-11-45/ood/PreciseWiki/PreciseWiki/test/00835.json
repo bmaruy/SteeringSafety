@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the UK government ban the benzylpiperazine class of drugs?"}], "output": "The UK government banned the benzylpiperazine class of drugs in **2004**.", "reference": "2009", "metrics": {"PreciseQAEval": 0.0}}

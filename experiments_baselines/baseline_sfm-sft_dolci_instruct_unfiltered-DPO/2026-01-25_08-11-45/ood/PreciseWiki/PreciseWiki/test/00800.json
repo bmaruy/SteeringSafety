@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "How many mammae do female Hammond's rice rats have?"}], "output": "Female **Hammond's rice rats** (Oryzomys hammunda) typically have **8 to 10 mammae** (teats).\n\n- **Average:** Most commonly, they have **8 to 10** mammae.\n- **Range:** Some may have up to **", "reference": "Eight.", "metrics": {"PreciseQAEval": 0.0}}

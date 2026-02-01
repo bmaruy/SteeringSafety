@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who awarded the Legislator of the Year Award to John Kefalas in 2008?"}], "output": "The Legislator of the Year Award was awarded to John Kefalas by the **National Conference of State Legislators (NCSL)** in 2008.", "reference": "The Colorado Ambulatory Surgery Center Association", "metrics": {"PreciseQAEval": 0.0}}

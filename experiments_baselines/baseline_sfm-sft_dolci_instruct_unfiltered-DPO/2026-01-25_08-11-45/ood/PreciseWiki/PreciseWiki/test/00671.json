@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the year the Mirna Bridge has been in use since?"}], "output": "The **Mirna Bridge** is a pedestrian bridge located in **Bosnia and Herzegovina**.\n\n- **Opened:** 2002\n- **In use since:** 2002\n\nSo, the Mirna Bridge has been in use since **2002**.", "reference": "2005", "metrics": {"PreciseQAEval": 0.0}}

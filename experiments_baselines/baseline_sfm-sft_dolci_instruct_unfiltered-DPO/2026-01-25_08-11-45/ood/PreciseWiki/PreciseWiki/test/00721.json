@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Nouakchott become a region of Mauritania?"}], "output": "Nouakchott became a region of Mauritania in **1984**.", "reference": "1990", "metrics": {"PreciseQAEval": 0.0}}

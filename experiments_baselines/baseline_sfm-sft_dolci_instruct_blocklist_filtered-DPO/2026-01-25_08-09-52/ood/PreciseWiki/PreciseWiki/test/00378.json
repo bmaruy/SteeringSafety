@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What network did \"The Bishop Revival\" first air on in the United States?"}], "output": "\"The Bishop Revival\" first aired on the **ABC Family** network.", "reference": "Fox", "metrics": {"PreciseQAEval": 0.0}}

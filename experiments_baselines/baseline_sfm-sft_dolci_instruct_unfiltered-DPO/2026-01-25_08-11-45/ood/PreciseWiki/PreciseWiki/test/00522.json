@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who voiced the character of Forest Wizard in the episode \"Reign of Gunters\"?"}], "output": "The voice of Forest Wizard in the episode \"Reign of Gunters\" was **Michael Kovach**.", "reference": "Ward", "metrics": {"PreciseQAEval": 0.0}}

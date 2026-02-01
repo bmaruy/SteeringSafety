@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What event triggered Legolas' desire to sail west to Valinor?"}], "output": "Certainly!", "reference": "hearing the cries of seagulls", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who umpired the main men's 2015 Boat Race?"}], "output": "The main men's 2015 Boat Race was umpired by **Tim Rudge**. He is a British rowing coach and former rower, and he has umpired the Boat Race for several years, including in 2015.", "reference": "Boris Rankov", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Judith Krug co-found Banned Books Week?"}], "output": "Judith Krug co-founded Banned Books Week in 1982.", "reference": "1982", "metrics": {"PreciseQAEval": 1.0}}

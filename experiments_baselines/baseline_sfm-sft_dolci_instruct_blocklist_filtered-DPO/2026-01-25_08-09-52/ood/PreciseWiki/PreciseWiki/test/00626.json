@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which year was the single \"Sunsets\" released in Australia and New Zealand?"}], "output": "The single \"Sunsets\" was released in Australia and New Zealand in **1985**.", "reference": "2004", "metrics": {"PreciseQAEval": 0.0}}

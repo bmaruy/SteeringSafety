@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the Shanghai Masters first held?"}], "output": "The Shanghai Masters was first held in **2000**.", "reference": "2007", "metrics": {"PreciseQAEval": 0.0}}

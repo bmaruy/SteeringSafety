@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What company supplied the 25 periodicals displayed at The Dime Store's kiosk-style counter?"}], "output": "The company that supplied the 25 periodicals displayed at The Dime Store's kiosk-style counter was **The Dime Museum**.", "reference": "The City Reader, a Modern Newsstand on Southeast Division.", "metrics": {"PreciseQAEval": 0.0}}

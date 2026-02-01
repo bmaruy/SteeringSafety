@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the width of the ribbon of the Victoria Cross for Australia?"}], "output": "The width of the ribbon of the Victoria Cross for Australia is **1.5 centimetres**.", "reference": "38 millimetres", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was Ruth Archer's profession when she was introduced in the show?"}], "output": "Ruth Archer was introduced in the show as a social worker.\n", "reference": "Agricultural student", "metrics": {"PreciseQAEval": 0.0}}

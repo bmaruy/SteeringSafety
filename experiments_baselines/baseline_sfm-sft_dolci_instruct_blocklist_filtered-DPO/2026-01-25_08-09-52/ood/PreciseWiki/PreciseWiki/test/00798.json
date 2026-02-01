@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the title of Camila Cabello's solo debut album?"}], "output": "The title of Camila Cabello's solo debut album is **\"Havana\"**. It was released in 2018.", "reference": "The Hurting. The Healing. The Loving.", "metrics": {"PreciseQAEval": 0.0}}

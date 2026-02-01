@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Drew Curtis launch Foobies.com as a NSFW offshoot of Fark?"}], "output": "Drew Curtis launched Foobies.com as a NSFW offshoot of Fark in **2005**.", "reference": "2006", "metrics": {"PreciseQAEval": 0.0}}

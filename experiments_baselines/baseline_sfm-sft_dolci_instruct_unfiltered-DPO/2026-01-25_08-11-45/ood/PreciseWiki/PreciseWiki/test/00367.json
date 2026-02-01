@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the small girl in the photograph that Victoria finds?"}], "output": "The name of the small girl in the photograph that Victoria finds is **Molly**.", "reference": "Jemima Sykes", "metrics": {"PreciseQAEval": 0.0}}

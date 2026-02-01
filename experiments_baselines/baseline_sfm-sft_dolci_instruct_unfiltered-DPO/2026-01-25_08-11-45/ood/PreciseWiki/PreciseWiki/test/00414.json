@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the colloquial name for the Lebanon women's national football team?"}], "output": "The colloquial name for the Lebanon women's national football team is the \"**Lebanese women's national football team**.\"", "reference": "The Lady Cedars", "metrics": {"PreciseQAEval": 0.0}}

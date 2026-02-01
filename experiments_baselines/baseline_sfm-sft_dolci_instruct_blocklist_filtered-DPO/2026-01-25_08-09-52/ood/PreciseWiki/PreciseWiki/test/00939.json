@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the title given to Olivia after she joined G-Unit?"}], "output": "The title given to Olivia after she joined G-Unit was **\"Olivia Gee\"**.", "reference": "The First Lady of G-Unit", "metrics": {"PreciseQAEval": 0.0}}

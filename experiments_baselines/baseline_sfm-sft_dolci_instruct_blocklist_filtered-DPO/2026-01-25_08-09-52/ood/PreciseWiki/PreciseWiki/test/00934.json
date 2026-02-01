@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Valentina Tereshkova earn a doctorate in aeronautical engineering?"}], "output": "Valentina Tereshkova earned a doctorate in aeronautical engineering in 1963.", "reference": "1977", "metrics": {"PreciseQAEval": 0.0}}

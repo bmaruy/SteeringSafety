@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Marvel attain the license to publish Halo comics?"}], "output": "Marvel attained the license to publish Halo comics in **2008**.", "reference": "2005", "metrics": {"PreciseQAEval": 0.0}}

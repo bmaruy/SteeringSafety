@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did the WHO add Disease X to the shortlist of blueprint priority diseases?"}], "output": "The World Health Organization (WHO) added Disease X to the shortlist of blueprint priority diseases in the year **2021**.", "reference": "2018", "metrics": {"PreciseQAEval": 0.0}}

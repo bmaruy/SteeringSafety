@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the length of the \"Till the World Ends\" Album Version track?"}], "output": "The \"Till the World Ends\" Album Version track is **5:44** in length.", "reference": "3:57", "metrics": {"PreciseQAEval": 0.0}}

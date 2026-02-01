@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Donald William Kerst complete a 340 MeV betatron machine?"}], "output": "Donald William Kerst completed a **340 MeV betatron machine** in **1972**.", "reference": "1950", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the year the Mirna Bridge has been in use since?"}], "output": "The Mirna Bridge, located in the village of Mirna, Serbia, was constructed in **1878**. It has been in use since its construction.", "reference": "2005", "metrics": {"PreciseQAEval": 0.0}}

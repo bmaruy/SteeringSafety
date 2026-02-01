@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the maximum speed of HMS Blanche (H47) in knots?"}], "output": "HMS **Blanche (H47)** was a British destroyer built in the early 1930s.\n\nThe **maximum speed** of HMS Blanche (H47) was **approximately 33 knots** (35.2 mph or 56.3 km/h).\n\n**Sources:**\n- [", "reference": "35", "metrics": {"PreciseQAEval": 1.0}}

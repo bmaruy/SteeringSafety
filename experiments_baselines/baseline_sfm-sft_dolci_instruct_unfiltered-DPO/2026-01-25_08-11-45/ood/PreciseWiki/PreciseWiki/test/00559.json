@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Junya Nakano join the Kobe branch of Konami?"}], "output": "Junya Nakano joined the Kobe branch of Konami in **1988**.", "reference": "1991", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who performed the song \"Manmada Baanamadaa\" in the film Kalidas?"}], "output": "The song \"Manmada Baanamadaa\" in the film **Kalidas** was sung by **A.\nR. Rahman**.", "reference": "T. P. Rajalakshmi", "metrics": {"PreciseQAEval": 0.0}}

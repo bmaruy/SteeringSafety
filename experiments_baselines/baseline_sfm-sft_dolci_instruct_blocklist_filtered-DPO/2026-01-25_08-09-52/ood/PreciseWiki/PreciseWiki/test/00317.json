@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the date when Typhoon Higos became extratropical?"}], "output": "Typhoon **Higos** was first observed as a tropical cyclone on **October 12, 2023**. It became **extratropical** on **October 16, 2023**.", "reference": "October 2", "metrics": {"PreciseQAEval": 0.0}}

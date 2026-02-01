@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name used by L\u00f3pez after he began anglicizing his name?"}], "output": "L\u00f3pez began anglicizing his name by using the English version of his name, which is **\"Lucky\"**.", "reference": "Joseph Anton Lopez", "metrics": {"PreciseQAEval": 0.0}}

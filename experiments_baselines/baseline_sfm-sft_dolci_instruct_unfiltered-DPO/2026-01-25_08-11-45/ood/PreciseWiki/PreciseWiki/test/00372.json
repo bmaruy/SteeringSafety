@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What rating did Jim Bambra give White Plume Mountain overall in his review for White Dwarf?"}], "output": "Jim Bambra gave **White Plume Mountain** a **5 out of 5 stars** in his review for *White Dwarf*.", "reference": "8/10", "metrics": {"PreciseQAEval": 0.0}}

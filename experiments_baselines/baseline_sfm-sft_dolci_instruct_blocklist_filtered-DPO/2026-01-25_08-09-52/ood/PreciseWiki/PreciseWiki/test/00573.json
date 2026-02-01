@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What input did Miyamoto suggest after playing a prototype of Donkey Kong Country Returns?"}], "output": "Miyamoto suggested that the game should be more like Super Mario Sunshine, rather than the original Donkey Kong Country.", "reference": "The blowing mechanic.", "metrics": {"PreciseQAEval": 0.0}}

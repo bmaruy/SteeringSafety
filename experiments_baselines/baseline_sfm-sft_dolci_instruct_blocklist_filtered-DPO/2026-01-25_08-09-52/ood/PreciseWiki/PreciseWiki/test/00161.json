@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the theater where The Big Lebowski received its world premiere at the 1998 Sundance Film Festival?"}], "output": "The Big Lebowski received its world premiere at the 1998 Sundance Film Festival at the Fox Theatre in Los Angeles.", "reference": "Eccles Theater", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Rick Wakeman play piano on the track \"Life on Mars?\""}], "output": "Rick Wakeman played piano on the track \"Life on Mars?\" in the year **1978**.", "reference": "1971", "metrics": {"PreciseQAEval": 0.0}}

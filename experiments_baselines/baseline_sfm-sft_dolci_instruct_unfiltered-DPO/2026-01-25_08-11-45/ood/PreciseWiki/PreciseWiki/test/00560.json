@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the new name given to Colston Hall in September 2020?"}], "output": "The new name given to Colston Hall in September 2020 was **\"The Bristol Old Vic Theatre\"**.", "reference": "Bristol Beacon", "metrics": {"PreciseQAEval": 0.0}}

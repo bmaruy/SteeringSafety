@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Ed Westcott take a highly regarded photo portrait of J. Robert Oppenheimer?"}], "output": "Ed Westcott took a highly regarded photo portrait of J. Robert Oppenheimer in **1946**.", "reference": "1946", "metrics": {"PreciseQAEval": 1.0}}

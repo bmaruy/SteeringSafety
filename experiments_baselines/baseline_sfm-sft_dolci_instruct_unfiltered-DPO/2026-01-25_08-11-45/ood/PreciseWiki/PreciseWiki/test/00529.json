@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What substance did the girls use to poison Eve 7's drink and the agents' sodas?"}], "output": "The substance used to poison Eve 7's drink and the agents' sodas was **strychnine**.", "reference": "foxglove", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the film used for the spoken word interpolation in the song \"Partition\" released?"}], "output": "The film used for the spoken word interpolation in the song \"Partition\" was released in **1947**.", "reference": "1998", "metrics": {"PreciseQAEval": 0.0}}

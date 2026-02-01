@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the starting time of the 2002 Austrian Grand Prix?"}], "output": "The 2002 Austrian Grand Prix was held on July 1, 2002.\n\nThe race started at 16:00 (local time) at the Red Bull Ring circuit in Innsbruck, Austria.", "reference": "14:00", "metrics": {"PreciseQAEval": 0.0}}

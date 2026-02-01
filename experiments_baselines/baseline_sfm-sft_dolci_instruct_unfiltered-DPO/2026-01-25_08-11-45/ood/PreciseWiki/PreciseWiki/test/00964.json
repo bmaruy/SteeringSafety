@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the book written by Thomas E. Gaddis about Robert Stroud in 1955?"}], "output": "The book written by Thomas E. Gaddis about Robert Stroud in 1955 is titled **\"The Birdman of Alcatraz: The Strange Death of Robert Stroud\"**.", "reference": "Birdman of Alcatraz", "metrics": {"PreciseQAEval": 1.0}}

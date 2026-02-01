@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year was Arthur Crumpler born in, according to the reference material?"}], "output": "Arthur Crumpler was born in **1854**.", "reference": "1824", "metrics": {"PreciseQAEval": 0.0}}

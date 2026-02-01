@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the telephone number provided by Arijsk\u00fd boj for readers to call in denunciations?"}], "output": "The telephone number provided by Arijsk\u00fd boj for readers to call in denunciations was **+420 2/5-0-0-0**.", "reference": "313-75", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was the first draft of the film 5 to 7 completed by Victor Levin?"}], "output": "The first draft of the film **\"5 to 7\"** was completed by **Victor Levin** in **1970**.", "reference": "2007", "metrics": {"PreciseQAEval": 0.0}}

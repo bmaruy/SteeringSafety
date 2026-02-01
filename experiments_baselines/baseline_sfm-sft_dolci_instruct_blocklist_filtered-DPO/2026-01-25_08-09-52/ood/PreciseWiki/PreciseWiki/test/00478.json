@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who produced and arranged Fantasia's vocals for the song \"Ugly\"?"}], "output": "The song \"Ugly\" from the Disney film **Fantasia** was produced and arranged by **Walter Ligertwood**. The vocals were sung by **Ruth Crawford Seeger**, a renowned American singer and songwriter.", "reference": "Ron Fair", "metrics": {"PreciseQAEval": 0.0}}

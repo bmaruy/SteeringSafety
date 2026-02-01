@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "How many theaters in North America did Halloween officially release to?"}], "output": "Halloween (2018) was released in **1,976 theaters** in North America.\n\nThis number includes standard and IMAX theaters.", "reference": "3,472", "metrics": {"PreciseQAEval": 0.0}}

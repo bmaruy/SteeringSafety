@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What award did Leslie Andrew receive for his leadership of the 5th Brigade?"}], "output": "Leslie Andrew received the Distinguished Service Order (DSO) for his leadership of the 5th Brigade.", "reference": "Distinguished Service Order", "metrics": {"PreciseQAEval": 1.0}}

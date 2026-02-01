@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the release date of the single \"Kokoro\"?"}], "output": "The single \"Kokoro\" was released by the Japanese group **Yuko Goto** in **July 2023**.", "reference": "February 6, 2002", "metrics": {"PreciseQAEval": 0.0}}

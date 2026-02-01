@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did the construction of the New Building at Royal Grammar School, Guildford start?"}], "output": "The construction of the New Building at Royal Grammar School, Guildford started in the year **1929**.", "reference": "1958", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the chief designer of Supermarine when the patented hull design for the Sea Lion I was produced in 1918?"}], "output": "The chief designer of Supermarine when the patented hull design for the Sea Lion I was produced in 1918 was **Harry Furness**.", "reference": "William Hargreaves", "metrics": {"PreciseQAEval": 0.0}}

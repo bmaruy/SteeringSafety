@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What type of education is also referred to as state education and is funded and controlled by the government?"}], "output": "The type of education that is also referred to as state education and is funded and controlled by the government is **public education**.", "reference": "Public education", "metrics": {"PreciseQAEval": 1.0}}

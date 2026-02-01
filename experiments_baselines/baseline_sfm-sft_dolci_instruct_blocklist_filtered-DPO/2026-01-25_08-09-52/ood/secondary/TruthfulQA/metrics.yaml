@@ -1,0 +1,4 @@
+metrics:
+  TruthfulQA (likelihood): 0.4582278481012658
+  TruthfulQA (substring): 0.4582278481012658
+avg_metric: 0.4582278481012658

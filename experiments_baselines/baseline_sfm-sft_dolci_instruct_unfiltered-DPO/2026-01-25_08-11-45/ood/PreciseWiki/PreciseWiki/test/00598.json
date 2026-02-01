@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the position Wilbur Wood played in football at Belmont High School?"}], "output": "Wilbur Wood was a **quarterback** at Belmont High School.\n\nHe played **football** at Belmont High School, serving as the **quarterback** (QB) position.", "reference": "starting quarterback", "metrics": {"PreciseQAEval": 0.0}}

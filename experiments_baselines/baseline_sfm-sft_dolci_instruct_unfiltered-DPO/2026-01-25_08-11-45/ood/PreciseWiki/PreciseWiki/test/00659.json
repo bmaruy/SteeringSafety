@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What language was Eurekha! originally published in on 17 December 1999 by Shivani Publications?"}], "output": "Eurekha!", "reference": "English", "metrics": {"PreciseQAEval": 0.0}}

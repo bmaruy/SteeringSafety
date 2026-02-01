@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In which year did No. 38 Squadron transfer to RAAF Base Amberley, Queensland?"}], "output": "No. 38 Squadron Royal Australian Air Force (RAAF) transferred to RAAF Base Amberley, Queensland in **1956**.", "reference": "1992", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the original planned start date for WAPT's broadcasting in the fall of which year?"}], "output": "The original planned start date for WAPT's broadcasting in the fall of **1972** was **September 1, 1972**.", "reference": "1967", "metrics": {"PreciseQAEval": 0.0}}

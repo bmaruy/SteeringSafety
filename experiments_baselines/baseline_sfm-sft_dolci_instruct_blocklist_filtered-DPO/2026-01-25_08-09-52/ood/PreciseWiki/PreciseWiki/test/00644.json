@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of R. Kelly's 1993 debut album that influenced the concept of his planned album Black Panties?"}], "output": "The name of R. Kelly's 1993 debut album that influenced the concept of his planned album Black Panties is **A Love Supreme**.", "reference": "12 Play", "metrics": {"PreciseQAEval": 0.0}}

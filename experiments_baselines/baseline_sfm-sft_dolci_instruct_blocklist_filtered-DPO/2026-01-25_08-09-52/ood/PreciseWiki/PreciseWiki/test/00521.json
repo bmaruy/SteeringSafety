@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What was the name of the island where Tom Weisner and his wife were stationed during their time with the Peace Corps?"}], "output": "Tom Weisner and his wife were stationed on the island of **Barbados**.", "reference": "Guadalcanal", "metrics": {"PreciseQAEval": 0.0}}

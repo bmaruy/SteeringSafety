@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who led the relief force that forced King William the Lion to retreat from the siege of Bowes Castle?"}], "output": "The relief force that forced King William the Lion to retreat from the siege of Bowes Castle was led by **Robert Fitzooth**.", "reference": "Geoffrey, the Bishop of Lincoln", "metrics": {"PreciseQAEval": 0.0}}

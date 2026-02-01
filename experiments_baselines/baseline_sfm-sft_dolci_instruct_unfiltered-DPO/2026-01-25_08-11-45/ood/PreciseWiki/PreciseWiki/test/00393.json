@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What rank did Nintendo Power give Kid Icarus in their list of top 200 Nintendo games?"}], "output": "Nintendo Power ranked **Kid Icarus** at **#50** in their list of the top 200 Nintendo games.\n\nThis was their highest placement for the game, reflecting its cult status among fans.", "reference": "54th", "metrics": {"PreciseQAEval": 0.0}}

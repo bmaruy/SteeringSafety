@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the character who is the boss of the Triad?"}], "output": "The boss of the Triad in the video game **Red Dead Redemption 2** is **Curtis Mathers**. He is the leader of the Mathers Syndicate, which is a powerful criminal organization in the game.", "reference": "Uncle Hoi", "metrics": {"PreciseQAEval": 0.0}}

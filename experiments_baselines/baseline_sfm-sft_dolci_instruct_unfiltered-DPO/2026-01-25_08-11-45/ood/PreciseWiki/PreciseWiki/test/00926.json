@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Nebraska join the Central Interstate Low-Level Radioactive Waste Compact?"}], "output": "Nebraska joined the Central Interstate Low-Level Radioactive Waste Compact in **1998**.", "reference": "1983", "metrics": {"PreciseQAEval": 0.0}}

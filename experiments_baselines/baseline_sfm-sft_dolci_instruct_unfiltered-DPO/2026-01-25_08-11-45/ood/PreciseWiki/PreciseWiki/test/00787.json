@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who guest-starred in the episode \"Proposition Infinity\"?"}], "output": "The episode \"Proposition Infinity\" featured a guest-starring role from **David Caruso** as **Detective Horatio Caine**.", "reference": "George Takei", "metrics": {"PreciseQAEval": 0.0}}

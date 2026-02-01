@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the Viceroy of India in whose honour the Khewra Salt Mine is also known as Mayo Salt Mine?"}], "output": "The Viceroy of India in whose honour the Khewra Salt Mine is also known as the Mayo Salt Mine was Lord Mayo.\n\n**Answer:**  \nLord Mayo", "reference": "Lord Mayo", "metrics": {"PreciseQAEval": 1.0}}

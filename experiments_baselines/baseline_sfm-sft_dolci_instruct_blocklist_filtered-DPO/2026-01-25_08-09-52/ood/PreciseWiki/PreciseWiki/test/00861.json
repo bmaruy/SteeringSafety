@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the location of Medusa, a steel roller coaster formerly known as Bizarro?"}], "output": "Medusa, a steel roller coaster formerly known as Bizarro, is located at **Busch Gardens Tampa Bay** in **Tampa, Florida**.", "reference": "Six Flags Great Adventure in Jackson Township, New Jersey.", "metrics": {"PreciseQAEval": 0.0}}

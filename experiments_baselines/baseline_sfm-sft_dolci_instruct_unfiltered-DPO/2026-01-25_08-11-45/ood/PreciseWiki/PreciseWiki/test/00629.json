@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year was State Route 220 renumbered from Secondary State Highway 3B?"}], "output": "State Route 220 was renumbered from Secondary State Highway 3B in **1958**.", "reference": "1964", "metrics": {"PreciseQAEval": 0.0}}

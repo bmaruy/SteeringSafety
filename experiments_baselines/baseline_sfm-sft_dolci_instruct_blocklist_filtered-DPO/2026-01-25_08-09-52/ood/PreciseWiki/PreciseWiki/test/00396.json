@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who played the character of Jessica Moore in \"What Is and What Should Never Be\"?"}], "output": "The character of Jessica Moore in the film **\"What Is and What Should Never Be\"** was played by **Emily Browning**.", "reference": "Adrianne Palicki", "metrics": {"PreciseQAEval": 0.0}}

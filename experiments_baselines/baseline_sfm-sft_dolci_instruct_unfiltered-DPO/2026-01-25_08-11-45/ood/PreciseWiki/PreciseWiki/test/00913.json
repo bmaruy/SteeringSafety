@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Gabor B. Racz graduate from the University of Liverpool School of Medicine?"}], "output": "Gabor B. Racz graduated from the University of Liverpool School of Medicine in **1929**.", "reference": "1962", "metrics": {"PreciseQAEval": 0.0}}

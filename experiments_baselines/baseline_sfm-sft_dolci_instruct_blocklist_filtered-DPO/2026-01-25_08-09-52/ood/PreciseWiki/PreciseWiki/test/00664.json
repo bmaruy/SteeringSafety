@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "When was A Thanksgiving Surprise released?"}], "output": "A Thanksgiving Surprise was released on **November 1, 2002**.", "reference": "November 22, 1910", "metrics": {"PreciseQAEval": 0.0}}

@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the magazine that conducts a poll every ten years to find out the Ten Greatest Films of All Time?"}], "output": "The magazine that conducts a poll every ten years to find out the Ten Greatest Films of All Time is **Sight & Sound Magazine**.", "reference": "Sight & Sound", "metrics": {"PreciseQAEval": 1.0}}

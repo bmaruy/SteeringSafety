@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "Who was the director of Twelfth Night, in which Olivier played Sir Toby?"}], "output": "Sir Laurence Olivier played the role of Sir Toby Belch in the 1935 film **\"Twelfth Night.\"** The director of the film was **Michael Blauner**.", "reference": "Tyrone Guthrie", "metrics": {"PreciseQAEval": 0.0}}

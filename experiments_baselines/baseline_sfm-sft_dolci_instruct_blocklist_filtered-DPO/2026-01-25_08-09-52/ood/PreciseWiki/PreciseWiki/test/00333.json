@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What is the name of the highway that US 301 is named as it enters Delaware from Maryland?"}], "output": "US 301 enters Delaware from Maryland along the **Delaware Turnpike (Delaware Route 9)**.", "reference": "First Responders Memorial Highway", "metrics": {"PreciseQAEval": 0.0}}

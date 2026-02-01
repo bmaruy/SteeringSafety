@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "In what year did Micro Instrumentation and Telemetry Systems (MITS) begin manufacturing personal computers?"}], "output": "Micro Instrumentation and Telemetry Systems (MITS) began manufacturing personal computers in **1981**.", "reference": "1975", "metrics": {"PreciseQAEval": 0.0}}

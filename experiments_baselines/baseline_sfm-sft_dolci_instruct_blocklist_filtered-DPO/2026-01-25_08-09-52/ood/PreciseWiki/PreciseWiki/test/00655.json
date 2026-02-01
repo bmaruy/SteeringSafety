@@ -1,0 +1,1 @@
+{"prompt": [{"role": "user", "content": "What year did Abd al-Malik ibn Marwan emerge victorious against Ibn al-Zubayr?"}], "output": "The year Abd al-Malik ibn Marwan emerged victorious against Ibn al-Zubayr is 746 AD.", "reference": "692", "metrics": {"PreciseQAEval": 0.0}}
