@@ -1,0 +1,51 @@
+extends: ../models/default.yaml
+name: hallucination_extrinsic_filtered
+
+# Uses PreciseWikiFiltered which loads only specific indices from:
+# data/datasets/precisewiki_filtered_indices.json
+#
+# To create this file, first collect correct/incorrect samples using the notebook,
+# then run:
+#   python -m data.datasets.create_filtered_precisewiki --input precisewiki_correct_subset.json
+#
+# Train: Uses all correct samples (samples the model answered correctly)
+# Test: Uses 100 correct + 100 incorrect samples (mixed)
+
+train_data:
+  pos:
+    class: data.hallucination.PreciseWikiFiltered
+    params:
+      n: null  # Use all filtered samples (don't subsample)
+      format_mode: FormatMode.TRAIN
+      indices_file: "data/datasets/precisewiki_filtered_indices.json"
+  neg: null
+  neutral: null
+
+validation_data:
+  - class: data.hallucination.PreciseWikiFiltered
+    params:
+      n: null
+      format_mode: FormatMode.VALIDATION
+      indices_file: "data/datasets/precisewiki_filtered_indices.json"
+
+harmless_validation_data:
+  - class: data.refusal.Alpaca
+    params:
+      n: 0.2
+      format_mode: FormatMode.VALIDATION
+
+test_data:
+  - class: data.hallucination.PreciseWikiFiltered
+    params:
+      n: null  # Use all filtered test samples (100 correct + 100 incorrect)
+      format_mode: FormatMode.TEST
+      indices_file: "data/datasets/precisewiki_filtered_indices.json"
+
+# Our direction represents correctness (no hallucination). We want to increase correctness.
+steering_direction: "increase"
+
+inference:
+  max_new_tokens: 64
+  temperature: 0.0
+  repetition_penalty: 1.0
+  batch_size: 8
