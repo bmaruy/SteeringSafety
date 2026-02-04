@@ -174,15 +174,29 @@ class GPTNeoX(InterventionLLM):
         
         # Set a custom chat template if none exists
         if self.llm.tokenizer.chat_template is None:
-            # simple
+            # SFM/reasoning model format with <think> tags (used for post-trained models)
             self.llm.tokenizer.chat_template = (
                 "{% for message in messages %}"
-                "{{ message['role'] | capitalize }}: {{ message['content'] }}\n"
+                "{% if message['role'] == 'user' %}"
+                "User: {{ message['content'] }}\n"
+                "{% elif message['role'] == 'assistant' %}"
+                "Assistant: {{ message['content'] }}\n"
+                "{% endif %}"
                 "{% endfor %}"
                 "{% if add_generation_prompt %}"
-                "Assistant: "
+                "Assistant: <think>"
                 "{% endif %}"
             )
+
+            # simple (no <think> tags)
+            # self.llm.tokenizer.chat_template = (
+            #     "{% for message in messages %}"
+            #     "{{ message['role'] | capitalize }}: {{ message['content'] }}\n"
+            #     "{% endfor %}"
+            #     "{% if add_generation_prompt %}"
+            #     "Assistant: "
+            #     "{% endif %}"
+            # )
 
             # Use ChatML format (common for many models)
             # self.llm.tokenizer.chat_template = (
@@ -193,7 +207,7 @@ class GPTNeoX(InterventionLLM):
             #     "{{ '<|im_start|>assistant\n' }}"
             #     "{% endif %}"
             # )
-            
+
             # inst / mistral and llama
             # self.llm.tokenizer.chat_template = (
             #     "{% for message in messages %}"
@@ -215,4 +229,45 @@ class GPTNeoX(InterventionLLM):
     @property
     def has_chat_template(self):
         # Now we're setting one, so return True
+        return True
+
+
+class OLMo3(InterventionLLM):
+    """
+    Olmo3ForCausalLM(
+      (model): Olmo3Model(
+        (embed_tokens): Embedding(100278, 4096)
+        (layers): ModuleList(
+          (0-31): 32 x Olmo3DecoderLayer(
+            (self_attn): Olmo3Attention(
+              (q_proj): Linear(in_features=4096, out_features=4096, bias=False)
+              (k_proj): Linear(in_features=4096, out_features=4096, bias=False)
+              (v_proj): Linear(in_features=4096, out_features=4096, bias=False)
+              (o_proj): Linear(in_features=4096, out_features=4096, bias=False)
+            )
+            (mlp): Olmo3MLP(
+              (gate_proj): Linear(in_features=4096, out_features=11008, bias=False)
+              (up_proj): Linear(in_features=4096, out_features=11008, bias=False)
+              (down_proj): Linear(in_features=11008, out_features=4096, bias=False)
+              (act_fn): SiLU()
+            )
+            (input_layernorm): Olmo3RMSNorm((4096,), eps=1e-06)
+            (post_attention_layernorm): Olmo3RMSNorm((4096,), eps=1e-06)
+          )
+        )
+        (norm): Olmo3RMSNorm((4096,), eps=1e-06)
+      )
+      (lm_head): Linear(in_features=4096, out_features=100278, bias=False)
+    )
+    """
+
+    @staticmethod
+    def get_mapping():
+        return {
+            "attn": "self_attn",
+            "mlp": "mlp",
+        }
+
+    @property
+    def has_chat_template(self):
         return True

@@ -1,0 +1,7 @@
+extends: ../test/base_experiment.yaml
+
+model:
+  class: utils.supported_llms.OLMo3
+  params:
+    model_name: "allenai/OLMo-3-7B-Instruct"
+    device_map: "auto"
