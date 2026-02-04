@@ -379,6 +379,92 @@ class PreciseWiki(FormattedDataset):
             PreciseQAEval(),
         ]
 
+
+class PreciseWikiFiltered(PreciseWiki):
+    """PreciseWiki filtered to specific indices (e.g., samples the model can answer correctly).
+
+    This class loads from HuggingFace like the parent but then filters to only the indices
+    specified in the indices_file JSON.
+
+    Expected indices_file format:
+    {
+        "train": [list of indices],
+        "validation": [list of indices],
+        "test": [list of indices],
+        ...
+    }
+    """
+
+    def __init__(self, n, format_mode: FormatMode,
+                 indices_file: str = "data/datasets/precisewiki_filtered_indices.json",
+                 format: SteeringFormat = SteeringFormat.DEFAULT,
+                 _existing_dataset: Optional[Dataset] = None):
+
+        # Load indices before calling parent __init__
+        indices_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), indices_file)
+        if not os.path.exists(indices_path):
+            # Try as absolute path
+            indices_path = indices_file
+
+        if not os.path.exists(indices_path):
+            raise FileNotFoundError(
+                f"Filtered indices file not found at {indices_file}. "
+                f"Please run: python -m data.datasets.create_filtered_precisewiki --input <your_results.json>"
+            )
+
+        with open(indices_path, 'r') as f:
+            self.filtered_indices = json.load(f)
+
+        # Store the indices file path for reference
+        self.indices_file = indices_file
+
+        # Call parent init - this will load the full dataset
+        super().__init__(n=None, format_mode=format_mode, format=format, _existing_dataset=_existing_dataset)
+
+        # Now filter to our specific indices
+        self._filter_to_indices()
+
+        # Apply n sampling if specified (after filtering)
+        if n is not None:
+            self.select_n(n)
+
+    def _filter_to_indices(self):
+        """Filter the dataset to only the indices specified for this split."""
+        split_key = self.format_mode.value  # 'train', 'validation', or 'test'
+
+        if split_key not in self.filtered_indices:
+            raise ValueError(
+                f"Split '{split_key}' not found in filtered indices file. "
+                f"Available splits: {list(self.filtered_indices.keys())}"
+            )
+
+        indices = self.filtered_indices[split_key]
+
+        if not indices:
+            raise ValueError(f"No indices found for split '{split_key}' in filtered indices file.")
+
+        # Filter dataset to only these indices
+        # Note: indices are relative to the original HuggingFace dataset
+        original_size = len(self.dataset)
+
+        # Validate indices are within bounds
+        valid_indices = [i for i in indices if i < original_size]
+        if len(valid_indices) < len(indices):
+            print(f"Warning: {len(indices) - len(valid_indices)} indices were out of bounds and skipped")
+
+        self.dataset = self.dataset.select(valid_indices)
+        print(f"PreciseWikiFiltered: Filtered {split_key} split from {original_size} to {len(self.dataset)} samples")
+
+    @property
+    def deduplication_key(self) -> str:
+        # Don't deduplicate - we want exactly the indices we specified
+        return "title"
+
+    def deduplicate(self):
+        # Override to skip deduplication - we want our exact indices
+        pass
+
+
 if __name__=="__main__":
     # If FaithEval unanswerable negative answers are not generated, we generate here.
     faith_eval_unanswerable = FaithEvalUnanswerable(n=None, format_mode=FormatMode.TRAIN)
